@@ -64,4 +64,3 @@ window.captureEvents(Event.CLICK);
 }
 window.onClick = handleClick;
 adMessage("");
-
