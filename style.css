@@ -1,0 +1,181 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: rgb(131, 58, 180, .8);
+  --secondary-color: rgb(0, 0, 0,0);
+  --complimentary-color: rgb(193, 53, 132, .8);
+  --contrast-color: rgb(225, 48, 108, .8);
+  --light-color: rgb(64, 93, 230, .8);
+  --bg-color: rgb(88, 81, 219, .8);
+}
+
+body {
+  line-height: 1;
+  font-size: 18px;
+}
+
+p {
+  margin: 20px auto;
+  max-width: 600px;
+  font-size: 12px;
+  }
+
+.p1 {
+  line-height: 150%;
+  
+  }
+
+.p2 {
+  line-height: 200%;
+}
+
+.p3 {
+  line-height: 250%;
+}
+.container {
+  
+  background-image: url("https://raw.githubusercontent.com/murid-nakal/Donelfantastic/main/Donelfantastic_50.png");
+  
+  background-size: cover;             
+  background-repeat:   no-repeat;
+  background-position: center center ;
+  font-family: "Montserrat, sans-serif";
+  height: 100vh;
+  /*display: flex;
+  flex-direction: column;*/
+  align-items: center;
+  justify-content: center;
+  
+}
+
+/*Pengaturan Menu*/
+menu-nav a {
+  font-size: 30px;
+  line-height: 2;
+  color: #fff;
+  text-decoration: none;
+  padding: 20px;
+  text-align: center;
+}
+
+menu-nav {
+  position: fixed;
+  left: 0;
+  z-index: 50;
+  display: flex;
+  flex-direction: column;
+  justify-content: top;
+  height: 100vh;
+  background: var(--secondary-color);
+}
+ 
+menu-nav a:hover {
+  background-color: #ffc0cb;
+  }
+
+section {
+  position: fixed;
+  top: 0;
+  height: 100vh;
+  width: 0;
+  opacity: 0;
+ /* transition: all ease-in .5s;*/
+  display: flex;
+ /* justify-content: center;
+  align-items: center;*/
+}
+
+section h1 {
+  color: #fff;
+  padding-top: 55px;
+  padding-right: 35px;
+  padding-bottom: 50px;
+  padding-left: 140px;
+  font-size: 40px;
+  text-transform: none;
+  opacity: 0;
+}
+
+section h2 {
+  color: #fff;
+  font-size: 18px;
+  text-transform: none;
+  opacity: 0;
+}
+
+
+/* Styles applied on trigger */
+section:target {
+  opacity: 1;
+  position: fixed;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+}
+
+section:target h1, h2 {
+  opacity: 0;
+  animation: .1s fadeIn forwards .1s;
+}
+
+
+/*Pengaturan Halaman Satu*/
+
+#home {
+ /* background: var(--bg-color);*/
+  height: 100vh;
+  display: flex;
+}
+
+#kosong {
+  background: var(--bg-color);
+  height: 100vh;
+  display: flex;
+}
+
+#satu {
+  background: var(--primary-color);
+  height: 100vh;
+  display: flex;
+}
+
+/*Pengaturan Halaman Dua*/
+#dua {
+  background: var(--complimentary-color);
+  height: 100vh;
+  display: flex;
+}
+
+/*Pengaturan Halaman Tiga*/
+#tiga {
+  background: var(--contrast-color);
+  height: 100vh;
+  display: flex;
+}
+
+/*Pengaturan Halaman Empat*/
+#empat {
+  background: var(--light-color);
+  height: 100vh;
+  display: flex;
+}
+
+@keyframes fadeIn {
+  100% {
+    opacity: .8;
+  }
+ 
+iframe {
+position: absolute;  
+top: 70px;
+bottom: 0px;
+left: 0px;
+right: 0px;
+overflow: hidden;
+  /* coz you need vertical and horizontal scrollbars */
+}
