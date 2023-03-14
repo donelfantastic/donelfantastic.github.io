@@ -22,6 +22,7 @@ p {
   margin: 20px auto;
   max-width: 600px;
   font-size: 12px;
+  position: relative;
   }
 
 .p1 {
@@ -41,7 +42,7 @@ p {
   margin: 0px;
   display: block;
   position: relative;
-  margin-bottom: 1em;
+  margin-bottom: 0px;
   overflow: hidden;
   background-image: url("https://raw.githubusercontent.com/murid-nakal/Donelfantastic/main/Donelfantastic_50.png");
   
