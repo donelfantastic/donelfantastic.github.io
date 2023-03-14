@@ -1,4 +1,3 @@
-
 * {
   margin: 0;
   padding: 0;
@@ -38,7 +37,12 @@ p {
   line-height: 250%;
 }
 .container {
-  
+  padding: 0px;
+  margin: 0px;
+  display: block;
+  position: relative;
+  margin-bottom: 1em;
+  overflow: hidden;
   background-image: url("https://raw.githubusercontent.com/murid-nakal/Donelfantastic/main/Donelfantastic_50.png");
   
   background-size: cover;             
@@ -46,17 +50,18 @@ p {
   background-position: center center ;
   font-family: "Montserrat, sans-serif";
   height: 100vh;
-  /*display: flex;
-  flex-direction: column;*/
   align-items: center;
   justify-content: center;
   
+}
+.resp-container{
+  padding-bottom: 56.25%;
 }
 
 /*Pengaturan Menu*/
 menu-nav a {
   font-size: 30px;
-  line-height: 2;
+  line-height: 1;
   color: #fff;
   text-decoration: none;
   padding: 20px;
@@ -72,6 +77,8 @@ menu-nav {
   justify-content: top;
   height: 100vh;
   background: var(--secondary-color);
+  padding-top: 30px;
+  
 }
  
 menu-nav a:hover {
@@ -82,21 +89,19 @@ section {
   position: fixed;
   top: 0;
   height: 100vh;
-  width: 0;
+  width: auto;
   opacity: 0;
- /* transition: all ease-in .5s;*/
+ /*transition: all ease-in .5s;*/
   display: flex;
- /* justify-content: center;
-  align-items: center;*/
 }
 
 section h1 {
   color: #fff;
-  padding-top: 55px;
+  padding-top: 50px;
   padding-right: 35px;
   padding-bottom: 50px;
-  padding-left: 140px;
-  font-size: 40px;
+  padding-left: 80px;
+  font-size: 30px;
   text-transform: none;
   opacity: 0;
 }
@@ -171,12 +176,3 @@ section:target h1, h2 {
     opacity: .8;
   }
  
-iframe {
-position: absolute;  
-top: 70px;
-bottom: 0px;
-left: 0px;
-right: 0px;
-overflow: hidden;
-  /* coz you need vertical and horizontal scrollbars */
-}
