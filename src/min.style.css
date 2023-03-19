@@ -19,7 +19,7 @@ body {
 .hero {
   height: 100vh;
   width: 100%;
-  background-image: url("./assets/Donelfantastic1.png");
+  background-image: url("./assets/donelfantastic1.png");
   background-size: cover;
   background-position: center center;
 }
