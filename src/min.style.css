@@ -456,11 +456,10 @@ footer p:nth-child(2) {
 }
 
 /*****************************/
-/*
 @media (min-width: 1200px) {
 .container-playlist {
   padding-left: 8%;
-}}*/
+}}
 
 @media (min-width: 992px) {
   .container-playlist {
