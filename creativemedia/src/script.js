@@ -1,8 +1,9 @@
 var player = videojs("preview-player");
 player.eme();
 const keyOptions = {
-  "com.widevine.alpha":"https://drmwidevine.nontonbola.my.id/https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz" 
-    };
+  "com.widevine.alpha":atob('aHR0cHM6Ly9kcm13aWRldmluZS5ub250b25ib2xhLm15LmlkL2h0dHBzOi8vbXJwdy5wdG1uYzAxLnZlcnNwZWN0aXZlLm5ldC8/ZGV2aWNlSWQ9TkRJek1ESmhabVV0WVdSak1pMHpOR0prTFRreU4yRXRZbUUxWkRGbFpXSXdPREV6') 
+    
+};
 
 player.playlist([
   {
