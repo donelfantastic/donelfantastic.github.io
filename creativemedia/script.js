@@ -1,7 +1,7 @@
 var player = videojs("preview-player");
 player.eme();
 const keyOptions = {
-  "com.widevine.alpha":"https%3A%2F%2Fdrmwidevine.nontonbola.my.id%2Fhttps%3A%2F%2Fmrpw.ptmnc01.verspective.net%2F%3FdeviceId%3DNDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz" 
+  "com.widevine.alpha":"https:\/\/drmwidevine.nontonbola.my.id\/https:\/\/mrpw.ptmnc01.verspective.net\/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz" 
     };
 
 player.playlist([
