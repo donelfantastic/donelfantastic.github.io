@@ -1,7 +1,7 @@
 var player = videojs("preview-player");
 player.eme();
 const keyOptions = {
-  "com.widevine.alpha":atob("ICAgIGh0dHBzOi8vZHJtd2lkZXZpbmUubm9udG9uYm9sYS5teS5pZC9odHRwczovL21ycHcucHRtbmMwMS52ZXJzcGVjdGl2ZS5uZXQvP2RldmljZUlkPU5ESXpNREpoWm1VdFlXUmpNaTB6TkdKa0xUa3lOMkV0WW1FMVpERmxaV0l3T0RFeg==") 
+  "com.widevine.alpha":"https%3A%2F%2Fdrmwidevine.nontonbola.my.id%2Fhttps%3A%2F%2Fmrpw.ptmnc01.verspective.net%2F%3FdeviceId%3DNDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz" 
     };
 
 player.playlist([
