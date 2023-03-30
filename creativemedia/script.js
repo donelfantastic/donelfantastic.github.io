@@ -1,7 +1,7 @@
 var player = videojs("preview-player");
 
 player.poster(
-  "./assets/dftv.gif"
+  "https://raw.githubusercontent.com/donelfantastic/donelfantastic.github.io/main/assets/dftv.gif"
 );
 videojs(document.querySelector("video")).playlistUi();
 
