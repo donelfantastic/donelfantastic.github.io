@@ -54,7 +54,21 @@
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="#https://donelfantastic.github.io/creativemedia/intl/astrosp3.m3u8" target="_blank" rel="noopener noreferrer"><img src="#" width="70"></a>
+            <a href="#https://donelfantastic.github.io/creativemedia/intl/btsport1.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.svg" width="70"></a>
+          </td>
+        </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/btsport2.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.svg" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/btsport3.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.svg" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="#https://donelfantastic.github.io/creativemedia/intl/btsportESPN.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/bb/bt-sport-4-uk.svg" width="70"></a>
           </td>
         </tr>
         </td>
