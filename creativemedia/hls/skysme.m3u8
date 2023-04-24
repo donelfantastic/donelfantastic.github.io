@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=913153,RESOLUTION=960x520,CODECS="avc1.64002a,mp4a.40.2"
+http://royx.xyz:80/play/live.php?mac=00:1a:79:b1:05:9e&stream=30496&extension=m3u8
