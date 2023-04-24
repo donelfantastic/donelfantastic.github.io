@@ -18,20 +18,17 @@
         <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a id="name10">BeinSports 1 EN</a><img id="qualitylogo10" width=
-            "20">
+            <a href="https://donelfantastic.github.io/creativemedia/intl/beins1en.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a id="name11">BeinSports 2 EN</a><img id="qualitylogo11" width=
-            "20">
+            <a href="https://donelfantastic.github.io/creativemedia/intl/beins2en.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a id="name12">BeinSports 3 EN</a><img id="qualitylogo12" width=
-            "20">
+            <a href="https://donelfantastic.github.io/creativemedia/intl/beins3en.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" width="70"></a>
           </td>
-        </tr> 
+        </tr>
         </td>
       </tbody>
     </table>
