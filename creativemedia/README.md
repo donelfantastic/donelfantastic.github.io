@@ -4,7 +4,7 @@
         <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins1prem.m3u8" target="_blank" rel="noopener"></a>BeinSports 1 Premium<img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" width="80"/>
+            <button class="btn2 mt-4" href="https://donelfantastic.github.io/creativemedia/intl/beins1prem.m3u8" target="_blank" rel="noopener"></a>BeinSports 1 Premium<img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" width="80"/></button>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
