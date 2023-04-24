@@ -12,7 +12,7 @@
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins3prem.m3u8" target="_blank">BeinSporta 3 Premium</a><img id="qualitylogo2" width="20">
+            <a href="https://donelfantastic.github.io/creativemedia/intl/beins3prem.m3u8" target="_blank">BeinSports 3 Premium</a><img id="qualitylogo2" width="20">
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
