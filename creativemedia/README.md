@@ -90,7 +90,7 @@
     </table>
   </div>
 
-<h2>DVB-S</h2>
+<h2>NEWS</h2>
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
