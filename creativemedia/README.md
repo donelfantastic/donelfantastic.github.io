@@ -82,7 +82,7 @@
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="#https://donelfantastic.github.io/creativemedia/intl/skysportME.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg" width="70"></a>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/skysportME.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg" width="70"></a>
           </td>
         </tr>
         </td>
