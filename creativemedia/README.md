@@ -179,13 +179,14 @@
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:----:|
-| 1   | CNN            | [>]() | <img height="20" src="https://i.imgur.com/vyrc1I1.png"/> |
+| 1   | CNN            | [>](https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8) | <img height="20" src="https://i.imgur.com/vyrc1I1.png"/> |
 | 2   | CNBC           | [>](http://ott-cdn.ucom.am/s65/index.m3u8) | <img height="20" src="https://i.imgur.com/BTasyOy.png"/> |
 | 3   | Bloomberg      | [>](https://www.bloomberg.com/media-manifest/streams/us.m3u8) | <img height="20" src="https://i.imgur.com/VnCcH73.png"/> |
 | 4   | ABC News Live | [>](https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8) | <img height="20" src="https://i.imgur.com/7sJLzKi.png"/> |
-| 5   | CBSN   | [>](https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8) | <img height="20" src="https://i.imgur.com/nki2HDQ.png"/> |
+| 5   | CBSN   | [>](https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+) | <img height="20" src="https://i.imgur.com/nki2HDQ.png"/> |
 | 6   | NBC News Now   | [>](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8) | <img height="20" src="https://i.imgur.com/v48mMRT.png"/> |
-| 7   | Reuters TV   | [>]() | <img height="20" src="https://i.imgur.com/AbvCnoH.png"/> |
+| 7   | Reuters TV   | [>](https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES) | <img height="20" src="https://i.imgur.com/AbvCnoH.png"/> |
 | 8   | NASA TV Public | [>]() | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> |
 | 9   | NASA TV Media  | [>]() | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> |
 
