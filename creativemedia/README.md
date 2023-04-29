@@ -44,7 +44,48 @@
             <a href="https://donelfantastic.github.io/creativemedia/intl/beins3fr.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" width="70"></a>
           </td>
         </tr>
-        
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/beins1qa.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/beins2qa.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/beins3qa.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" width="70"></a>
+          </td>
+        </tr>          
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/beins4qa.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/beins5qa.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/beins6qa.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" width="70"></a>
+          </td>
+        </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/beins7qa.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/beins1qaXTRA.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/beins2qaXTRA.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" width="70"></a>
+          </td>
+        </tr>          
 <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
