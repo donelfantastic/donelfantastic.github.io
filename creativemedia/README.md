@@ -1,4 +1,4 @@
-<h2>SPORTSS</h2>
+<h2>SPORTS</h2>
 <div id="sdiv">
     <table class="table table-dark table-bordered" border="1">
       <tbody>
