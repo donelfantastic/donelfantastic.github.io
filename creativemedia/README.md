@@ -186,8 +186,8 @@
 | 5   | CBSN   | [>](https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8) | <img height="20" src="https://i.imgur.com/nki2HDQ.png"/> |
 | 6   | NBC News Now   | [>](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8) | <img height="20" src="https://i.imgur.com/v48mMRT.png"/> |
 | 7   | Reuters TV   | [>](https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES) | <img height="20" src="https://i.imgur.com/AbvCnoH.png"/> |
-| 8   | NASA TV Public | [>]() | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> |
-| 9   | NASA TV Media  | [>]() | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> |
+| 8   | NASA TV Public | [>](https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> |
+| 9   | NASA TV Media  | [>](https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> |
  
 
 
