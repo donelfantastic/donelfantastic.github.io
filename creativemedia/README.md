@@ -169,8 +169,7 @@
           'text-align:center; vertical-align:middle; font-weight: bold'>
             <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img2.sport-tv-guide.live/images/stations/a2702.png" width="70"></a>
           </td>
-        </tr>                    
-          
+        </tr>
         </td>
       </tbody>
     </table>
