@@ -142,6 +142,35 @@
             <a href="https://donelfantastic.github.io/creativemedia/intl/skysportME.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg" width="70"></a>
           </td>
         </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/dazn1es.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/dazn2es.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://img2.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/daznlaliga.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://img.sport-tv-guide.live/images/stations/a2784.png" width="70"></a>
+          </td>
+        </tr> 
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/dazn1de.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://img2.sport-tv-guide.live/images/stations/a2703.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/dazn2de.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://img2.sport-tv-guide.live/images/stations/a2704.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img2.sport-tv-guide.live/images/stations/a2702.png" width="70"></a>
+          </td>
+        </tr>                    
+          
         </td>
       </tbody>
     </table>
