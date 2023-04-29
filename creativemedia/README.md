@@ -177,16 +177,16 @@
 
 <h2>NEWS</h2>
 
-| #   | Channel        | Link  | Logo | EPG id |
-|:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | CNN            | [>](https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vyrc1I1.png"/> | CNN.us |
-| 2   | CNBC           | [x]() | <img height="20" src="https://i.imgur.com/BTasyOy.png"/> | CNBC.us |
-| 3   | Bloomberg      | [>](https://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8) | <img height="20" src="https://i.imgur.com/VnCcH73.png"/> | BloombergTelevision.us |
-| 4   | ABC News Live | [>](https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8) | <img height="20" src="https://i.imgur.com/7sJLzKi.png"/> | ABCNews.us |
-| 5   | CBSN   | [>](https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8) | <img height="20" src="https://i.imgur.com/nki2HDQ.png"/> | CBSNews.us |
-| 6   | NBC News Now   | [>](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8) | <img height="20" src="https://i.imgur.com/v48mMRT.png"/> | NBCNewsNow.us |
+| #   | Channel        | Link  | Logo |
+|:---:|:--------------:|:-----:|:----:|
+| 1   | CNN            | [>](https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vyrc1I1.png"/> |
+| 2   | CNBC           | [x](https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w795376561_b280000_sleng.m3u8) | <img height="20" src="https://i.imgur.com/BTasyOy.png"/> |
+| 3   | Bloomberg      | [>](https://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8) | <img height="20" src="https://i.imgur.com/VnCcH73.png"/> |
+| 4   | ABC News Live | [>](https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8) | <img height="20" src="https://i.imgur.com/7sJLzKi.png"/> |
+| 5   | CBSN   | [>](https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8) | <img height="20" src="https://i.imgur.com/nki2HDQ.png"/> |
+| 6   | NBC News Now   | [>](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8) | <img height="20" src="https://i.imgur.com/v48mMRT.png"/> |
 | 7   | Reuters TV   | [>](https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AbvCnoH.png"/> |
-| 8   | NASA TV Public | [>](https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> | NASATVPublic.us |
-| 9   | NASA TV Media  | [>](https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> | NASATVMedia.us |
+| 8   | NASA TV Public | [>](https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> |
+| 9   | NASA TV Media  | [>](https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> |
 
 
