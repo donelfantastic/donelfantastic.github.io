@@ -179,15 +179,15 @@
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:----:|
-| 1   | SCTV           | [▶️]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"/> |
-| 2   | INDOSIAR       | [▶️]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png"/> |
-| 3   | MOJI           | [▶️]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png"/> |
-| 4   | KOMPASTV       | [▶️]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/archive/7/7a/20190116042347%21KOMPAS_TV_%282017%29.png"/> |
-| 5   | TVONE          | [▶️]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/> |
-| 6   | NETTV          | [▶️]() | <img height="20" src="https://assets-a1.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png"/> |
-| 7   | TVRI           | [▶️]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png"/> |
-| 8   | TVRI SPORT     | [▶️]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png"/> |
-| 9   | DAAITV         | [▶️]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png"/> |
+| 1   | SCTV           | [▶️](https://donelfantastic.github.io/creativemedia/local/sctvID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"/> |
+| 2   | INDOSIAR       | [▶️](https://donelfantastic.github.io/creativemedia/local/indosiarID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png"/> |
+| 3   | MOJI           | [▶️](https://donelfantastic.github.io/creativemedia/local/mojiID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png"/> |
+| 4   | KOMPASTV       | [▶️](https://donelfantastic.github.io/creativemedia/local/kompasID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/archive/7/7a/20190116042347%21KOMPAS_TV_%282017%29.png"/> |
+| 5   | TVONE          | [▶️](https://donelfantastic.github.io/creativemedia/local/tvoneID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/> |
+| 6   | NETTV          | [▶️](https://donelfantastic.github.io/creativemedia/local/nettvID.m3u8) | <img height="20" src="https://assets-a1.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png"/> |
+| 7   | TVRI           | [▶️](https://donelfantastic.github.io/creativemedia/local/tvriID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png"/> |
+| 8   | TVRI SPORT     | [▶️](https://donelfantastic.github.io/creativemedia/local/tvrisportID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png"/> |
+| 9   | DAAITV         | [▶️](https://donelfantastic.github.io/creativemedia/local/daaitvID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png"/> |
 
 <h2>NEWS</h2>
 
