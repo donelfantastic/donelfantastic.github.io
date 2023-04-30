@@ -1,19 +1,19 @@
 #EXT3MU
 
 #EXTINF:-1 group-title="ASTRO SUPERSPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro Super Sport 1
-https://donelfantastic.github.io/creativemedia/astrosports/1.m3u8
+https://donelfantastic.github.io/creativemedia/intl/astroSsport1.m3u8
 
 #EXTINF:-1 group-title="ASTRO SUPERSPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro Super Sport 2
-https://donelfantastic.github.io/creativemedia/astrosports/2.m3u8
+https://donelfantastic.github.io/creativemedia/intl/astroSsport2.m3u8
 
 #EXTINF:-1 group-title="ASTRO SUPERSPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro Super Sport 3
-https://donelfantastic.github.io/creativemedia/astrosports/3.m3u8
+https://donelfantastic.github.io/creativemedia/intl/astroSsport3.m3u8
 
 #EXTINF:-1 group-title="ASTRO SUPERSPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro Super Sport 4
-https://donelfantastic.github.io/creativemedia/astrosports/4.m3u8
+https://donelfantastic.github.io/creativemedia/intl/astroSsport4.m3u8
 
 #EXTINF:-1 group-title="ASTRO SUPERSPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png",Astro Super Sport 5
-https://donelfantastic.github.io/creativemedia/astrosports/5.m3u8
+https://donelfantastic.github.io/creativemedia/intl/astroSsport5.m3u8
 
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png",Bein Sport 1 Premium
 https://donelfantastic.github.io/creativemedia/intl/beins1prem.m3u8
