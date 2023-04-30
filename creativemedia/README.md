@@ -89,25 +89,25 @@
 <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/astrosp1.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" width="70"></a>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/astroSsport1.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/astrosp2.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" width="70"></a>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/astroSsport2.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/astrosp3.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" width="70"></a>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/astroSsport3.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" width="70"></a>
           </td>
         </tr>
 <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/astrosp4.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" width="70"></a>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/astroSsport4.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/astrosp5.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" width="70"></a>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/astroSsport5.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
