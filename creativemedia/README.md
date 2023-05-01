@@ -183,6 +183,48 @@
           'text-align:center; vertical-align:middle; font-weight: bold'>
             <a href="https://donelfantastic.github.io/creativemedia/intl/elevenSports1.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" width="70"></a>
           </td>
+        </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/elevenSports2.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/elevenSports3.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/elevenSports4.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-4-portugal-uk-pt.png" width="70"></a>
+          </td>
+        </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/elevenSports5.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-5-portugal-uk-pt.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/elevenSports6.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-6-portugal-uk-pt.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/itv1uk.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ii/itv-1-uk.svg" width="70"></a>
+          </td>
+        </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/itv2uk.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ii/itv-2-uk.svg" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/itv3uk.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ii/itv-3-uk.svg" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/itvBeuk.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ii/itv-be-uk.svg" width="70"></a>
+          </td>
         </tr>        
         </td>
       </tbody>
