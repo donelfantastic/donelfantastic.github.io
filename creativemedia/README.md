@@ -131,15 +131,15 @@
 <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/skysportFB.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.svg" width="70"></a>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/skysportFball.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.svg" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/skysportPL.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg" width="70"></a>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/skysportPleague.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/skysportME.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg" width="70"></a>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/skysportMevent.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg" width="70"></a>
           </td>
         </tr>
 <tr>
