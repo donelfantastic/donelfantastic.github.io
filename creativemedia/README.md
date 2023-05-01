@@ -225,7 +225,49 @@
           'text-align:center; vertical-align:middle; font-weight: bold'>
             <a href="https://donelfantastic.github.io/creativemedia/intl/itvBeuk.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ii/itv-be-uk.svg" width="70"></a>
           </td>
-        </tr>        
+        </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/nowSports1.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/631-dbg-e.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/nowSports2.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/632-dbg-e.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/nowSports3.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/633-dbg-e.png" width="70"></a>
+          </td>
+        </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/nowSports4.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/634-dbg-e.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/nowSports5.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/635-dbg-e.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/nowSports6.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/636-dbg-e.png" width="70"></a>
+          </td>
+        </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/nowSports7.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/637-dbg-e.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/beins1us.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://epg.beinsports.com/us_sports/Global.svg" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/beins1es.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://epg.beinsports.com/us_sports/Spanish.svg" width="70"></a>
+          </td>
+        </tr>                     
         </td>
       </tbody>
     </table>
