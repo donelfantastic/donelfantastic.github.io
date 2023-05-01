@@ -167,9 +167,23 @@
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img2.sport-tv-guide.live/images/stations/a2702.png" width="70"></a>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/truePfootball1.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" width="70"></a>
           </td>
         </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/truePfootball2.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/truePfootball3.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/elevenSports1.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" width="70"></a>
+          </td>
+        </tr>        
         </td>
       </tbody>
     </table>
