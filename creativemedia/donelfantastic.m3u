@@ -171,8 +171,18 @@ https://donelfantastic.github.io/creativemedia/intl/dazn1de.m3u8
 #EXTINF:-1 group-title="DAZN" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2704.png",DAZN 2 DE
 https://donelfantastic.github.io/creativemedia/intl/dazn2de.m3u8
 
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2703.png",True Premier Football 1
-https://donelfantastic.github.io/creativemedia/intl/dazn1det.m3u8
+#EXTINF:-1 group-title="TRUE VISIONS TH" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png",True Premier Football 1
+https://donelfantastic.github.io/creativemedia/intl/truePfootball1.m3u8
 
+#EXTINF:-1 group-title="TRUE VISIONS TH" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png",True Premier Football 2
+https://donelfantastic.github.io/creativemedia/intl/truePfootball2.m3u8
 
+#EXTINF:-1 group-title="TRUE VISIONS TH" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-3-th.png",True Premier Football 3
+https://donelfantastic.github.io/creativemedia/intl/truePfootball3.m3u8
+
+#EXTINF:-1 group-title="TRUE VISIONS TH" tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png",Bein Sports 1
+https://donelfantastic.github.io/creativemedia/intl/beins1th.m3u8
+
+#EXTINF:-1 group-title="TRUE VISIONS TH" tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png",Bein Sports 2
+https://donelfantastic.github.io/creativemedia/intl/beins2th.m3u8
 
