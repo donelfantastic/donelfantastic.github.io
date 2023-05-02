@@ -63,6 +63,18 @@ https://donelfantastic.github.io/creativemedia/intl/beins6qa.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",Bein Sports 7
 https://donelfantastic.github.io/creativemedia/intl/beins7qa.m3u8
 
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png",Bein Sports 1 Thailand
+https://donelfantastic.github.io/creativemedia/intl/beins1th.m3u8
+
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png",Bein Sports 2 Thailand
+https://donelfantastic.github.io/creativemedia/intl/beins2th.m3u8
+
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://epg.beinsports.com/us_sports/Global.svg",Bein Sports 1 USA
+https://donelfantastic.github.io/creativemedia/intl/beins1us.m3u8
+
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://epg.beinsports.com/us_sports/Spanish.svg",Bein Sports 1 ESPANA
+https://donelfantastic.github.io/creativemedia/intl/beins1es.m3u8
+
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png",Bein Sports 1 XTRA
 https://donelfantastic.github.io/creativemedia/intl/beins1qaXTRA.m3u8
 
@@ -83,6 +95,21 @@ https://donelfantastic.github.io/creativemedia/intl/skysportMix.m3u8
 
 #EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.svg",Sky Sports Action
 https://donelfantastic.github.io/creativemedia/intl/skysportAction.m3u8
+
+#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-news-uk.svg",Sky Sports News
+https://donelfantastic.github.io/creativemedia/intl/skysportNews.m3u8
+
+#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.svg",Sky Sports Cricket
+https://donelfantastic.github.io/creativemedia/intl/skysportCricket.m3u8
+
+#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-racing-uk.svg",Sky Sports Racing
+https://donelfantastic.github.io/creativemedia/intl/skysportRacing.m3u8
+
+#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.svg",Sky Sports F1
+https://donelfantastic.github.io/creativemedia/intl/skysportF1.m3u8
+
+#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-golf-uk.svg",Sky Sports Golf
+https://donelfantastic.github.io/creativemedia/intl/skysportGolf.m3u8
 
 #EXTINF:-1 group-title="BT SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.svg",BT Sport 1
 https://donelfantastic.github.io/creativemedia/intl/btsport1.m3u8
@@ -128,5 +155,21 @@ https://donelfantastic.github.io/creativemedia/intl/itv3uk.m3u8
 
 #EXTINF:-1 group-title="ITV UK" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-be-uk.svg",ITV Be
 https://donelfantastic.github.io/creativemedia/intl/itvBeuk.m3u8
+
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",DAZN 1 ES
+https://donelfantastic.github.io/creativemedia/intl/dazn1es.m3u8
+
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",DAZN 2 ES
+https://donelfantastic.github.io/creativemedia/intl/dazn2es.m3u8
+
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png",DAZN Laliga
+https://donelfantastic.github.io/creativemedia/intl/daznlaliga.m3u8
+
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2703.png",DAZN 1 DE
+https://donelfantastic.github.io/creativemedia/intl/dazn1de.m3u8
+
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2704.png",DAZN 2 DE
+https://donelfantastic.github.io/creativemedia/intl/dazn2de.m3u8
+
 
 
