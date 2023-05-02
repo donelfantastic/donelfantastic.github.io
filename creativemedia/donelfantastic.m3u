@@ -90,4 +90,37 @@ https://donelfantastic.github.io/creativemedia/intl/btsport3.m3u8
 #EXTINF:-1 group-title="BT SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-4-uk.svg",BT Sport ESPN
 https://donelfantastic.github.io/creativemedia/intl/btsportESPN.m3u8
 
+#EXTINF:-1 group-title="NOW SPORTS HK" tvg-logo="https://www.nowtv.now.com/media/logo/631-dbg-e.png",Now Sport 1
+https://donelfantastic.github.io/creativemedia/intl/nowSports1.m3u8
+
+#EXTINF:-1 group-title="NOW SPORTS HK" tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png",Now Sport 2
+https://donelfantastic.github.io/creativemedia/intl/nowSports2.m3u8
+
+#EXTINF:-1 group-title="NOW SPORTS HK" tvg-logo="https://www.nowtv.now.com/media/logo/633-dbg-e.png",Now Sport 3
+https://donelfantastic.github.io/creativemedia/intl/nowSports3.m3u8
+
+#EXTINF:-1 group-title="NOW SPORTS HK" tvg-logo="https://www.nowtv.now.com/media/logo/634-dbg-e.png",Now Sport 4
+https://donelfantastic.github.io/creativemedia/intl/nowSports4.m3u8
+
+#EXTINF:-1 group-title="NOW SPORTS HK" tvg-logo="https://www.nowtv.now.com/media/logo/635-dbg-e.png",Now Sport 5
+https://donelfantastic.github.io/creativemedia/intl/nowSports5.m3u8
+
+#EXTINF:-1 group-title="NOW SPORTS HK" tvg-logo="https://www.nowtv.now.com/media/logo/636-dbg-e.png",Now Sport 6
+https://donelfantastic.github.io/creativemedia/intl/nowSports6.m3u8
+
+#EXTINF:-1 group-title="NOW SPORTS HK" tvg-logo="https://www.nowtv.now.com/media/logo/637-dbg-e.png",Now Sport 7
+https://donelfantastic.github.io/creativemedia/intl/nowSports7.m3u8
+
+#EXTINF:-1 group-title="ITV UK" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-1-uk.svg",ITV 1
+https://donelfantastic.github.io/creativemedia/intl/itv1uk.m3u8
+
+#EXTINF:-1 group-title="ITV UK" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-2-uk.svg",ITV 2
+https://donelfantastic.github.io/creativemedia/intl/itv2uk.m3u8
+
+#EXTINF:-1 group-title="ITV UK" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-3-uk.svg",ITV 3
+https://donelfantastic.github.io/creativemedia/intl/itv3uk.m3u8
+
+#EXTINF:-1 group-title="ITV UK" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-be-uk.svg",ITV Be
+https://donelfantastic.github.io/creativemedia/intl/itvBeuk.m3u8
+
 
