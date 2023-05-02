@@ -186,3 +186,23 @@ https://donelfantastic.github.io/creativemedia/intl/beins1th.m3u8
 #EXTINF:-1 group-title="TRUE VISIONS TH" tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png",Bein Sports 2
 https://donelfantastic.github.io/creativemedia/intl/beins2th.m3u8
 
+#EXTINF:-1 group-title="SUPER SPORTS ZA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png",Super Sports Football
+https://donelfantastic.github.io/creativemedia/intl/supersportFootball.m3u8
+
+#EXTINF:-1 group-title="SUPER SPORTS ZA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png",Super Sports Premier League
+https://donelfantastic.github.io/creativemedia/intl/supersportPleague.m3u8
+
+#EXTINF:-1 group-title="SUPER SPORTS ZA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png",Super Sports Laliga
+https://donelfantastic.github.io/creativemedia/intl/supersportLaliga.m3u8
+
+#EXTINF:-1 group-title="SUPER SPORTS ZA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png",Super Sports Variety 1
+https://donelfantastic.github.io/creativemedia/intl/supersportVariety1.m3u8
+
+#EXTINF:-1 group-title="SUPER SPORTS ZA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-2-za.png",Super Sports Variety 2
+https://donelfantastic.github.io/creativemedia/intl/supersportVariety2.m3u8
+
+#EXTINF:-1 group-title="SUPER SPORTS ZA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-3-za.png",Super Sports Variety 3
+https://donelfantastic.github.io/creativemedia/intl/supersportVariety3.m3u8
+
+#EXTINF:-1 group-title="SUPER SPORTS ZA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-4-za.png",Super Sports Variety 4
+https://donelfantastic.github.io/creativemedia/intl/supersportVariety4.m3u8
