@@ -171,5 +171,8 @@ https://donelfantastic.github.io/creativemedia/intl/dazn1de.m3u8
 #EXTINF:-1 group-title="DAZN" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2704.png",DAZN 2 DE
 https://donelfantastic.github.io/creativemedia/intl/dazn2de.m3u8
 
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2703.png",True Premier Football 1
+https://donelfantastic.github.io/creativemedia/intl/dazn1det.m3u8
+
 
 
