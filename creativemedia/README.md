@@ -267,7 +267,21 @@
           'text-align:center; vertical-align:middle; font-weight: bold'>
             <a href="https://donelfantastic.github.io/creativemedia/intl/beins1es.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://epg.beinsports.com/us_sports/Spanish.svg" width="70"></a>
           </td>
-        </tr>                     
+        </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/beins1th.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="https://donelfantastic.github.io/creativemedia/intl/beins2th.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="#" target="_blank" rel="noopener noreferrer"><img src="#" width="70"></a>
+          </td>
+        </tr>                        
         </td>
       </tbody>
     </table>
