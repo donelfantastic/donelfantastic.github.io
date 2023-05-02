@@ -111,6 +111,9 @@ https://donelfantastic.github.io/creativemedia/intl/skysportF1.m3u8
 #EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-golf-uk.svg",Sky Sports Golf
 https://donelfantastic.github.io/creativemedia/intl/skysportGolf.m3u8
 
+#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-arena-uk.svg",Sky Sports Arena
+https://donelfantastic.github.io/creativemedia/intl/skysportArena.m3u8
+
 #EXTINF:-1 group-title="BT SPORTS UK" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.svg",BT Sport 1
 https://donelfantastic.github.io/creativemedia/intl/btsport1.m3u8
 
