@@ -206,3 +206,21 @@ https://donelfantastic.github.io/creativemedia/intl/supersportVariety3.m3u8
 
 #EXTINF:-1 group-title="SUPER SPORTS ZA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-4-za.png",Super Sports Variety 4
 https://donelfantastic.github.io/creativemedia/intl/supersportVariety4.m3u8
+
+#EXTINF:-1 group-title="ELEVEN SPORTS PT" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png",Eleven Sports 1
+https://donelfantastic.github.io/creativemedia/intl/elevenSports1.m3u8
+
+#EXTINF:-1 group-title="ELEVEN SPORTS PT" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png",Eleven Sports 2
+https://donelfantastic.github.io/creativemedia/intl/elevenSports2.m3u8
+
+#EXTINF:-1 group-title="ELEVEN SPORTS PT" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png",Eleven Sports 3
+https://donelfantastic.github.io/creativemedia/intl/elevenSports3.m3u8
+
+#EXTINF:-1 group-title="ELEVEN SPORTS PT" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-4-portugal-uk-pt.png",Eleven Sports 4
+https://donelfantastic.github.io/creativemedia/intl/elevenSports4.m3u8
+
+#EXTINF:-1 group-title="ELEVEN SPORTS PT" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-5-portugal-uk-pt.png",Eleven Sports 5
+https://donelfantastic.github.io/creativemedia/intl/elevenSports5.m3u8
+
+#EXTINF:-1 group-title="ELEVEN SPORTS PT" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-6-portugal-uk-pt.png",Eleven Sports 6
+https://donelfantastic.github.io/creativemedia/intl/elevenSports6.m3u8
