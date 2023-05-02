@@ -111,16 +111,16 @@ https://donelfantastic.github.io/creativemedia/intl/skysportF1.m3u8
 #EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-golf-uk.svg",Sky Sports Golf
 https://donelfantastic.github.io/creativemedia/intl/skysportGolf.m3u8
 
-#EXTINF:-1 group-title="BT SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.svg",BT Sport 1
+#EXTINF:-1 group-title="BT SPORTS UK" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.svg",BT Sport 1
 https://donelfantastic.github.io/creativemedia/intl/btsport1.m3u8
 
-#EXTINF:-1 group-title="BT SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.svg",BT Sport 2
+#EXTINF:-1 group-title="BT SPORTS UK" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.svg",BT Sport 2
 https://donelfantastic.github.io/creativemedia/intl/btsport2.m3u8
 
-#EXTINF:-1 group-title="BT SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.svg",BT Sport 3
+#EXTINF:-1 group-title="BT SPORTS UK" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.svg",BT Sport 3
 https://donelfantastic.github.io/creativemedia/intl/btsport3.m3u8
 
-#EXTINF:-1 group-title="BT SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-4-uk.svg",BT Sport ESPN
+#EXTINF:-1 group-title="BT SPORTS UK" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-4-uk.svg",BT Sport ESPN
 https://donelfantastic.github.io/creativemedia/intl/btsportESPN.m3u8
 
 #EXTINF:-1 group-title="NOW SPORTS HK" tvg-logo="https://www.nowtv.now.com/media/logo/631-dbg-e.png",Now Sports 1
