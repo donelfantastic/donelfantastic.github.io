@@ -1,0 +1,87 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <meta name="robots" content="noindex" />
+  <meta name="referrer" content="never" />
+  <title>DONELFANTASTIC | RCTI TV</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.6.12/plyr.min.css" />
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background-color: #000;
+      width: 100%;
+      --plyr-color-main: pink;
+    }
+
+    .video-section {
+      padding: 0;
+      margin: 0;
+      display: block;
+      position: relative;
+      margin-bottom: 0em;
+      overflow: hidden;
+    }
+
+    .video-responsive {
+      padding-bottom: 56.25%
+    }
+
+    #donelfantastic {
+      position: relative;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      width: 100%;
+      border: 0;
+    }
+  </style>
+
+</head>
+
+<body>
+  <div class="video-section video-responsive">
+    <video id="donelfantastic" preload="auto" controls crossorigin playsinline data-poster="https://thumbor.prod.vidiocdn.com/fgcHi2h8yWt6Bc3A7XSquRqWDCQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-e4a143.jpg"></video>
+  </div>
+</body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.6.12/plyr.min.js"></script>
+
+<script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=es6,Array.prototype.includes,CustomEvent,Object.entries,Object.values,URL"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/2.4.0/shaka-player.compiled.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const source =
+      "https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd";
+    const video = document.querySelector("#donelfantastic");
+    const player = new Plyr(video);
+    window.player = player;
+    if (shaka.Player.isBrowserSupported()) {
+      // Install built-in polyfills
+      shaka.polyfill.installAll();
+      const shakaInstance = new shaka.Player(video);
+      shakaInstance.configure({
+        drm: {
+          clearKeys: {
+            "9ba3e153ef8956d6e2b0684fcf74f58f": "dbc28cb5c6426080f984a5b6d436bb30"
+          }
+        }
+      });
+      shakaInstance.load(source);
+    } else {
+      console.warn("Browser is not supported!");
+    }
+  });
+</script>
+
+</html>
