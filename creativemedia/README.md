@@ -299,6 +299,9 @@
 | 7   | TVRI           | [▶️](https://donelfantastic.github.io/creativemedia/local/tvriID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png"/> |
 | 8   | TVRI SPORT     | [▶️](https://donelfantastic.github.io/creativemedia/local/tvrisportID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png"/> |
 | 9   | DAAITV         | [▶️](https://donelfantastic.github.io/creativemedia/local/daaitvID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png"/> |
+| 10  | ANTV           | [▶️](https://donelfantastic.github.io/creativemedia/local/antvID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png"/> |
+| 11  | METROTV         | [▶️](https://donelfantastic.github.io/creativemedia/local/metrotvID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/22/MetroTV_2000.svg"/> |
+| 10  | RTV            | [▶️](https://donelfantastic.github.io/creativemedia/local/rtvID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rajawali_Televisi_abu-abu.svg/1200px-Rajawali_Televisi_abu-abu.svg.png"/> |
 
 <h2>NEWS</h2>
 
