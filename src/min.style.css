@@ -12,6 +12,10 @@ html {
 
 body {
   cursor: none;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
   max-width: 1130px;
   width: fit-content;
 }
