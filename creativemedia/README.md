@@ -301,7 +301,9 @@
 | 9   | DAAITV         | [▶️](https://donelfantastic.github.io/creativemedia/local/daaitvID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png"/> |
 | 10  | ANTV           | [▶️](https://donelfantastic.github.io/creativemedia/local/antvID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png"/> |
 | 11  | METROTV         | [▶️](https://donelfantastic.github.io/creativemedia/local/metrotvID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/22/MetroTV_2000.svg"/> |
-| 10  | RTV            | [▶️](https://donelfantastic.github.io/creativemedia/local/rtvID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rajawali_Televisi_abu-abu.svg/1200px-Rajawali_Televisi_abu-abu.svg.png"/> |
+| 12  | RTV            | [▶️](https://donelfantastic.github.io/creativemedia/local/rtvID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rajawali_Televisi_abu-abu.svg/1200px-Rajawali_Televisi_abu-abu.svg.png"/> |
+| 13  | TRANSTV        | [▶️](https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png"/> |
+| 13  | TRANS7         | [▶️](https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/300px-Trans_7_2013.svg.png"/> |
 
 <h2>NEWS</h2>
 
