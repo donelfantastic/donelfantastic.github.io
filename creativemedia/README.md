@@ -282,8 +282,7 @@
             <a href="#" target="_blank" rel="noopener noreferrer"><img src="#" width="70"></a>
           </td>
         </tr>                        
-        </td>
-      </tbody>
+</tbody>
     </table>
   </div>
   
