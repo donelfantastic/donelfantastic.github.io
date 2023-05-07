@@ -21,7 +21,6 @@
 </head>
 <body>
   <script>!function(a,b,c,d,e,f){a.ddjskey=e;a.ddoptions=f||null;var m=b.createElement(c),n=b.getElementsByTagName(c)[0];m.async=1,m.src=d,n.parentNode.insertBefore(m,n)}(window,document,"script","https://js.datadome.co/tags.js","99B1C08278137CE22ADB60CE8DE020", {"ajaxListenerPath": true});</script>
-  
   <body bgcolor='black' style='margin:0' oncontextmenu='return false' onkeydown='return false' onmousedown='return false'>
     <style>
       .video-fill video {
@@ -29,7 +28,6 @@
       }
     </style> 
     <div class="container video-fill" data-shaka-player-container style='position:absolute;z-index: -1;top: 0;left: 0;width: 100%; height: 100%;object-fit: fill cover;'>
-
       <video autoplay data-shaka-player id='video' poster="" style='width:100%;height:100%;'>
       </video>
     </div>
@@ -41,13 +39,20 @@
         const ui = video['ui'];
         const controls = ui.getControls();
         const player = controls.getPlayer();
+              player.configure({
+  drm: {
+    servers: {
+      "com.widevine.alpha":
+atob("aHR0cHM6Ly9kYWRkeS55dXJlbmR0di5iaXouaWQvaHR0cHM6Ly9tcnB3LnB0bW5jMDEudmVyc3BlY3RpdmUubmV0Lz9kZXZpY2VJZD1OREl6TURKaFptVXRZV1JqTWkwek5HSmtMVGt5TjJFdFltRTFaREZsWldJd09ERXo=")
+    }
+  }
+});
         window.player = player;
         window.ui = ui;
         player.addEventListener('error', onPlayerErrorEvent);
         controls.addEventListener('error', onUIErrorEvent);
         try {
           await player.load(stream_url);
-
           console.log('The video has now been loaded!');
         } catch (error) {
           onPlayerError(error);
