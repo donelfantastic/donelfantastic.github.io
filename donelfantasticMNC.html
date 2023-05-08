@@ -278,7 +278,7 @@ var source = {
 };
 
 var player = new bitmovin.player.Player(container, config);
-player.load(stream_url).then(
+player.load(source).then(
 //player.setup(config).then(
 
   function (value) {
