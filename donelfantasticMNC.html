@@ -276,7 +276,7 @@ var source = {
 };
 
 var currentLocation = window.location.search;
-var stream_url = currentLocation.replace("?url=", "source");
+var stream_url = currentLocation.replace("?url=", "");
 var player = new bitmovin.player.Player(container, config);
 player.load(source).then(
 //player.setup(config).then(
