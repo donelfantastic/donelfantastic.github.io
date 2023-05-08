@@ -257,18 +257,16 @@ var config = {
     ]
   }
 }
-var currentLocation = window.location.search;
-var stream_url = currentLocation.replace("?url=", "");
 var source = {
   dash:
-    stream_url,
+    "https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd",
   hls: "",
-  progressive: stream_url,
+  progressive: "",
   smooth: "",
   poster: "",
   drm: {
     widevine: {
-      LA_URL: atob(        "aHR0cHM6Ly9kYWRkeS55dXJlbmR0di5iaXouaWQvaHR0cHM6Ly9tcnB3LnB0bW5jMDEudmVyc3BlY3RpdmUubmV0Lz9kZXZpY2VJZD1OREl6TURKaFptVXRZV1JqTWkwek5HSmtMVGt5TjJFdFltRTFaREZsWldJd09ERXo="
+      LA_URL: atob("aHR0cHM6Ly9kYWRkeS55dXJlbmR0di5iaXouaWQvaHR0cHM6Ly9tcnB3LnB0bW5jMDEudmVyc3BlY3RpdmUubmV0Lz9kZXZpY2VJZD1OREl6TURKaFptVXRZV1JqTWkwek5HSmtMVGt5TjJFdFltRTFaREZsWldJd09ERXo="
       )
     },
     playready: {
@@ -277,6 +275,8 @@ var source = {
   }
 };
 
+var currentLocation = window.location.search;
+var stream_url = currentLocation.replace("?url=", "source");
 var player = new bitmovin.player.Player(container, config);
 player.load(source).then(
 //player.setup(config).then(
