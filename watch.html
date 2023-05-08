@@ -39,14 +39,14 @@
         const ui = video['ui'];
         const controls = ui.getControls();
         const player = controls.getPlayer();
-              player.configure({
+              /*player.configure({
   drm: {
     servers: {
       "com.widevine.alpha":
 atob("aHR0cHM6Ly9kYWRkeS55dXJlbmR0di5iaXouaWQvaHR0cHM6Ly9tcnB3LnB0bW5jMDEudmVyc3BlY3RpdmUubmV0Lz9kZXZpY2VJZD1OREl6TURKaFptVXRZV1JqTWkwek5HSmtMVGt5TjJFdFltRTFaREZsWldJd09ERXo=")
     }
   }
-});
+});*/
         window.player = player;
         window.ui = ui;
         player.addEventListener('error', onPlayerErrorEvent);
