@@ -257,7 +257,8 @@ var config = {
     ]
   }
 }
-
+var currentLocation = window.location.search;
+var stream_url = currentLocation.replace("?url=", "");
 var source = {
   dash:
     stream_url,
@@ -276,8 +277,6 @@ var source = {
   }
 };
 
-var currentLocation = window.location.search;
-var stream_url = currentLocation.replace("?url=", "");
 var player = new bitmovin.player.Player(container, config);
 player.load(stream_url).then(
 //player.setup(config).then(
