@@ -3,7 +3,7 @@
     "channel": "MNCSports.id", 
     "id":" MNCSports.id", 
     "name": "MNC SPORTS",
-    "categories": ["sports"], 
+    "categories": ["Sports"], 
     "url": "https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd",
     "logo": "https://sports.sstp.cloudns.pro/img/sports/mncsports.webp",
     "country": "ID"
@@ -12,7 +12,7 @@
     "channel": "MNCSports2.id", 
     "id":" MNCSports2.id", 
     "name": "MNC SPORTS 2",
-    "categories": ["sports"], 
+    "categories": ["Sports"], 
     "url": "https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd",
     "logo": "https://sports.sstp.cloudns.pro/img/sports/mncsports2.webp",
     "country": "ID"
@@ -21,7 +21,7 @@
     "channel": "MNCSports3.id", 
     "id":" MNCSports3.id", 
     "name": "MNC SPORTS 3",
-    "categories": ["sports"], 
+    "categories": ["Sports"], 
     "url": "https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd",
     "logo": "https://sports.sstp.cloudns.pro/img/sports/mncsports3.webp",
     "country": "ID"
@@ -30,7 +30,7 @@
     "channel": "SoccerChannel.id", 
     "id":" SoccerChannel.id", 
     "name": "SOCCER CHANNEL",
-    "categories": ["sports"], 
+    "categories": ["Sports"], 
     "url": "https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd",
     "logo": "https://sports.sstp.cloudns.pro/img/sports/Soccer-Channel.webp",
     "country": "ID"
@@ -39,7 +39,7 @@
     "channel": "FightSports.us", 
     "id":" FightSports.us", 
     "name": "FIGHT SPORTS",
-    "categories": ["sports"], 
+    "categories": ["Sports"], 
     "url": "https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd",
     "logo": "https://sports.sstp.cloudns.pro/img/sports/Fight-Sports.webp",
     "country": "ID"
@@ -48,7 +48,7 @@
     "channel": "SPOTV.kr", 
     "id":" SPOTV.kr", 
     "name": "SPOTV",
-    "categories": ["sports"], 
+    "categories": ["Sports"], 
     "url": "https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd",
     "logo": "https://sports.sstp.cloudns.pro/img/sports/spotv.webp",
     "country": "ID"
@@ -57,7 +57,7 @@
     "channel": "SPOTV2.kr", 
     "id":" SPOTV2.kr", 
     "name": "SPOTV 2",
-    "categories": ["sports"], 
+    "categories": ["Sports"], 
     "url": "https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd",
     "logo": "https://sports.sstp.cloudns.pro/img/sports/spotv2.webp",
     "country": "ID"
