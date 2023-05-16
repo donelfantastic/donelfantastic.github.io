@@ -734,7 +734,7 @@ body {
   text-align: right;
   padding: 5px;
   border-radius: 0 30px 30px 0;
-  transition: all 1s;
+  transition: all 2s;
 }
 
 .my-nav ul li:hover {
@@ -781,5 +781,7 @@ body {
 
 .my-nav ul li:hover i {
   transform: rotate(360deg);
-  transition: all 1s;
+  transition: all 2s;
+  background-color: #f30876;
+  color: #ffffff;
 }
