@@ -187,7 +187,7 @@
   <div class="wrapper">
     <div id="banner">
       <center>
-        <div class="logo"><img src="https://yt3.googleusercontent.com/2pvmjo54veHM0j6SN4bqILonRwkIZUy6cXCCVhnqw_0xHUsLRME8zdUf_Koi8_atOidTL7yV=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"></img></a></div>
+        <div class="logo"><img src="https://yt3.googleusercontent.com/2pvmjo54veHM0j6SN4bqILonRwkIZUy6cXCCVhnqw_0xHUsLRME8zdUf_Koi8_atOidTL7yV=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"></img></div>
       </center>
       <div class="title">
         <h1 class="bitmovin-headline"></h1>
@@ -303,7 +303,6 @@
   </footer>
 </body>
 <script type="text/javascript" src="https://cdn.bitmovin.com/player/web/8.52.0/bitmovinplayer.js"></script>
-<script type="text/javascript" src="https://muridnakal.neocities.org/min.ads.js"></script>
 <script type="text/javascript">
   var container = document.getElementById("my-player");
   var config = {
@@ -334,7 +333,7 @@
       ]
     }
   }
-  //var deviceId 
+  //var
   var currentLocation = window.location.search;
   var stream_url = currentLocation.replace("?play&mediaType=all&live=true&url=", "");
   var source = {
@@ -345,8 +344,8 @@
     poster: "",
     drm: {
       widevine: {
-        LA_URL: skipKeys
-         
+        LA_URL: atob("aHR0cHM6Ly9jb3JzcHJveHkucGxlbnR5Z3JhbS5jb20vaHR0cHM6Ly9tcnB3LnB0bW5jMDEudmVyc3BlY3RpdmUubmV0Lz9kZXZpY2VJZD1Zek0wTkRBME1USXRNR1l5TUMwek5HUTBMVGxpTWpNdE5EWTRNakUxWmpBNU5tWmo=")
+      } 
     }
   };
   var player = new bitmovin.player.Player(container, config);
