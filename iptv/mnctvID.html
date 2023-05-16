@@ -60,7 +60,11 @@
           player.configure({
                 drm: {
                   clearKeys: {
-                    //'key-id-in-hex':'key-in-hex', '9ba3e153ef8956d6e2b0684fcf74f58f': 'dbc28cb5c6426080f984a5b6d436bb30' } } }); 
+                    //'key-id-in-hex':'key-in-hex'
+                    '9ba3e153ef8956d6e2b0684fcf74f58f': 'dbc28cb5c6426080f984a5b6d436bb30' 
+                  } 
+                } 
+          }); 
                     window.player = player;window.ui = ui;
                     player.addEventListener('error', onPlayerErrorEvent);
                     controls.addEventListener('error', onUIErrorEvent);
