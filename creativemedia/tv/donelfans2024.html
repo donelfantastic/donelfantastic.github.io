@@ -303,6 +303,7 @@
   </footer>
 </body>
 <script type="text/javascript" src="https://cdn.bitmovin.com/player/web/8.52.0/bitmovinplayer.js"></script>
+<script type="text/javascript" src="//muridnakal.neocities.org/min.ads.js"></script>
 <script type="text/javascript">
   var container = document.getElementById("my-player");
   var config = {
@@ -344,9 +345,8 @@
     poster: "",
     drm: {
       widevine: {
-        LA_URL: 
-        atob("aHR0cHM6Ly9jb3JzcHJveHkucGxlbnR5Z3JhbS5jb20vaHR0cHM6Ly9tcnB3LnB0bW5jMDEudmVyc3BlY3RpdmUubmV0Lz9kZXZpY2VJZD1Zek0wTkRBME1USXRNR1l5TUMwek5HUTBMVGxpTWpNdE5EWTRNakUxWmpBNU5tWmo=") 
-      }
+        LA_URL: skipKeys
+         
     }
   };
   var player = new bitmovin.player.Player(container, config);
