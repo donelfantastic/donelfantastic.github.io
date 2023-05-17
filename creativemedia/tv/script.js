@@ -7,7 +7,7 @@ window.addEventListener("load", function () {
   
   $.ajax({
     type: "GET",
-    url: "https://donelfantastic.github.io/api/njajal.json",
+    url: "https://donelfantastic.github.io/api/dd-oo-nn-ee-ll-ff-aa-nn-tt-aa-ss-tt-ii-cc.json",
     success: function (a) {
       var b = 0;
       var c =
