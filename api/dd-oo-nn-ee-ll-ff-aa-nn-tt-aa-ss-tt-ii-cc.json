@@ -4,7 +4,7 @@
 "id": "AFN-HD",
 "name": "Asian Food Network",
 "categories": [
-"Life Style"
+"Entertainment"
 ],
 "url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/AFN-HD\/sa_dash_vmx\/AFN-HD.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/asian-food-network-sg.svg",
@@ -119,17 +119,6 @@
 "url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/BabyTV-NewHD\/sa_dash_vmx\/BabyTV-NewHD.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/baby_tv_eu.png",
 "country": "EU"
-},
-{
-"channel": "BaliTV_Timeshift",
-"id": "BaliTV_Timeshift",
-"name": "BaliTV Timeshift",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/BaliTV_Timeshift\/sa_dash_timeshift\/BaliTV_Timeshift.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/bali_tv_id.png",
-"country": "ID"
 },
 {
 "channel": "BaliTV",
@@ -1111,9 +1100,9 @@
 "country": "HK"
 },
 {
-"channel": "cName",
-"id": "cName",
-"name": "NN",
+"channel": "TLC",
+"id": "TLC",
+"name": "TLC",
 "categories": [
 "Life Style"
 ],
@@ -1320,17 +1309,6 @@
 "country": "ID"
 },
 {
-"channel": "TVOne-2",
-"id": "TVOne-2",
-"name": "TVOne",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/TVOne-2\/sa_dash_vmx\/TVOne-2.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tvone-id.png",
-"country": "ID"
-},
-{
 "channel": "JTV",
 "id": "JTV",
 "name": "JTV",
@@ -1339,6 +1317,39 @@
 ],
 "url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/JTV\/sa_dash\/JTV.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/jj\/jtv-id.png",
+"country": "ID"
+},
+{
+"channel": "Sctv",
+"id": "Sctv",
+"name": "SCTV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/proxy.vnxservers.com\/http:\/\/210.210.155.37\/session\/8297128c-456d-11ed-8d27-c81f66f89318\/qwr9ew\/s\/s03\/01.m3u8",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/sctv_id.png",
+"country": "ID"
+},
+{
+"channel": "Indosiar",
+"id": "Indosiar",
+"name": "Indosiar",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/proxy.vnxservers.com\/http:\/\/210.210.155.37\/session\/b085ab00-f37c-11ed-b685-83ee95aab56d\/qwr9ew\/s\/s04\/index.m3u8",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ii\/indosiar-id.png",
+"country": "ID"
+},
+{
+"channel": "Moji",
+"id": "Moji",
+"name": "Moji",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/proxy.vnxservers.com\/http:\/\/210.210.155.37\/session\/2f2e6590-456e-11ed-8d27-c81f66f89318\/qwr9ew\/s\/s41\/01.m3u8",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/moji-id.svg",
 "country": "ID"
 }
 ]
