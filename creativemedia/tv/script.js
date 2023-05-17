@@ -49,8 +49,8 @@ window.addEventListener("load", function () {
             h +
             "</td><td><button class='btn' style='display:none;' data-clipboard-text='" +
             a[i].url +
-            "'>Copy</button><button style='background:#f30876;border:1px solid #ffffff;border-radius:3px;'><a style='text-decoration:none;color:#ffffff;' target='blank' href='//donelfantastic.github.io/creativemedia/tv/donelfans2023?play&mediaType=all&live=true&url=" +
-            a[i].url + "?" + deviceId + "'>WATCH</a></button><span><button style='background:#1eabe3;border:1px solid #ffffff;border-radius:3px;'><a style='text-decoration:none;color:#ffffff;' target='blank' href='//donelfantastic.github.io/creativemedia/tv/donelfans2024?play&mediaType=all&live=true&url=" + a[i].url + "?" + deviceId + "'>WATCH</a></button></span></td></tr>";
+            "'>Copy</button><button style='background:#f30876;border:1px solid #ffffff;border-radius:3px;'><a style='text-decoration:none;color:#ffffff;' target='blank' href='//donelfantastic.pages.dev/creativemedia/tv/donelfans2023?play&mediaType=all&live=true&url=" +
+            a[i].url + "?" + deviceId + "'>WATCH</a></button><span><button style='background:#1eabe3;border:1px solid #ffffff;border-radius:3px;'><a style='text-decoration:none;color:#ffffff;' target='blank' href='//donelfantastic.pages.dev/creativemedia/tv/donelfans2024?play&mediaType=all&live=true&url=" + a[i].url + "?" + deviceId + "'>WATCH</a></button></span></td></tr>";
         }
       }
       c += "</tbody></table>";
