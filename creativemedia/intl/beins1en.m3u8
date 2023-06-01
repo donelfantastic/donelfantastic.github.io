@@ -1,6 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1920x1080,FRAME-RATE=30.000,CODECS="avc1.64002a,mp4a.40.2",AVERAGE-BANDWIDTH=2710000,BANDWIDTH=3380000
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94450&extension=m3u8&play_token=TQ6cftyhX8
-
-#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1920x1080,FRAME-RATE=30.000,CODECS="avc1.64002a,mp4a.40.2",AVERAGE-BANDWIDTH=2710000,BANDWIDTH=3380000
-http://62.182.82.104/L_1_ENGLISH/tracks-v1a1/mono.m3u8?token=test
+http://95.86.132.46/o4/beinsport/playlist.m3u8
+#http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94450&extension=m3u8&play_token=TQ6cftyhX8
+#http://62.182.82.104/L_1_ENGLISH/tracks-v1a1/mono.m3u8?token=test
