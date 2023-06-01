@@ -1326,7 +1326,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/proxy.vnxservers.com\/http:\/\/210.210.155.37\/session\/8297128c-456d-11ed-8d27-c81f66f89318\/qwr9ew\/s\/s03\/01.m3u8",
+"url": "https://proxy.vnxservers.com/http://210.210.155.37/qwr9ew/s/s03/index.m3u8",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/sctv_id.png",
 "country": "ID"
 },
@@ -1337,7 +1337,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/proxy.vnxservers.com\/http:\/\/210.210.155.37\/session\/b085ab00-f37c-11ed-b685-83ee95aab56d\/qwr9ew\/s\/s04\/index.m3u8",
+"url": "https://proxy.vnxservers.com/http://210.210.155.37/qwr9ew/s/s04/index.m3u8",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ii\/indosiar-id.png",
 "country": "ID"
 },
@@ -1348,7 +1348,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/proxy.vnxservers.com\/http:\/\/210.210.155.37\/session\/2f2e6590-456e-11ed-8d27-c81f66f89318\/qwr9ew\/s\/s41\/01.m3u8",
+"url": "https://proxy.vnxservers.com/http://210.210.155.37/qwr9ew/s/s41/index.m3u8",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/moji-id.svg",
 "country": "ID"
 }
