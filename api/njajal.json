@@ -5,7 +5,7 @@
     "name": "MNC SPORTS",
     "categories": ["Sports"], 
     "url": "https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd",
-    "logo": "https://sports.sstp.cloudns.pro/img/sports/mncsports.webp",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c9/New_mnc_sports_logo_2020.png",
     "country": "ID"
   },
   {
@@ -14,7 +14,7 @@
     "name": "MNC SPORTS 2",
     "categories": ["Sports"], 
     "url": "https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd",
-    "logo": "https://sports.sstp.cloudns.pro/img/sports/mncsports2.webp",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/5e/MNC_Sports_2.png",
     "country": "ID"
   },
   {
@@ -23,7 +23,7 @@
     "name": "MNC SPORTS 3",
     "categories": ["Sports"], 
     "url": "https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd",
-    "logo": "https://sports.sstp.cloudns.pro/img/sports/mncsports3.webp",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c9/New_mnc_sports_logo_2020.png",
     "country": "ID"
   }, 
   {
@@ -32,7 +32,7 @@
     "name": "SOCCER CHANNEL",
     "categories": ["Sports"], 
     "url": "https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd",
-    "logo": "https://sports.sstp.cloudns.pro/img/sports/Soccer-Channel.webp",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/6/6a/SoccerChannel2020.png",
     "country": "ID"
   }, 
   {
@@ -41,8 +41,8 @@
     "name": "FIGHT SPORTS",
     "categories": ["Sports"], 
     "url": "https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd",
-    "logo": "https://sports.sstp.cloudns.pro/img/sports/Fight-Sports.webp",
-    "country": "ID"
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png",
+    "country": "US"
   }, 
   {
     "channel": "SPOTV.kr", 
@@ -50,8 +50,8 @@
     "name": "SPOTV",
     "categories": ["Sports"], 
     "url": "https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd",
-    "logo": "https://sports.sstp.cloudns.pro/img/sports/spotv.webp",
-    "country": "ID"
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/74/SPOTV2_logo.png",
+    "country": "KR"
   }, 
   {
     "channel": "SPOTV2.kr", 
@@ -59,7 +59,7 @@
     "name": "SPOTV 2",
     "categories": ["Sports"], 
     "url": "https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd",
-    "logo": "https://sports.sstp.cloudns.pro/img/sports/spotv2.webp",
-    "country": "ID"
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/74/SPOTV2_logo.png",
+    "country": "KR"
   }  
 ]
