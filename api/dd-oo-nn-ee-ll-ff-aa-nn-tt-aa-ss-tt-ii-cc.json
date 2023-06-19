@@ -1353,14 +1353,14 @@
 "country": "ID"
 },
 {
-"channel": "RatihTv.id",
-"id": "RatihTv.id",
-"name": "Ratih TV",
+"channel": "TycSports.ar",
+"id": "TycSports.ar",
+"name": "TYC Sports",
 "categories": [
-"Local Tv"
+"Sports"
 ],  
-"url": "https://ythls.onrender.com/channel/UC-Z1JXSK8zj0V9AVVgOYH6w.m3u8",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Logo_RatihTV_Kebumen.png",
-"country": "ID"
+"url": "https:\/\/tvfuego.cdn.rcs.net.ar\/mnp\/tyc\/output.mpd",
+"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/54\/TyC_Sports_logo.svg\/1554px-TyC_Sports_logo.svg.png",
+"country": "AR"
 }
 ]
