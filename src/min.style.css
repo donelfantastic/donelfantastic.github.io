@@ -745,9 +745,9 @@ body {
 }
 
 .my-nav ul li {
-  display: block;
+  display: inline-block;
   margin: 30px;
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: rgba(0, 0, 0, 0);
   width: 300px;
   text-align: right;
   padding: 5px;
@@ -760,23 +760,23 @@ body {
 }
 
 .my-nav ul li.my-home:hover {
-  background-color: #55acee;
+  background-color: rgba(0, 0, 0, 0.1);
 }
 
 .my-nav ul li.my-event:hover {
-  background-color: #3b5999;
+  background-color: rgba(0, 0, 0, 0.1);
 }
 
 .my-nav ul li.my-music:hover {
-  background-color: #dd4b39;
+  background-color: rgba(0, 0, 0, 0.1);
 }
 
 .my-nav ul li.my-info:hover {
-  background-color: #ffc0cb;
+  background-color: rgba(0, 0, 0, 0.1);
 }
 
 .my-nav ul li.my-tv:hover {
-  background-color: #e4405f;
+  background-color: rgba(0, 0, 0, 0.1);
 }
 
 .my-nav ul li a {
@@ -787,7 +787,7 @@ body {
 .my-nav ul li i {
   text-align: center;
   margin-left: 10px;
-  color: black;
+  color: #f30876;
   background-color: white;
   padding: 10px;
   border-radius: 50%;
@@ -795,6 +795,7 @@ body {
   height: 45px;
   font-size: 20px;
   transform: rotate(0deg);
+  cursor: none;
 }
 
 .my-nav ul li:hover i {
