@@ -324,6 +324,7 @@ document.addEventListener("DOMContentLoaded", () => {
   
 var currentLocation = window.location.search;
 var stream_url = currentLocation.replace("?play&mediaType=all&live=true&url=", ""); 
+var ZXCVBNM = atob("aHR0cHM6Ly9jb3JzcHJveHkucGxlbnR5Z3JhbS5jb20v", "aHR0cHM6XC9cL2NvcnNwcm94eS5wbGVudHlncmFtLmNvbVwv");
   const clapprConfig = {
     title: "",
     poster: "",
@@ -334,8 +335,7 @@ var stream_url = currentLocation.replace("?play&mediaType=all&live=true&url=", "
     shakaConfiguration: {
       drm: {
         servers: {
-          "com.widevine.alpha": atob("aHR0cHM6Ly9jb3JzcHJveHkucGxlbnR5Z3JhbS5jb20vaHR0cHM6Ly9tcnB3LnB0bW5jMDEudmVyc3BlY3RpdmUubmV0Lz9kZXZpY2VJZD1Zek0wTkRBME1USXRNR1l5TUMwek5HUTBMVGxpTWpNdE5EWTRNakUxWmpBNU5tWmo="),
-          
+          "com.widevine.alpha": ZXCVBNM +"https:\/\/mrpw.ptmnc01.verspective.net\/?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj",        
           "com.microsoft.playready": ""
         },
         clearKeys :{    "82f8e2a17dac44c0a18f660479349c59": "1b144f73e6fefe91cd05f850e2b589d0", //dzn
