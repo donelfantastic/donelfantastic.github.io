@@ -324,11 +324,12 @@ document.addEventListener("DOMContentLoaded", () => {
   
 var currentLocation = window.location.search;
 var stream_url = currentLocation.replace("?play&mediaType=all&live=true&url=", ""); 
+var MLKJIHGFEDCBA = atob("aHR0cHM6Ly9wcm94eS52bnhzZXJ2ZXJzLmNvbS8=", "aHR0cHM6XC9cL3Byb3h5LnZueHNlcnZlcnMuY29tXC8=");
 var ZXCVBNM = atob("aHR0cHM6Ly9jb3JzcHJveHkucGxlbnR5Z3JhbS5jb20v", "aHR0cHM6XC9cL2NvcnNwcm94eS5wbGVudHlncmFtLmNvbVwv");
   const clapprConfig = {
     title: "",
     poster: "",
-    source: stream_url,
+    source: MLKJIHGFEDCBA + stream_url,
             abr: {
     enabled: true
        }, 
