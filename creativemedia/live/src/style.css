@@ -87,6 +87,14 @@ table-area {
   margin-top: 0px;
 }
 
+.dataTables_wrapper .dataTables_length,
+.dataTables_wrapper .dataTables_filter {
+  color: red !important;
+  }
+.dataTables_wrapper .dataTables_info {
+  color: white !important;
+  }
+
 @media (max-width: 1000px) {
   .logo {
     width: 100%;
