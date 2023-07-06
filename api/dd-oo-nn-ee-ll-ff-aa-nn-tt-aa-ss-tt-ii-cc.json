@@ -1326,7 +1326,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https://proxy.vnxservers.com/http://210.210.155.37/qwr9ew/s/s03/index.m3u8",
+"url": "https:\/\/proxy.vnxservers.com\/http:\/\/210.210.155.37\/qwr9ew\/s\/s03\/index.m3u8",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/sctv_id.png",
 "country": "ID"
 },
@@ -1337,7 +1337,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https://proxy.vnxservers.com/http://210.210.155.37/qwr9ew/s/s04/index.m3u8",
+"url": "https:\/\/proxy.vnxservers.com\/http:\/\/210.210.155.37\/qwr9ew\/s\/s04\/index.m3u8",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ii\/indosiar-id.png",
 "country": "ID"
 },
@@ -1348,7 +1348,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https://proxy.vnxservers.com/http://210.210.155.37/qwr9ew/s/s41/index.m3u8",
+"url": "https:\/\/proxy.vnxservers.com\/http:\/\/210.210.155.37\/qwr9ew\/s\/s41\/index.m3u8",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/moji-id.svg",
 "country": "ID"
 },
@@ -1373,5 +1373,16 @@
 "url": "https:\/\/cf-vod-cdn.mncnow.id\/vod\/storage2\/kilau-konser-ikatan-cinta-nella-dory-2021-rev-clean-anv6-rev\/_\/sa_dash_vmx\/kilau-konser-ikatan-cinta-nella-dory-2021-rev-clean-anv6-rev.mpd",
 "logo": "https:\/\/static.mncnow.id\/images\/vod\/c0b01684/2670_r32.jpg",
 "country": "ID"
-}  
+}, 
+{
+"channel": "kPlus.kr",
+"id": "kPlus.kr",
+"name": "K Plus",
+"categories": [
+"Movies"
+],
+"url": "https:\/\/proxy.vnxservers.com\/https:\/\/210.210.155.37\/uq2663\/h\/h08\/index.m3u8",
+"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/id\/8\/8c\/K_Plus_Asia_Logo.jpg",
+"country": "KR"
+} 
 ]
