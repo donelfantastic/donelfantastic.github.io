@@ -1362,5 +1362,16 @@
 "url": "https:\/\/tvfuego.cdn.rcs.net.ar\/mnp\/tyc\/output.mpd",
 "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/54\/TyC_Sports_logo.svg\/1554px-TyC_Sports_logo.svg.png",
 "country": "AR"
-}
+}, 
+{
+"channel": "donelfantastic.id",
+"id": "donelfantastic.id",
+"name": "Ikatan Cinta Nella & Dory",
+"categories": [
+"VOD"
+],
+"url": "https:\/\/cf-vod-cdn.mncnow.id\/vod\/storage2\/kilau-konser-ikatan-cinta-nella-dory-2021-rev-clean-anv6-rev\/_\/sa_dash_vmx\/kilau-konser-ikatan-cinta-nella-dory-2021-rev-clean-anv6-rev.mpd",
+"logo": "https:\/\/static.mncnow.id\/images\/vod\/c0b01684/2670_r32.jpg",
+"country": "ID"
+}  
 ]
