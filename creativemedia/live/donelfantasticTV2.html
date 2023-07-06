@@ -322,7 +322,7 @@
     player.addEventListener("error", onPlayerErrorEvent);
     controls.addEventListener("error", onUIErrorEvent);
     try {
-      await player.load(stream_url);
+      await player.load(source);
       console.log("The video has now been loaded!");
     } catch (error) {
       onPlayerError(error);
