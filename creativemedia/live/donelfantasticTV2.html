@@ -311,7 +311,7 @@
     const ui = video["ui"];
     const controls = ui.getControls();
     const player = controls.getPlayer();
-    const source = ABCDEFGHIJKLM + stream_url;
+    var ABCDEFGHIJKLM = MLKJIHGFEDCBA + stream_url;
     player.configure({
       drm: {
         servers: QWERTY123
@@ -322,7 +322,7 @@
     player.addEventListener("error", onPlayerErrorEvent);
     controls.addEventListener("error", onUIErrorEvent);
     try {
-      await player.load(source);
+      await player.load(ABCDEFGHIJKLM);
       console.log("The video has now been loaded!");
     } catch (error) {
       onPlayerError(error);
