@@ -35,7 +35,7 @@ window.addEventListener("load", function () {
           f !== "Iran"
         ) {
           b++;
-          var proxyUrl = "https://proxy.vnxservers.com";
+          var proxyUrl = "https:\/\/proxy.vnxservers.com\/";
           var deviceId = "deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj";
           c +=
             "<tr><td><img width='48' src='" +
@@ -50,8 +50,8 @@ window.addEventListener("load", function () {
             h +
             "</td><td><button class='btn' style='display:none;' data-clipboard-text='" +
             a[i].url +
-            "'>Copy</button><button style='background:#000000;border:1px solid #ffffff;border-radius:3px;'><a style='text-decoration:none;color:#ffffff;' target='_self' href='//donelfantastic.github.io/creativemedia/live/donelfantasticTV?play&mediaType=all&live=true&url=" +
-            a[i].url + "?" + deviceId + "'>WATCH</a></button><span><button style='background:#f30876;border:1px solid #ffffff;border-radius:3px;'><a style='text-decoration:none;color:#ffffff;' target='_self' href='//donelfantastic.github.io/creativemedia/live/donelfantasticTV2?play&mediaType=all&live=true&url=" + proxyUrl + "/" +
+            "'>Copy</button><button style='background:#000000;border:1px solid #ffffff;border-radius:3px;'><a style='text-decoration:none;color:#ffffff;' target='_self' href='//donelfantastic.github.io/creativemedia/live/donelfantasticTV?play&mediaType=all&live=true&url=" + proxyUrl +
+            a[i].url + "?" + deviceId + "'>WATCH</a></button><span><button style='background:#f30876;border:1px solid #ffffff;border-radius:3px;'><a style='text-decoration:none;color:#ffffff;' target='_self' href='//donelfantastic.github.io/creativemedia/live/donelfantasticTV2?play&mediaType=all&live=true&url=" + proxyUrl +
             a[i].url + "?" + deviceId + "'>WATCH</a></button></span><span><button style='background:#1eabe3;border:1px solid #ffffff;border-radius:3px;'><a style='text-decoration:none;color:#ffffff;' target='_self' href='//donelfantastic.pages.dev/creativemedia/tv/donelfans2024?play&mediaType=all&live=true&url=" + a[i].url + "?" + deviceId + "'>WATCH</a></button></span></td></tr>";
         }
       }
