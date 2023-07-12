@@ -1271,7 +1271,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/proxy.vnxservers.com\/http:\/\/210.210.155.37\/qwr9ew\/s\/s03\/index.m3u8",
+"url": "https://donelfantastic.github.io/creativemedia/local/sctv.m3u8",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/sctv_id.png",
 "country": "ID"
 },
@@ -1282,7 +1282,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/proxy.vnxservers.com\/http:\/\/210.210.155.37\/qwr9ew\/s\/s04\/index.m3u8",
+"url": "https://donelfantastic.github.io/creativemedia/local/indosiar.m3u8",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ii\/indosiar-id.png",
 "country": "ID"
 },
@@ -1293,7 +1293,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/proxy.vnxservers.com\/http:\/\/210.210.155.37\/qwr9ew\/s\/s41\/index.m3u8",
+"url": "https://donelfantastic.github.io/creativemedia/local/moji.m3u8",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/moji-id.svg",
 "country": "ID"
 },
@@ -1326,7 +1326,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https:\/\/proxy.vnxservers.com\/http:\/\/210.210.155.37\/uq2663\/h\/h08\/index.m3u8",
+"url": "https://donelfantastic.github.io/creativemedia/local/kPlus.m3u8",
 "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/id\/8\/8c\/K_Plus_Asia_Logo.jpg",
 "country": "KR"
 }, 
