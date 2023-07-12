@@ -290,9 +290,9 @@
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:----:|
-| 1   | SCTV           | [▶️](https://donelfantastic.github.io/creativemedia/local/sctvID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"/> |
-| 2   | INDOSIAR       | [▶️](https://donelfantastic.github.io/creativemedia/local/indosiarID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png"/> |
-| 3   | MOJI           | [▶️](https://donelfantastic.github.io/creativemedia/local/mojiID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png"/> |
+| 1   | SCTV           | [▶️](https://donelfantastic.github.io/creativemedia/local/sctv.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"/> |
+| 2   | INDOSIAR       | [▶️](https://donelfantastic.github.io/creativemedia/local/indosiar.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png"/> |
+| 3   | MOJI           | [▶️](https://donelfantastic.github.io/creativemedia/local/moji.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png"/> |
 | 4   | KOMPASTV       | [▶️](https://donelfantastic.github.io/creativemedia/local/kompasID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/archive/7/7a/20190116042347%21KOMPAS_TV_%282017%29.png"/> |
 | 5   | TVONE          | [▶️](https://donelfantastic.github.io/creativemedia/local/tvoneID.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/> |
 | 6   | NETTV          | [▶️](https://donelfantastic.github.io/creativemedia/local/nettvID.m3u8) | <img height="20" src="https://assets-a1.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png"/> |
