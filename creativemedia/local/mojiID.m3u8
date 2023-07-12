@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1920x1080,FRAME-RATE=30.000,CODECS="avc1.64002a,mp4a.40.2",AVERAGE-BANDWIDTH=2710000,BANDWIDTH=3380000
-http://210.210.155.35/qwr9ew/s/s41/index.m3u8
+http://210.210.155.35/session/2787f77a-20ab-11ee-b1d4-bd3aa55b8844/qwr9ew/s/s41/index.m3u8
+#http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 #http://210.210.155.37/session/3b4cdad2-e0b4-11ed-9c75-aee0a5cf01f2/qwr9ew/s/s41/01.m3u8
