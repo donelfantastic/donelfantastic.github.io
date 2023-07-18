@@ -1,16 +1,5 @@
 [
 {
-"channel": "kPoptv.br",
-"id": "kPoptv.br",
-"name": "KPop TV",
-"categories": [
-"Music"
-],
-"url": "https:\/\/srv1.zcast.com.br\/kpoptv\/kpoptv\/chunklist_w241271023.m3u8",
-"logo": "https:\/\/kpoptv.live\/wp-content\/uploads\/2021\/10\/logokpoptvplay.png",
-"country": "BR"
-},  
-{
 "channel": "AFN-HD",
 "id": "AFN-HD",
 "name": "Asian Food Network",
@@ -1362,5 +1351,16 @@
 "url": "https:\/\/edge02.odtv.az\/o4\/beinsport\/playlist.m3u8",
 "logo": "https:\/\/assets.bein.com\/mena\/sites\/3\/2015\/06\/beIN_SPORTS1_ENGLISH_Digital_Mono.png",
 "country": "UK"
-} 
+}, 
+{
+"channel": "kPoptv.br",
+"id": "kPoptv.br",
+"name": "KPop TV",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/srv1.zcast.com.br\/kpoptv\/kpoptv\/chunklist_w241271023.m3u8",
+"logo": "https:\/\/kpoptv.live\/wp-content\/uploads\/2021\/10\/logokpoptvplay.png",
+"country": "BR"
+},    
 ]
