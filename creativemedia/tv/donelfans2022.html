@@ -313,20 +313,6 @@ var QWERTYUIOP = QWERTYUIOP;
 var ASDFGHJKL = ASDFGHJKL;
 document.addEventListener("DOMContentLoaded", () => {
 const players = document.querySelectorAll("#player");
-  //let playingInstance = null;
-/*const setQueryParameter = (param: string) => () => {
-  const qs = querystring.parse(window.location.search.replace(/\?/, ""));
-  if (!qs[param]) {
-    const newQs = {
-      ...qs,
-      param
-    };
-    const redirectTo = `${window.location.origin}${
-      window.location.pathname
-    }?${querystring.encode(newQs)} `;
-    window.location.href = redirectTo;
-  }*/
-  
 var currentLocation = window.location.search;
 var stream_url = currentLocation.replace("?play&mediaType=all&live=true&url=", ""); 
 var MLKJIHGFEDCBA2 = atob("aHR0cHM6Ly9wcm94eTIudm54c2VydmVycy5jb20v", "aHR0cHM6XC9cL3Byb3h5Mi52bnhzZXJ2ZXJzLmNvbVwv");     
@@ -340,7 +326,7 @@ const clapprConfig = {
     shakaConfiguration: {
       drm: {
         servers: QWERTYUIOP,        
-        clearKeys :ASDFGHJKL
+        clearKeys : ASDFGHJKL
       }
     },
     autoPlay: "auto", 
