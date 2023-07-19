@@ -19,7 +19,14 @@ body {
   padding-bottom: 6rem;
   min-height: 100%;
   background: rgba(44, 131, 185, 1);
-  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+/*background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);*/
+}background: rgba(44, 131, 185, 1);
+  background: linear-gradient(
+    to right,
+    rgba(44, 131, 185, 1) 0%,
+    rgba(30, 171, 227, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#2c83b9', endColorstr='#1eabe3', GradientType=1);
 }
 
 #banner {
