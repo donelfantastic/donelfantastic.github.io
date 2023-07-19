@@ -165,17 +165,6 @@
 "country": "UK"
 },
 {
-"channel": "BeIN2s",
-"id": "BeIN2s",
-"name": "Bein Sports",
-"categories": [
-"Sports"
-],
-"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/BeIN2s\/sa_dash_vmx\/BeIN2s.mpd",
-"logo": "https:\/\/www.lyngsat-logo.com\/logo\/tv\/bb\/bein-sports-3-qa.png",
-"country": "ID"
-},
-{
 "channel": "BeritaSatu",
 "id": "BeritaSatu",
 "name": "Berita Satu",
@@ -759,14 +748,14 @@
 "country": "ID"
 },
 {
-"channel": "MNCSports",
-"id": "MNCSports",
-"name": "MNC Sports",
+"channel": "Sportstars.id",
+"id": "Sportstars.id",
+"name": "Sportstars",
 "categories": [
 "Sports"
 ],
 "url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/MNCSports-HD\/sa_dash_vmx\/MNCSports-HD.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/mnc-sports-id.png",
+"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3f\/Sportstars.png",
 "country": "ID"
 },
 {
@@ -794,7 +783,7 @@
 {
 "channel": "MrBein1",
 "id": "MrBein1",
-"name": "Bein Sports",
+"name": "Bein Sports ID",
 "categories": [
 "Sports"
 ],
@@ -990,14 +979,14 @@
 "country": "CN"
 },
 {
-"channel": "Soccer-2",
-"id": "Soccer-2",
-"name": "Soccer Channel 2",
+"channel": "Sportstar3.id",
+"id": "Sportstar3.id",
+"name": "Sportstar 3",
 "categories": [
 "Sports"
 ],
 "url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Soccer-2\/sa_dash_vmx\/Soccer-2.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/soccer-channel-id.png",
+"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a3\/Sportstars_3.png\/640px-Sportstars_3.png",
 "country": "ID"
 },
 {
