@@ -57,7 +57,7 @@ window.addEventListener("load", function () {
 //*      
 //      var n =
 //        "<br><span style='color:#000;'>Total Found: <strong style='color:#ff0000;'>" +
-        b +
+//        b +
 //        "</strong> channels.</span><br/><span style='color:#000;'>You can search by channel name, category, country or language! </span>";
 //      o.html(n);
 //*
