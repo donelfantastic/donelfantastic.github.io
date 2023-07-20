@@ -1,0 +1,1553 @@
+[
+{
+"channel": "AFN-HD",
+"id": "AFN-HD",
+"name": "Asian Food Network",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/AFN-HD\/sa_dash_vmx\/AFN-HD.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/asian-food-network-sg.svg",
+"country": "SG"
+},
+{
+"channel": "AlJazeeraInternational",
+"id": "AlJazeeraInternational",
+"name": "AlJazeera International",
+"categories": [
+"News"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/AlJazeeraInternational\/sa_dash_vmx\/AlJazeeraInternational.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/aljazeera-channel-qa.svg",
+"country": "QA"
+},
+{
+"channel": "AlQuranAlKareem",
+"id": "AlQuranAlKareem",
+"name": "AlQuran AlKareem",
+"categories": [
+"Religion"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/AlQuranAlKareem\/sa_dash_vmx\/AlQuranAlKareem.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/qq\/quran-tv-sa.png",
+"country": "QA"
+},
+{
+"channel": "AnhuiTV",
+"id": "AnhuiTV",
+"name": "Anhui TV",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/AnhuiTV\/sa_dash_vmx\/AnhuiTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/anhui_tv_cn.png",
+"country": "CN"
+},
+{
+"channel": "AnimalPlanet",
+"id": "AnimalPlanet",
+"name": "Animal Planet",
+"categories": [
+"Knowledge"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/AnimalPlanet\/sa_dash_vmx\/AnimalPlanet.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/animal-planet-us.svg",
+"country": "US"
+},
+{
+"channel": "Animax",
+"id": "Animax",
+"name": "Animax Indonesia",
+"categories": [
+"Kids"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Animax\/sa_dash_vmx\/Animax.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/animax_asia.png",
+"country": "ID"
+},
+{
+"channel": "ANTV",
+"id": "ANTV",
+"name": "ANTV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/ANTV\/sa_dash_vmx\/ANTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/antv.png",
+"country": "ID"
+},
+{
+"channel": "Arirang",
+"id": "Arirang",
+"name": "Arirang",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Arirang\/sa_dash_vmx\/Arirang.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/arirang-kr.svg",
+"country": "KR"
+},
+{
+"channel": "AustraliaPlus",
+"id": "AustraliaPlus",
+"name": "Australia Plus",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/AustraliaPlus\/sa_dash_vmx\/AustraliaPlus.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/abc-tv-plus-au.png",
+"country": "AU"
+},
+{
+"channel": "AXN",
+"id": "AXN",
+"name": "AXN",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/AXN\/sa_dash_vmx\/AXN.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/axn_east_asia.png",
+"country": "SG"
+},
+{
+"channel": "BabyTV-NewHD",
+"id": "BabyTV-NewHD",
+"name": "Baby TV",
+"categories": [
+"Kids"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/BabyTV-NewHD\/sa_dash_vmx\/BabyTV-NewHD.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/baby_tv_eu.png",
+"country": "EU"
+},
+{
+"channel": "BaliTV",
+"id": "BaliTV",
+"name": "Bali TV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/BaliTV\/sa_dash_vmx\/BaliTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/bali_tv_id.png",
+"country": "ID"
+},
+{
+"channel": "BandungTV",
+"id": "BandungTV",
+"name": "Bandung TV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/BandungTV\/sa_dash_vmx\/BandungTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/bandung_tv_id.png",
+"country": "ID"
+},
+{
+"channel": "BBCEarth-HD",
+"id": "BBCEarth-HD",
+"name": "BBC Earth",
+"categories": [
+"Knowledge"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/BBCEarth-HD\/sa_dash_vmx\/BBCEarth-HD.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/bbc-earth-uk.png",
+"country": "UK"
+},
+{
+"channel": "BBCWorldNews",
+"id": "BBCWorldNews",
+"name": "BBC World News",
+"categories": [
+"News"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/BBCWorldNews\/sa_dash_vmx\/BBCWorldNews.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/bbc_world_news_uk.png",
+"country": "UK"
+},
+{
+"channel": "BeritaSatu",
+"id": "BeritaSatu",
+"name": "Berita Satu",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/BeritaSatu\/sa_dash_vmx\/BeritaSatu.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/btv-id.svg",
+"country": "ID"
+},
+{
+"channel": "BeSmart",
+"id": "BeSmart",
+"name": "Be Smart",
+"categories": [
+"Kids"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/BeSmart\/sa_dash_vmx\/BeSmart.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/besmart-id.png",
+"country": "ID"
+},
+{
+"channel": "Bloomberg",
+"id": "Bloomberg",
+"name": "Bloomberg",
+"categories": [
+"News"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Bloomberg\/sa_dash_vmx\/Bloomberg.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/blommberg-tv-us.png",
+"country": "US"
+},
+{
+"channel": "Boomerang",
+"id": "Boomerang",
+"name": "Boomerang",
+"categories": [
+"Kids"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Boomerang\/sa_dash_vmx\/Boomerang.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/boomerang-us.svg",
+"country": "US"
+},
+{
+"channel": "MyCinema.id",
+"id": "MyCinema.id",
+"name": "My Cinema",
+"categories": [
+"Movies"
+],
+"url": "https://av-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd",
+"logo": "https://mncplay.id/wp-content/uploads/2023/06/MY-CINEMA-Ch.-52.png",
+"country": "ID"
+}, 
+{
+"channel": "MyFamily.id",
+"id": "MyFamily.id",
+"name": "My Family",
+"categories": [
+"Movies"
+],
+"url": "https://av-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd",
+"logo": "https://mncplay.id/wp-content/uploads/2023/06/MY-FAMILY-Ch.-51.png",
+"country": "ID"
+}, 
+{
+"channel": "MyCinemaAsia.id",
+"id": "MyCinemaAsia.id",
+"name": "My Cinema Asia",
+"categories": [
+"Movies"
+],
+"url": "https://av-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd",
+"logo": "https://mncplay.id/wp-content/uploads/2023/06/MY-CINEMA-ASIA-Ch.-53.png",
+"country": "ID"
+}, 
+{
+"channel": "Cinemachi.id",
+"id": "Cinemachi.id",
+"name": "Cinemachi",
+"categories": [
+"Movies"
+],
+"url": "https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd",
+"logo": "https://mncplay.id/wp-content/uploads/2023/06/CINEMACHI-Ch.-36.png",
+"country": "ID"
+}, 
+{
+"channel": "CinemachiAction.id",
+"id": "CinemachiAction.id",
+"name": "Cinemachi Action",
+"categories": [
+"Movies"
+],
+"url": "https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd",
+"logo": "https://mncplay.id/wp-content/uploads/2023/06/CINEMACHI-ACTION-Ch.-40.png",
+"country": "ID"
+}, 
+{
+"channel": "CinemachiMax.id",
+"id": "CinemachiMax.id",
+"name": "Cinemachi Max",
+"categories": [
+"Movies"
+],
+"url": "https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd",
+"logo": "https://mncplay.id/wp-content/uploads/2023/06/CINEMACHI-MAX-Ch.-39-1024x77.png",
+"country": "ID"
+}, 
+{
+"channel": "CinemachiXtra.id",
+"id": "CinemachiXtra.id",
+"name": "Cinemachi Xtra",
+"categories": [
+"Movies"
+],
+"url": "https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd",
+"logo": "https://mncplay.id/wp-content/uploads/2023/06/CINEMACHI-XTRA-Ch.-38.png",
+"country": "ID"
+}, 
+{
+"channel": "CinemachiKids.id",
+"id": "CinemachiKids.id",
+"name": "Cinemachi Kids",
+"categories": [
+"Kids"
+],
+"url": "https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd",
+"logo": "https://mncplay.id/wp-content/uploads/2023/06/CINEMACHI-KIDS-Ch.-37.png",
+"country": "ID"
+}, 
+{
+"channel": "MyKids.id",
+"id": "MyKids.id",
+"name": "My Kids",
+"categories": [
+"Kids"
+],
+"url": "https://nxanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd",
+"logo": "https://mncplay.id/wp-content/uploads/2023/06/MY-KIDS-Ch.-66.png",
+"country": "ID"
+}, 
+{
+"channel": "Zoomoo.id",
+"id": "Zoomoo.id",
+"name": "Zoomoo",
+"categories": [
+"Kids"
+],
+"url": "https://nxanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd",
+"logo": "https://mncplay.id/wp-content/uploads/2023/06/ZOOMOO-Ch.-63.png",
+"country": "ID"
+},
+{
+"channel": "DreamworkNetworkChannel.id",
+"id": "DreamworkNetworkChannel.id",
+"name": "Dreamworks Network",
+"categories": [
+"Kids"
+],
+"url": "https://nxanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd",
+"logo": "https://mncplay.id/wp-content/uploads/2023/06/DREAMWORKS-Ch.-67.png",
+"country": "ID"
+},
+{
+"channel": "ParamountNetworkChannel.id",
+"id": "ParamountNetworkChannel.id",
+"name": "Paramount Network",
+"categories": [
+"Novies"
+],
+"url": "https://nxanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd",
+"logo": "https://mncplay.id/wp-content/uploads/2023/06/PARAMOUNT-NETWORK-Ch.-54-768x265.png",
+"country": "ID"
+},
+{
+"channel": "RockAction.id",
+"id": "RockAction.id",
+"name": "Rock Action",
+"categories": [
+"Movies"
+],
+"url": "https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd",
+"logo": "https://mncplay.id/wp-content/uploads/2023/06/ROCK-ACTION-Ch.-92.png",
+"country": "ID"
+},
+{
+"channel": "RockEntertainment.id",
+"id": "RockEntertainment.id",
+"name": "Rock Entertainment",
+"categories": [
+"Entertainment"
+],
+"url": "https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd",
+"logo": "https://mncplay.id/wp-content/uploads/2023/06/ROCK-ENTERTAINMENT-Ch.-93.png",
+"country": "ID"
+},                                          
+{
+"channel": "CartoonNetwork",
+"id": "CartoonNetwork",
+"name": "Cartoon Network",
+"categories": [
+"Kids"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/CartoonNetwork\/sa_dash_vmx\/CartoonNetwork.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cartoon-network-us.svg",
+"country": "ID"
+},
+{
+"channel": "Cbeebies",
+"id": "Cbeebies",
+"name": "Cbeebies",
+"categories": [
+"Kids"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Cbeebies\/sa_dash_vmx\/Cbeebies.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cbeebies-uk-uk.svg",
+"country": "UK"
+},
+{
+"channel": "CelestialClassic",
+"id": "CelestialClassic",
+"name": "Celestial Classic",
+"categories": [
+"Movies"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/CelestialClassic\/sa_dash_vmx\/CelestialClassic.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/celestial-classic-movies-hk.png",
+"country": "HK"
+},
+{
+"channel": "CelestialMovie",
+"id": "CelestialMovie",
+"name": "Celestial Movie",
+"categories": [
+"Movies"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/CelestialMovie\/sa_dash_vmx\/CelestialMovie.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/celestial-movies-hk.png",
+"country": "HK"
+},
+{
+"channel": "CGTN_Doc",
+"id": "CGTN_Doc",
+"name": "CGTN Documenter",
+"categories": [
+"Knowledge"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/CGTN_Doc\/sa_dash_vmx\/CGTN_Doc.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cgtn_cn_documentary.png",
+"country": "CN"
+},
+{
+"channel": "CGTN",
+"id": "CGTN",
+"name": "CGTN",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/CGTN\/sa_dash_vmx\/CGTN.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cgtn_cn.png",
+"country": "CN"
+},
+{
+"channel": "ChannelNewsAsia",
+"id": "ChannelNewsAsia",
+"name": "Channel News Asia",
+"categories": [
+"News"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/ChannelNewsAsia\/sa_dash_vmx\/ChannelNewsAsia.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cna-sg.svg",
+"country": "SG"
+},
+{
+"channel": "CinemaWorld",
+"id": "CinemaWorld",
+"name": "Cinema World",
+"categories": [
+"Movies"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/CinemaWorld\/sa_dash_vmx\/CinemaWorld.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cinemaworld-sg.svg",
+"country": "SG"
+},
+{
+"channel": "CinemaxHD2",
+"id": "CinemaxHD2",
+"name": "Cinemax",
+"categories": [
+"Movies"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/CinemaxHD2\/sa_dash_vmx\/CinemaxHD2.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cinemax-asia-us.png",
+"country": "US"
+},
+{
+"channel": "CNBC",
+"id": "CNBC",
+"name": "CNBC",
+"categories": [
+"News"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/CNBC\/sa_dash_vmx\/CNBC.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cnbc-us.svg",
+"country": "US"
+},
+{
+"channel": "CNNInternational",
+"id": "CNNInternational",
+"name": "CNN International",
+"categories": [
+"News"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/CNNInternational\/sa_dash_vmx\/CNNInternational.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cnn-us.svg",
+"country": "US"
+},
+{
+"channel": "CrimeInvestigation",
+"id": "CrimeInvestigation",
+"name": "CrimeInvestigation",
+"categories": [
+"Knowledge"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/CrimeInvestigation\/sa_dash_vmx\/CrimeInvestigation.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/crime-plus-investigation-us.svg",
+"country": "US"
+},
+{
+"channel": "DAAITV",
+"id": "DAAITV",
+"name": "DAAITV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/DAAITV\/sa_dash_vmx\/DAAITV.mpd",
+"logo": "https:\/\/www.lyngsat-logo.com\/logo\/tv\/dd\/da-ai-tv-indonesia-tw-in.png",
+"country": "ID"
+},
+{
+"channel": "Discovery",
+"id": "Discovery",
+"name": "Discovery",
+"categories": [
+"Knowledge"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Discovery\/sa_dash_vmx\/Discovery.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/dd\/discovery-channel-east-us.png",
+"country": "US"
+},
+{
+"channel": "DW",
+"id": "DW",
+"name": "DW",
+"categories": [
+"News"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/DW\/sa_dash_vmx\/DW.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/dd\/deutsche_welle_tv_de.png",
+"country": "DE"
+},
+{
+"channel": "EuroNews",
+"id": "EuroNews",
+"name": "Euro News",
+"categories": [
+"News"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/EuroNews\/sa_dash_vmx\/EuroNews.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ee\/euronews-fr.svg",
+"country": "FR"
+},
+{
+"channel": "EWTN",
+"id": "EWTN",
+"name": "EWTN",
+"categories": [
+"Religion"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/EWTN\/sa_dash_vmx\/EWTN.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ee\/ewtn_us.png",
+"country": "US"
+},
+{
+"channel": "FightSports",
+"id": "FightSports",
+"name": "Fight Sports",
+"categories": [
+"Sports"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/FightSports\/sa_dash_vmx\/FightSports.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ff\/fight_sports_us.png",
+"country": "US"
+},
+{
+"channel": "FMN",
+"id": "FMN",
+"name": "FMN",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/FMN\/sa_dash_vmx\/FMN.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ff\/fmn_id.png",
+"country": "ID"
+},
+{
+"channel": "FoxNews",
+"id": "FoxNews",
+"name": "Fox News",
+"categories": [
+"News"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/FoxNews\/sa_dash_vmx\/FoxNews.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ff\/fox_news_channel.png",
+"country": "US"
+},
+{
+"channel": "France24",
+"id": "France24",
+"name": "France 24",
+"categories": [
+"News"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/France24\/sa_dash_vmx\/France24.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ff\/france24_fr.png",
+"country": "FR"
+},
+{
+"channel": "GlobalTrekker.id",
+"id": "GlobalTrekker.id",
+"name": "Global Trekker",
+"categories": [
+"Knowledge"
+],
+"url": "https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd",
+"logo": "https://mncplay.id/wp-content/uploads/2023/06/GLOBAL-TREKKER-Ch.-103.png",
+"country": "ID"
+},              
+{
+"channel": "Galaxy-HD",
+"id": "Galaxy-HD",
+"name": "Galaxy",
+"categories": [
+"Movies"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Galaxy-HD\/sa_dash_vmx\/Galaxy-HD.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/gg\/galaxy_tv_id.png",
+"country": "ID"
+},
+{
+"channel": "GalaxyPremium-HD",
+"id": "GalaxyPremium-HD",
+"name": "Galaxy Premium",
+"categories": [
+"Movies"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/GalaxyPremium-HD\/sa_dash_vmx\/GalaxyPremium-HD.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/gg\/galaxy-premium-id.png",
+"country": "ID"
+},
+{
+"channel": "GTV-HD",
+"id": "GTV-HD",
+"name": "GTV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/GTV-HD\/sa_dash_vmx\/GTV-HD.mpd",
+"logo": "https:\/\/www.lyngsat-logo.com\/logo\/tv\/gg\/gtv-id.png",
+"country": "ID"
+},
+{
+"channel": "HGTV",
+"id": "HGTV",
+"name": "HGTV",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/HGTV\/sa_dash_vmx\/HGTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/hh\/hgtv-us.svg",
+"country": "US"
+},
+{
+"channel": "History",
+"id": "History",
+"name": "History",
+"categories": [
+"Knowledge"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/History\/sa_dash_vmx\/History.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/hh\/history_us.png",
+"country": "US"
+},
+{
+"channel": "HITS",
+"id": "HITS",
+"name": "HITS",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/HITS\/sa_dash_vmx\/HITS.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/hh\/hits_tv_sg.png",
+"country": "SG"
+},
+{
+"channel": "HitsMovies",
+"id": "HitsMovies",
+"name": "Hits Movies",
+"categories": [
+"Movies"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/HitsMovies\/sa_dash_vmx\/HitsMovies.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/hh\/hits-movies-sg.png",
+"country": "ID"
+},
+{
+"channel": "HunanTV",
+"id": "HunanTV",
+"name": "HunanTV",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/HunanTV\/sa_dash_vmx\/HunanTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/hh\/hunan_cn_tv.png",
+"country": "CN"
+},
+{
+"channel": "IDX",
+"id": "IDX",
+"name": "IDX",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/IDX\/sa_dash_vmx\/IDX.mpd",
+"logo": "https:\/\/www.lyngsat-logo.com\/logo\/tv\/ii\/idx_channel_id.png",
+"country": "ID"
+},
+{
+"channel": "IndonesiaMovieChannels-HD",
+"id": "IndonesiaMovieChannels-HD",
+"name": "Indonesia Movie Channels",
+"categories": [
+"Movies"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/IndonesiaMovieChannels-HD\/sa_dash_vmx\/IndonesiaMovieChannels-HD.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ii\/imc-id.png",
+"country": "ID"
+},
+{
+"channel": "iNewsTV-HDD",
+"id": "iNewsTV-HDD",
+"name": "iNewsTV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/iNewsTV-HDD\/sa_dash_vmx\/iNewsTV-HDD.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ii\/inews-id.png",
+"country": "ID"
+},
+{
+"channel": "JakTV",
+"id": "JakTV",
+"name": "JakTV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/JakTV\/sa_dash_vmx\/JakTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/jj\/jak-tv-id.png",
+"country": "ID"
+},
+{
+"channel": "JiangsuTV",
+"id": "JiangsuTV",
+"name": "JiangsuTV",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/JiangsuTV\/sa_dash_vmx\/JiangsuTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/jj\/jiangsu_tv.png",
+"country": "CN"
+},
+{
+"channel": "JTV",
+"id": "JTV",
+"name": "JTV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/JTV\/sa_dash_vmx\/JTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/jj\/jtv-id.png",
+"country": "ID"
+},
+{
+"channel": "KidsChannel",
+"id": "KidsChannel",
+"name": "Kids Channel",
+"categories": [
+"Kids"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/KidsChannel\/sa_dash_vmx\/KidsChannel.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/kk\/kids-tv-id.png",
+"country": "ID"
+},
+{
+"channel": "KIX",
+"id": "KIX",
+"name": "KIX",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/KIX\/sa_dash_vmx\/KIX.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/kk\/kix-hk.png",
+"country": "HK"
+},
+{
+"channel": "KompasTV",
+"id": "KompasTV",
+"name": "KompasTV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/KompasTV\/sa_dash_vmx\/KompasTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/kk\/kompas-tv-id.png",
+"country": "ID"
+},
+{
+"channel": "Life",
+"id": "Life",
+"name": "Life",
+"categories": [
+"Life Style"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Life\/sa_dash_vmx\/Life.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ll\/life_id.png",
+"country": "ID"
+},
+{
+"channel": "LifeStyleFashion",
+"id": "LifeStyleFashion",
+"name": "Life Style Fashion",
+"categories": [
+"Life Style"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/LifeStyleFashion\/sa_dash_vmx\/LifeStyleFashion.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ll\/lifestyle-and-fashion-id.png",
+"country": "ID"
+},
+{
+"channel": "Lifetime",
+"id": "Lifetime",
+"name": "Lifetime",
+"categories": [
+"Life Style"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Lifetime\/sa_dash_vmx\/Lifetime.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ll\/lifetime-us.png",
+"country": "US"
+},
+{
+"channel": "MtvLive.uk",
+"id": "MtvLive.uk",
+"name": "MTV LIVE",
+"categories": [
+"Music"
+],
+"url": "https://nyanv-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd",
+"logo": "https://mncplay.id/wp-content/uploads/2023/06/MTV-LIVE-Ch.-143.png",
+"country": "UK"
+},
+{
+"channel": "Mtv90s.uk",
+"id": "Mtv90s.uk",
+"name": "MTV 90s",
+"categories": [
+"Music"
+],
+"url": "https://nyanv-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd",
+"logo": "https://mncplay.id/wp-content/uploads/2023/06/MTV-90S-Ch.-144.png",
+"country": "UK"
+},
+{
+"channel": "Metro-TV2",
+"id": "Metro-TV2",
+"name": "MetroTV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Metro-TV2\/sa_dash_vmx\/Metro-TV2.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/metro_tv_id.png",
+"country": "ID"
+},
+{
+"channel": "MiaoMi",
+"id": "MiaoMi",
+"name": "Miao Mi",
+"categories": [
+"Kids"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/MiaoMi\/sa_dash_vmx\/MiaoMi.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/miao_mi_tv_hk.png",
+"country": "HK"
+},
+{
+"channel": "MNCEntertainment",
+"id": "MNCEntertainment",
+"name": "MNC Entertainment",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/MNCEntertainment\/sa_dash_vmx\/MNCEntertainment.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ee\/ent-id.png",
+"country": "ID"
+},
+{
+"channel": "MNCInfotainment",
+"id": "MNCInfotainment",
+"name": "MNC Infotainment",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/MNCInfotainment\/sa_dash_vmx\/MNCInfotainment.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ii\/ie-indonesia-id.png",
+"country": "ID"
+},
+{
+"channel": "MNCMuslim",
+"id": "MNCMuslim",
+"name": "MNC Muslim",
+"categories": [
+"Religion"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/MNCMuslim\/sa_dash_vmx\/MNCMuslim.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/muslim-tv-id.png",
+"country": "ID"
+},
+{
+"channel": "MNCnews-HDD",
+"id": "MNCnews-HDD",
+"name": "MNC news",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/MNCnews-HDD\/sa_dash_vmx\/MNCnews-HDD.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/mnc-news-id.png",
+"country": "ID"
+},
+{
+"channel": "MNCShop",
+"id": "MNCShop",
+"name": "MNC Shop",
+"categories": [
+"Life Style"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/MNCShop\/sa_dash_vmx\/MNCShop.mpd",
+"logo": "https:\/\/static.wikia.nocookie.net\/logopedia\/images\/0\/0c\/EM_Shop_logo.png",
+"country": "ID"
+},
+{
+"channel": "MNCShopSmart",
+"id": "MNCShopSmart",
+"name": "MNC Shop Smart",
+"categories": [
+"Life Style"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/MNCShopSmart\/sa_dash_vmx\/MNCShopSmart.mpd",
+"logo": "https:\/\/static.wikia.nocookie.net\/logopedia\/images\/0\/0c\/EM_Shop_logo.png",
+"country": "ID"
+},
+{
+"channel": "Sportstars.id",
+"id": "Sportstars.id",
+"name": "Sportstars",
+"categories": [
+"Sports"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/MNCSports-HD\/sa_dash_vmx\/MNCSports-HD.mpd",
+"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3f\/Sportstars.png",
+"country": "ID"
+},
+{
+"channel": "Sportstars2.id",
+"id": "Sportstars2.id",
+"name": "Sportstars 2",
+"categories": [
+"Sports"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
+"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d7\/Sportstars_2.png\/640px-Sportstars_2.png",
+"country": "ID"
+},
+{
+"channel": "Sportstar3.id",
+"id": "Sportstar3.id",
+"name": "Sportstar 3",
+"categories": [
+"Sports"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Soccer-2\/sa_dash_vmx\/Soccer-2.mpd",
+"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a3\/Sportstars_3.png\/640px-Sportstars_3.png",
+"country": "ID"
+},
+{
+"channel": "Sportstar4.id",
+"id": "Sportstar4.id",
+"name": "Sportstar 4",
+"categories": [
+"Sports"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Sportstar4\/sa_dash_vmx\/Sportstar4.mpd",
+"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a4\/Sportstars_4.png",
+"country": "ID"
+},
+{
+"channel": "MNCTV-HD",
+"id": "MNCTV-HD",
+"name": "MNCTV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/MNCTV-HD\/sa_dash_vmx\/MNCTV-HD.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/mnc_id_tv.png",
+"country": "ID"
+},
+{
+"channel": "MtvLive.sg",
+"id": "MtvLive.sg",
+"name": "MTV Live",
+"categories": [
+"Music"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/MrBein1\/sa_dash_vmx\/MrBein1.mpd",
+"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/30\/MTV_Live_2021_logo.svg\/440px-MTV_Live_2021_logo.svg.png",
+"country": "SG"
+},
+{
+"channel": "MusicChannel",
+"id": "MusicChannel",
+"name": "Music Channel",
+"categories": [
+"Music"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/MusicChannel\/sa_dash_vmx\/MusicChannel.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/music-tv-id.png",
+"country": "ID"
+},
+{
+"channel": "NatGeoChannel",
+"id": "NatGeoChannel",
+"name": "NatGeo Channel",
+"categories": [
+"Knowledge"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/NatGeoChannel\/sa_dash_vmx\/NatGeoChannel.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/nn\/national-geographic-us.svg",
+"country": "US"
+},
+{
+"channel": "NatGeoWild",
+"id": "NatGeoWild",
+"name": "NatGeo Wild",
+"categories": [
+"Knowledge"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/NatGeoWild\/sa_dash_vmx\/NatGeoWild.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/nn\/national-geographic-wild-us.svg",
+"country": "US"
+},
+{
+"channel": "NetTV-HD",
+"id": "NetTV-HD",
+"name": "NetTV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/NetTV-HD\/sa_dash_vmx\/NetTV-HD.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/nn\/net-id.png",
+"country": "ID"
+},
+{
+"channel": "NHKWorldPremium",
+"id": "NHKWorldPremium",
+"name": "NHK World Premium",
+"categories": [
+"News"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/NHKWorldPremium\/sa_dash_vmx\/NHKWorldPremium.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/nn\/nhk-world-premium-jp.png",
+"country": "JP"
+},
+{
+"channel": "NHKWorldTV",
+"id": "NHKWorldTV",
+"name": "NHK World TV",
+"categories": [
+"News"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/NHKWorldTV\/sa_dash_vmx\/NHKWorldTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/nn\/nhk-world-japan-jp.svg",
+"country": "JP"
+},
+{
+"channel": "Nickelodeon",
+"id": "Nickelodeon",
+"name": "Nickelodeon",
+"categories": [
+"Kids"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Nickelodeon\/sa_dash_vmx\/Nickelodeon.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/nn\/nickelodeon-us.svg",
+"country": "US"
+},
+{
+"channel": "NickJr-HDD",
+"id": "NickJr-HDD",
+"name": "Nick Jr HD",
+"categories": [
+"Kids"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/NickJr-HDD\/sa_dash_vmx\/NickJr-HDD.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/nn\/nick-jr-us.svg",
+"country": "US"
+},
+{
+"channel": "OKTV",
+"id": "OKTV",
+"name": "OKTV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/OKTV\/sa_dash_vmx\/OKTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/oo\/ok-tv-id.png",
+"country": "ID"
+},
+{
+"channel": "PemersatuBangsa",
+"id": "PemersatuBangsa",
+"name": "TVRI",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/PemersatuBangsa\/sa_dash_vmx\/PemersatuBangsa.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tvri-id.png",
+"country": "ID"
+},
+{
+"channel": "RCTI-DD",
+"id": "RCTI-DD",
+"name": "RCTI",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/RCTI-DD\/sa_dash_vmx\/RCTI-DD.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/rr\/rcti-id.svg",
+"country": "ID"
+},
+{
+"channel": "Reformed21",
+"id": "Reformed21",
+"name": "Reformed 21",
+"categories": [
+"Religion"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Reformed21\/sa_dash_vmx\/Reformed21.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/rr\/reformed_21_id.png",
+"country": "ID"
+},
+{
+"channel": "RTEnglish",
+"id": "RTEnglish",
+"name": "RT English",
+"categories": [
+"News"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/RTEnglish\/sa_dash_vmx\/RTEnglish.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/rr\/rt-news-ru.svg",
+"country": "RU"
+},
+{
+"channel": "RTV",
+"id": "RTV",
+"name": "RTV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/RTV\/sa_dash_vmx\/RTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/rr\/rajawali_tv_id.png",
+"country": "ID"
+},
+{
+"channel": "SEA-Channel",
+"id": "SEA-Channel",
+"name": "SEA Channel",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/SEA-Channel\/sa_dash_vmx\/SEA-Channel.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/sea-today-id.png",
+"country": "ID"
+},
+{
+"channel": "SetOne",
+"id": "SetOne",
+"name": "One",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/SetOne\/sa_dash_vmx\/SetOne.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/oo\/one-in.png",
+"country": "US"
+},
+{
+"channel": "ShanghaiDragonTV",
+"id": "ShanghaiDragonTV",
+"name": "Shanghai Dragon TV",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/ShanghaiDragonTV\/sa_dash_vmx\/ShanghaiDragonTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/dd\/dragon-tv-cn.png",
+"country": "CN"
+},
+{
+"channel": "soccerchannel-HD",
+"id": "soccerchannel-HD",
+"name": "Soccer Channel",
+"categories": [
+"Sports"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/soccerchannel-HD\/sa_dash_vmx\/soccerchannel-HD.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/soccer-channel-id.png",
+"country": "ID"
+},
+{
+"channel": "SPOTV",
+"id": "SPOTV",
+"name": "SPOTV",
+"categories": [
+"Sports"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/SPOTV-HD\/sa_dash_vmx\/SPOTV-HD.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/spotv-kr.png",
+"country": "ID"
+},
+{
+"channel": "SPOTV2-HD",
+"id": "SPOTV2-HD",
+"name": "SPOTV 2",
+"categories": [
+"Sports"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/SPOTV2-HD\/sa_dash_vmx\/SPOTV2-HD.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/spotv-2-kr.png",
+"country": "KR"
+},
+{
+"channel": "TawafTV",
+"id": "TawafTV",
+"name": "Tawaf TV",
+"categories": [
+"Religion"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/TawafTV\/sa_dash_vmx\/TawafTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tawaf-tv-id.png",
+"country": "ID"
+},
+{
+"channel": "Thrill",
+"id": "Thrill",
+"name": "Thrill",
+"categories": [
+"Movies"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Thrill\/sa_dash_vmx\/Thrill.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/thrill_hk.png",
+"country": "HK"
+},
+{
+"channel": "TLC",
+"id": "TLC",
+"name": "TLC",
+"categories": [
+"Life Style"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/TLC\/sa_dash_vmx\/TLC.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tlc-us.svg",
+"country": "US"
+},
+{
+"channel": "Trans7-2",
+"id": "Trans7-2",
+"name": "Trans7",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Trans7-2\/sa_dash_vmx\/Trans7-2.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/trans_7_id.png",
+"country": "ID"
+},
+{
+"channel": "TransTV-2",
+"id": "TransTV-2",
+"name": "Trans TV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/TransTV-2\/sa_dash_vmx\/TransTV-2.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/trans_tv_id.png",
+"country": "ID"
+},
+{
+"channel": "TRTWorld",
+"id": "TRTWorld",
+"name": "TRT World",
+"categories": [
+"News"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/TRTWorld\/sa_dash_vmx\/TRTWorld.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/trt-world-tr.svg",
+"country": "TR"
+},
+{
+"channel": "TV5",
+"id": "TV5",
+"name": "TV5",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/TV5\/sa_dash_vmx\/TV5.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tv5monde-fr.png",
+"country": "FR"
+},
+{
+"channel": "TV9",
+"id": "TV9",
+"name": "TV9",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/TV9\/sa_dash_vmx\/TV9.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tv-9-my.png",
+"country": "MY"
+},
+{
+"channel": "TVMuhammadiyah",
+"id": "TVMuhammadiyah",
+"name": "TV Muhammadiyah",
+"categories": [
+"Religion"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/TVMuhammadiyah\/sa_dash_vmx\/TVMuhammadiyah.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tv-mu-id.png",
+"country": "ID"
+},
+{
+"channel": "tvN",
+"id": "tvN",
+"name": "tvN",
+"categories": [
+"Movies"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/tvN\/sa_dash_vmx\/tvN.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tvn-kr.svg",
+"country": "KR"
+},
+{
+"channel": "tvNMovies",
+"id": "tvNMovies",
+"name": "tvN Movies",
+"categories": [
+"Movies"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/tvNMovies\/sa_dash_vmx\/tvNMovies.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tvnmovies.png",
+"country": "ID"
+},
+{
+"channel": "TVOne",
+"id": "TVOne",
+"name": "TVOne",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/TVOne\/sa_dash_vmx\/TVOne.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tvone-id.png",
+"country": "ID"
+},
+{
+"channel": "VisionPrime",
+"id": "VisionPrime",
+"name": "Vision Prime",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/VisionPrime\/sa_dash_vmx\/VisionPrime.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/vv\/vision-prime-id.png",
+"country": "ID"
+},
+{
+"channel": "WarnerTV",
+"id": "WarnerTV",
+"name": "Warner TV",
+"categories": [
+"Movies"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/WarnerTV\/sa_dash_vmx\/WarnerTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ww\/warner-tv-us.png",
+"country": "US"
+},
+{
+"channel": "XingKongTV",
+"id": "XingKongTV",
+"name": "XingKong TV",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/XingKongTV\/sa_dash_vmx\/XingKongTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/star_xing_kong_hk.png",
+"country": "HK"
+},
+{
+"channel": "ZeeBIOSKOP",
+"id": "ZeeBIOSKOP",
+"name": "Zee BIOSKOP",
+"categories": [
+"Movies"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/ZeeBIOSKOP\/sa_dash_vmx\/ZeeBIOSKOP.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/zz\/zee-bioskop-in.png",
+"country": "IN"
+},
+{
+"channel": "HitsMovies",
+"id": "HitsMovies",
+"name": "Hits Movies",
+"categories": [
+"Movies"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/Hits\/sa_dash_vmx\/HitsMovies.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/hh\/hits-movies-sg.png",
+"country": "SG"
+},
+{
+"channel": "NickJr",
+"id": "NickJr",
+"name": "Nick Jr",
+"categories": [
+"Kids"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/NickJr\/sa_dash_vmx\/NickJr.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/nn\/nick-jr-us.svg",
+"country": "US"
+},
+{
+"channel": "SCM",
+"id": "SCM",
+"name": "SPOTV",
+"categories": [
+"Sports"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/SCM\/sa_dash_vmx\/SCM.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/spotv-kr.png",
+"country": "KR"
+},
+{
+"channel": "MNCSports3-HD",
+"id": "MNCSports3-HD",
+"name": "MNC Sports 3",
+"categories": [
+"Sports"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/MNCSports3-HD\/sa_dash_vmx\/MNCSports3-HD.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/mnc-sports-id.png",
+"country": "ID"
+},
+{
+"channel": "JTV",
+"id": "JTV",
+"name": "JTV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/JTV\/sa_dash\/JTV.mpd",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/jj\/jtv-id.png",
+"country": "ID"
+},
+{
+"channel": "Sctv",
+"id": "Sctv",
+"name": "SCTV",
+"categories": [
+"Local Tv"
+],
+"url": "https://donelfantastic.github.io/creativemedia/local/sctv.m3u8",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/sctv_id.png",
+"country": "ID"
+},
+{
+"channel": "Indosiar",
+"id": "Indosiar",
+"name": "Indosiar",
+"categories": [
+"Local Tv"
+],
+"url": "https://donelfantastic.github.io/creativemedia/local/indosiar.m3u8",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ii\/indosiar-id.png",
+"country": "ID"
+},
+{
+"channel": "Moji",
+"id": "Moji",
+"name": "Moji",
+"categories": [
+"Local Tv"
+],
+"url": "https://donelfantastic.github.io/creativemedia/local/moji.m3u8",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/moji-id.svg",
+"country": "ID"
+},
+{
+"channel": "TycSports.ar",
+"id": "TycSports.ar",
+"name": "TYC Sports",
+"categories": [
+"Sports"
+],  
+"url": "https:\/\/tvfuego.cdn.rcs.net.ar\/mnp\/tyc\/output.mpd",
+"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/54\/TyC_Sports_logo.svg\/1554px-TyC_Sports_logo.svg.png",
+"country": "AR"
+}, 
+{
+"channel": "donelfantastic.id",
+"id": "donelfantastic.id",
+"name": "Ikatan Cinta Nella & Dory",
+"categories": [
+"VOD"
+],
+"url": "https:\/\/cf-vod-cdn.mncnow.id\/vod\/storage2\/kilau-konser-ikatan-cinta-nella-dory-2021-rev-clean-anv6-rev\/_\/sa_dash_vmx\/kilau-konser-ikatan-cinta-nella-dory-2021-rev-clean-anv6-rev.mpd",
+"logo": "https:\/\/static.mncnow.id\/images\/vod\/c0b01684/2670_r32.jpg",
+"country": "ID"
+}, 
+{
+"channel": "kPlus.kr",
+"id": "kPlus.kr",
+"name": "K Plus",
+"categories": [
+"Movies"
+],
+"url": "https://donelfantastic.github.io/creativemedia/local/kPlus.m3u8",
+"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/id\/8\/8c\/K_Plus_Asia_Logo.jpg",
+"country": "KR"
+}, 
+{
+"channel": "muTv.uk",
+"id": "muTv.uk",
+"name": "MUTV",
+"categories": [
+"Sports"
+],
+"url": "https:\/\/bcovlive-a.akamaihd.net\/r2d2c4ca5bf57456fb1d16255c1a535c8\/eu-west-1\/6058004203001\/playlist.m3u8",
+"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/b8\/MUTV_logo.png\/400px-MUTV_logo.png",
+"country": "UK"
+}, 
+{
+"channel": "beinSports.qa",
+"id": "beinSports.qa",
+"name": "Bein Sports",
+"categories": [
+"Sports"
+],
+"url": "https:\/\/edge02.odtv.az\/o4\/beinsport\/playlist.m3u8",
+"logo": "https:\/\/assets.bein.com\/mena\/sites\/3\/2015\/06\/beIN_SPORTS1_ENGLISH_Digital_Mono.png",
+"country": "UK"
+}, 
+{
+"channel": "kPoptv.br",
+"id": "kPoptv.br",
+"name": "KPop TV",
+"categories": [
+"Music"
+],
+"url": "https:\/\/srv1.zcast.com.br\/kpoptv\/kpoptv\/chunklist_w241271023.m3u8",
+"logo": "https:\/\/kpoptv.live\/wp-content\/uploads\/2021\/10\/logokpoptvplay.png",
+"country": "BR"
+}    
+]
