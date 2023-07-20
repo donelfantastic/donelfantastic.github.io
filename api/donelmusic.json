@@ -451,17 +451,6 @@
 "country": "SG"
 },
 {
-"channel": "CinemaxHD2",
-"id": "CinemaxHD2",
-"name": "Cinemax",
-"categories": [
-"Movies"
-],
-"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/CinemaxHD2\/sa_dash_vmx\/CinemaxHD2.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cinemax-asia-us.png",
-"country": "US"
-},
-{
 "channel": "CNBC",
 "id": "CNBC",
 "name": "CNBC",
@@ -1432,23 +1421,12 @@
 {
 "channel": "MNCSports3-HD",
 "id": "MNCSports3-HD",
-"name": "MNC Sports 3",
+"name": "Sportstars 3 HD",
 "categories": [
 "Sports"
 ],
 "url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/MNCSports3-HD\/sa_dash_vmx\/MNCSports3-HD.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/mnc-sports-id.png",
-"country": "ID"
-},
-{
-"channel": "JTV",
-"id": "JTV",
-"name": "JTV",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/av-live-cdn.mncnow.id\/live\/eds\/JTV\/sa_dash\/JTV.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/jj\/jtv-id.png",
+"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a3\/Sportstars_3.png\/640px-Sportstars_3.png",
 "country": "ID"
 },
 {
