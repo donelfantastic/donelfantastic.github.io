@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=705720,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=480x360
-https://proxy2.vnxservers.com/http://210.210.155.35/session/95c0f38c-20af-11ee-b954-8030bbb0d88d/qwr9ew/s/s03/02.m3u8
+https://cors.plus/http://210.210.155.35/session/95c0f38c-20af-11ee-b954-8030bbb0d88d/qwr9ew/s/s03/02.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1727459,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x480
-https://proxy2.vnxservers.com/http://210.210.155.35/session/95c0f38c-20af-11ee-b954-8030bbb0d88d/qwr9ew/s/s03/01.m3u8
+https://cors.plus/http://210.210.155.35/session/95c0f38c-20af-11ee-b954-8030bbb0d88d/qwr9ew/s/s03/01.m3u8
 #http://210.210.155.35/session/95c0f38c-20af-11ee-b954-8030bbb0d88d/qwr9ew/s/s03/01.m3u8
