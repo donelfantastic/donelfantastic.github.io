@@ -302,10 +302,10 @@
 <script type="text/javascript">
   async function init() {
     const video = document.querySelector("#video");
-    var ABCDEFGHIJKLM = ABCDEFGHIJKLM; 
-    var NOPQRSTUVWXYZ = NOPQRSTUVWXYZ
-    var QWERTYUIOP = QWERTYUIOP;
-    var ASDFGHJKL = ASDFGHJKL;
+    //var ABCDEFGHIJKLM = ABCDEFGHIJKLM; 
+    //var NOPQRSTUVWXYZ = NOPQRSTUVWXYZ
+    //var QWERTYUIOP = QWERTYUIOP;
+    //var ASDFGHJKL = ASDFGHJKL;
     const currentLocation = window.location.search;
     const stream_url = currentLocation.replace("?play&mediaType=all&live=true&url=", "");
     const ui = video["ui"];
@@ -323,7 +323,7 @@
     player.addEventListener("error", onPlayerErrorEvent);
     controls.addEventListener("error", onUIErrorEvent);
     try {
-      await player.load(MLKJIHGFEDCBA3 + stream_url);
+      await player.load(stream_url);
       console.log("The video has now been loaded!");
     } catch (error) {
       onPlayerError(error);
