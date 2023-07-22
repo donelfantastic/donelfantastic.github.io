@@ -317,12 +317,13 @@
       }
     });
     var MLKJIHGFEDCBA2 = atob("aHR0cHM6Ly9wcm94eTIudm54c2VydmVycy5jb20v", "aHR0cHM6XC9cL3Byb3h5Mi52bnhzZXJ2ZXJzLmNvbVwv");
+    var MLKJIHGFEDCBA3 = "https://cors1.donelfantastic.workers.dev:443/";
     window.player = player;
     window.ui = ui;
     player.addEventListener("error", onPlayerErrorEvent);
     controls.addEventListener("error", onUIErrorEvent);
     try {
-      await player.load(MLKJIHGFEDCBA2 + stream_url);
+      await player.load(MLKJIHGFEDCBA3 + stream_url);
       console.log("The video has now been loaded!");
     } catch (error) {
       onPlayerError(error);
