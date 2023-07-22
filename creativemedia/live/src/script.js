@@ -7,7 +7,7 @@ window.addEventListener("load", function () {
   
   $.ajax({
     type: "GET",
-    url: "https://donelfantastic.github.io/api/dd-oo-nn-ee-ll-ff-aa-nn-tt-aa-ss-tt-ii-cc.json",
+    url: "https://donelfantastic.github.io/api/donelmusic.json",
     success: function (a) {
       var b = 0;
       var c =
@@ -37,7 +37,7 @@ window.addEventListener("load", function () {
           b++;
           var proxyUrl = "https:\/\/proxy.vnxservers.com\/";
           //var deviceId = "deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj";
-          var deviceId = "deviceId=YzM0NDA0MTIt
+          var deviceId = "deviceId=YzM0NDA0MTIt";
           c +=
             "<tr><td><img width='48' src='" +
             a[i].logo +
