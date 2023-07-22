@@ -298,11 +298,11 @@ const players = document.querySelectorAll("#player");
 var currentLocation = window.location.search;
 var stream_url = currentLocation.replace("?play&mediaType=all&live=true&url=", "");
 //var MLKJIHGFEDCBA2 = atob("aHR0cHM6Ly9jb3JzLnN0cmVhbW1heGltdW0uY29tLw=="); 
-var MLKJIHGFEDCBA2 = atob("aHR0cHM6Ly9wcm94eTIudm54c2VydmVycy5jb20v", "aHR0cHM6Ly9jb3JzLnN0cmVhbW1heGltdW0uY29tLw==");  
+var MLKJIHGFEDCBA2 = atob("aHR0cHM6Ly9wcm94eTIudm54c2VydmVycy5jb20v", "aHR0cHM6XC9cL3Byb3h5Mi52bnhzZXJ2ZXJzLmNvbVwv");  
   const clapprConfig = {
     title: "DonelfantasticTV",
     poster: "assets/poster.gif",
-    source: "https://proxy2.vnxservers.com/" + stream_url,
+    source: stream_url,
             abr: {
     enabled: true
        }, 
