@@ -223,6 +223,142 @@ p {
   transform: rotate(360deg);
   transition: all 2s;
   background-color: #f30876;
-  color: #ffffff;  
-  
+  color: #ffffff;    
+}
+
+/*Popup Css*/
+.video-popup {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  position: absolute;
+  z-index: 9999;
+  display: none;
+}
+
+.video-popup.show {
+  display: flex;
+}
+
+/*responsive iframe set*/
+.vid-player {
+  padding: 0;
+  margin: 0;
+  display: block;
+  position: relative;
+  margin-bottom: 1em;
+  overflow: hidden;
+}
+
+.responsive-vid {
+  padding-bottom: 56.25%;
+}
+
+#iframeHolder {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+  border: 0;
+}
+
+.iframe-wrapper {
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  margin: auto;
+  /*left: 50%;*/
+  top: 30%;
+  transform: translate(-50%, -50%);
+}
+
+.open-video {
+  font-family: "Open Sans", sans-serif;
+  color: #fff;
+}
+
+.close-video {
+  width: 40px;
+  height: 40px;
+  background: #fff;
+  display: block;
+  border-radius: 100%;
+  position: absolute;
+  right: 0px;
+  top: -40px;
+  cursor: pointer;
+  z-index: 9999;
+  box-shadow: 0 0 10px rgb(0 0 0 / 50%);
+}
+
+.video-close-icon {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: block;
+  cursor: none;
+}
+
+.video-close-icon::before {
+  width: 60%;
+  height: 2px;
+  background: #000;
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  transform: rotate(45deg);
+}
+
+.video-close-icon::after {
+  width: 60%;
+  height: 2px;
+  background: #000;
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  transform: rotate(-45deg);
+}
+
+.btn {
+  font-family: "Oswald", sans-serif;
+  color: #fff;
+  background: gray;
+  border: none;
+  padding: 5px 18px;
+  text-transform: uppercase;
+  font-size: 14px;
+  line-height: 15px;
+  border-radius: 100px;
+  cursor: none;
+  margin: 0 5px;
+  transition: 0.3s;
+  display: inline-block;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn:hover {
+  background-color: red;
+  color: #fff;
+}
+
+@media all and (max-width: 768px) {
+  .iframe-wrapper {
+    width: 100%;
+  }
 }
