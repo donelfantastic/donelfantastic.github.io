@@ -271,7 +271,7 @@ p {
   position: relative;
   margin: auto;
   /*left: 50%;*/
-  top: 30%;
+  top: 15%;
   transform: translate(-50%, -50%);
 }
 
