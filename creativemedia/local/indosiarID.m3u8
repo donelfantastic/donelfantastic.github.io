@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1920x1080,FRAME-RATE=30.000,CODECS="avc1.64002a,mp4a.40.2",AVERAGE-BANDWIDTH=2710000,BANDWIDTH=3380000
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-#https://proxy2.vnxservers.com/http://210.210.155.37/session/ce979d3c-ba66-11ed-8b6a-b82a72d63267/qwr9ew/s/s04/02.m3u8
+https://cors.plus/http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+#http://210.210.155.37/session/ce979d3c-ba66-11ed-8b6a-b82a72d63267/qwr9ew/s/s04/02.m3u8
