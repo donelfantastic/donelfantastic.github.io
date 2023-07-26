@@ -334,7 +334,7 @@
 "id": "ParamountNetworkChannel.id",
 "name": "Paramount Network",
 "categories": [
-"Novies"
+"Movies"
 ],
 "url": "https://nxanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/PARAMOUNT-NETWORK-Ch.-54-768x265.png",
@@ -475,7 +475,7 @@
 {
 "channel": "CrimeInvestigation",
 "id": "CrimeInvestigation",
-"name": "CrimeInvestigation",
+"name": "Crime Investigation",
 "categories": [
 "Knowledge"
 ],
