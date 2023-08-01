@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Donelfantastic Galery</title>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="assets/icondf.png" type="image/png" />
+  <link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="src/style.galery.css" />
+</head>
+<body oncontextmenu="return false;">
+  <div class="wrapper">
+    
+<div class="modal fade" id="image-modal" tabindex="-1" role="dialog">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <div class="modal-title"></div>
+      </div>
+      <div class="modal-body">
+        <img class="img-responsive center-block" src="" alt="">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    <div id="banner">
+        <div class="logo"><a href="https://donelfantastic.github.io"><img src="assets/donelfantastic_header.png"></img></a></div>
+     
+  <nav class="my-nav">
+  <ul>
+    <li class="my-home"><a href="/">Home<i class="fa fa-home" aria-hidden="true"></i></a></li>
+  </ul>
+</nav></div>
+  
+    <div class="container-fluid">
+      <section class="content-area">
+        <div class="table-area">
+    <h3 class="bitmovin-headline"><i class="fa fa-camera" aria-hidden="true"></i> GALERY </h3>         
+<div class="container">
+  <div class="row">
+    <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+      <a href="#" class="thumbnail">
+        <img src="assets/donelfantastic3.jpg" alt="...">
+      </a>
+    </div>
+    <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+      <a href="#" class="thumbnail">
+        <img src="assets/donelfantastic4.jpg" alt="...">
+      </a>
+    </div>
+    <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+      <a href="#" class="thumbnail">
+        <img src="assets/donelfantastic5.jpg" alt="...">
+      </a>
+    </div>
+    <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+      <a href="#" class="thumbnail">
+        <img src="assets/donelfantastic6.jpg" alt="...">
+      </a>
+    </div>
+    <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+      <a href="#" class="thumbnail">
+        <img src="assets/donelfantastic7.jpg" alt="...">
+      </a>
+    </div>
+    <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+      <a href="#" class="thumbnail">
+        <img src="assets/donelfantastic8.jpg" alt="...">
+      </a>
+    </div>
+    <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+      <a href="#" class="thumbnail">
+        <img src="assets/donelfantastic9.jpg" alt="...">
+      </a>
+    </div>
+    <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+      <a href="#" class="thumbnail">
+        <img src="assets/donelfantastic10.jpg" alt="...">
+      </a>
+    </div>
+  </div>
+</div>
+      </section>
+      <div class="row bitmovin-description"></div>
+    </div>
+  </div>
+ 
+<footer>
+    <p id="small">
+    <div id="social">
+      <a id="love" href="https://facebook.com/donelfantastic"><i class="fa-brands fa-facebook-f"></i></a>
+      <a id="somuch" href="https://twitter.com/Donelfantastic"><i class="fa-brands fa-twitter"></i></a>
+      <a id="create" href="https://instagram.com/donelfantastic"><i class="fa-brands fa-instagram"></i></a>
+      <a id="programm" href="https://youtube.com/@donelfantastic"><i class="fa-brands fa-youtube"></i></a>
+    </div>
+    <p class="company-name">Donel Fantastic &copy; 2023, ALL Rights Reserved.</p>
+  </center>
+  </footer>
+</body>
+<script  src="src/script.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+  
+$(function () {
+  $("a.thumbnail").click(function (e) {
+    e.preventDefault();
+
+    $("#image-modal .modal-body img").attr(
+      "src",
+      $(this).find("img").attr("src")
+    );
+
+    $("#image-modal").modal("show");
+  });
+
+  $("#image-modal .modal-body img").on("click", function () {
+    $("#image-modal").modal("hide");
+  });
+});
+  </script>
+
+  </html>
