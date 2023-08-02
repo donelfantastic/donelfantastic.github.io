@@ -184,8 +184,10 @@ p {
 }
 
 .my-nav {
+  maegin: 0;
+  padding: 0;
   position: absolute;
-  top: 1%;
+  top: 5px;
 }
 
 .my-nav ul {
