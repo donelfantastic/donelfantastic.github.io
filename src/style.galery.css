@@ -63,6 +63,13 @@ p {
   margin: 40px;
 }
 
+p1 {
+  font-weight: 300;
+  color: #fff;
+  text-align: justify;
+  margin: 40px;
+}
+
 .bitmovin-description {
   padding: 45px 0;
   font-size: large;
