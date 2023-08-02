@@ -18,6 +18,10 @@ body {
   margin: 0;
   padding-bottom: 6rem;
   min-height: 100%;
+  background: rgb(0,0,0);
+  background: linear-gradient(180deg, rgba(0,0,0,0.95) 0%, rgba(25,25,25,1) 100%);
+  }
+/*
   background: rgba(44, 131, 185, 1);
   background: linear-gradient(
     to right,
@@ -26,7 +30,8 @@ body {
   );
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#2c83b9', endColorstr='#1eabe3', GradientType=1);
 }
-
+*/
+  
 #banner {
   border-bottom: 1px solid #fff;
   background-color: #090a0f; /*#1eabe3;*/
