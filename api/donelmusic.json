@@ -1436,7 +1436,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https://donelfantastic.github.io/creativemedia/local/sctv.m3u8",
+"url": "https:\/\/donelfantastic.github.io\/creativemedia\/local\/sctvID.m3u8",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/sctv_id.png",
 "country": "ID"
 },
@@ -1447,7 +1447,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https://donelfantastic.github.io/creativemedia/local/indosiar.m3u8",
+"url": "https:\/\/donelfantastic.github.io\/creativemedia\/local\/indosiarID.m3u8",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ii\/indosiar-id.png",
 "country": "ID"
 },
@@ -1458,7 +1458,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https://donelfantastic.github.io/creativemedia/local/moji.m3u8",
+"url": "https:\/\/donelfantastic.github.io\/creativemedia\/local\/mojiID.m3u8",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/moji-id.svg",
 "country": "ID"
 },
@@ -1527,5 +1527,49 @@
 "url": "https:\/\/srv1.zcast.com.br\/kpoptv\/kpoptv\/chunklist_w241271023.m3u8",
 "logo": "https:\/\/kpoptv.live\/wp-content\/uploads\/2021\/10\/logokpoptvplay.png",
 "country": "BR"
-}    
+}, 
+{
+"channel": "astroSport.my",
+"id": "astroSport.my",
+"name": "Astro Supersport",
+"categories": [
+"Sports"
+],
+"url": "https:\/\/cdndac.lol\/ddh1\/premium123\/manifest.mpd",
+"logo": "https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",
+"country": "MY"
+},
+{
+"channel": "astroSport2.my",
+"id": "astroSport2.my",
+"name": "Astro Supersport 2",
+"categories": [
+"Sports"
+],
+"url": "https:\/\/cdndac.lol\/ddy1\/premium124\/manifest.mpd",
+"logo": "https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",
+"country": "MY"
+},
+{
+"channel": "astroSport3.my",
+"id": "astroSport3.my",
+"name": "Astro Supersport 3",
+"categories": [
+"Sports"
+],
+"url": "https:\/\/cdndac.lol\/ddy1\/premium125\/manifest.mpd",
+"logo": "https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",
+"country": "MY"
+},
+{
+"channel": "astroSport4.my",
+"id": "astroSport4.my",
+"name": "Astro Supersport 4",
+"categories": [
+"Sports"
+],
+"url": "https:\/\/cdndac.lol\/ddy1\/premium126\/manifest.mpd",
+"logo": "https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png",
+"country": "MY"
+}  
 ]
