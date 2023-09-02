@@ -1461,7 +1461,51 @@
 "url": "https:\/\/donelfantastic.github.io\/creativemedia\/local\/moji.m3u8",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/moji-id.svg",
 "country": "ID"
+},  
+{
+"channel": "donelfantastic.id",
+"id": "donelfantastic.id",
+"name": "Ikatan Cinta Nella & Dory",
+"categories": [
+"VOD"
+],
+"url": "https:\/\/cf-vod-cdn.mncnow.id\/vod\/storage2\/kilau-konser-ikatan-cinta-nella-dory-2021-rev-clean-anv6-rev\/_\/sa_dash_vmx\/kilau-konser-ikatan-cinta-nella-dory-2021-rev-clean-anv6-rev.mpd",
+"logo": "https:\/\/static.mncnow.id\/images\/vod\/c0b01684/2670_r32.jpg",
+"country": "ID"
+}, 
+{
+"channel": "kPlus.kr",
+"id": "kPlus.kr",
+"name": "K Plus",
+"categories": [
+"Movies"
+],
+"url": "https://donelfantastic.github.io/creativemedia/local/kPlus.m3u8",
+"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/id\/8\/8c\/K_Plus_Asia_Logo.jpg",
+"country": "KR"
 },
+{
+"channel": "kPoptv.br",
+"id": "kPoptv.br",
+"name": "KPop TV",
+"categories": [
+"Music"
+],
+"url": "https:\/\/srv1.zcast.com.br\/kpoptv\/kpoptv\/chunklist_w241271023.m3u8",
+"logo": "https:\/\/kpoptv.live\/wp-content\/uploads\/2021\/10\/logokpoptvplay.png",
+"country": "BR"
+},   
+{
+"channel": "muTv.uk",
+"id": "muTv.uk",
+"name": "MUTV",
+"categories": [
+"Sports"
+],
+"url": "https:\/\/bcovlive-a.akamaihd.net\/r2d2c4ca5bf57456fb1d16255c1a535c8\/eu-west-1\/6058004203001\/playlist.m3u8",
+"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/b8\/MUTV_logo.png\/400px-MUTV_logo.png",
+"country": "UK"
+}, 
 {
 "channel": "TycSports.ar",
 "id": "TycSports.ar",
@@ -1507,39 +1551,6 @@
 "country": "AR"
 },   
 {
-"channel": "donelfantastic.id",
-"id": "donelfantastic.id",
-"name": "Ikatan Cinta Nella & Dory",
-"categories": [
-"VOD"
-],
-"url": "https:\/\/cf-vod-cdn.mncnow.id\/vod\/storage2\/kilau-konser-ikatan-cinta-nella-dory-2021-rev-clean-anv6-rev\/_\/sa_dash_vmx\/kilau-konser-ikatan-cinta-nella-dory-2021-rev-clean-anv6-rev.mpd",
-"logo": "https:\/\/static.mncnow.id\/images\/vod\/c0b01684/2670_r32.jpg",
-"country": "ID"
-}, 
-{
-"channel": "kPlus.kr",
-"id": "kPlus.kr",
-"name": "K Plus",
-"categories": [
-"Movies"
-],
-"url": "https://donelfantastic.github.io/creativemedia/local/kPlus.m3u8",
-"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/id\/8\/8c\/K_Plus_Asia_Logo.jpg",
-"country": "KR"
-}, 
-{
-"channel": "muTv.uk",
-"id": "muTv.uk",
-"name": "MUTV",
-"categories": [
-"Sports"
-],
-"url": "https:\/\/bcovlive-a.akamaihd.net\/r2d2c4ca5bf57456fb1d16255c1a535c8\/eu-west-1\/6058004203001\/playlist.m3u8",
-"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/b8\/MUTV_logo.png\/400px-MUTV_logo.png",
-"country": "UK"
-}, 
-{
 "channel": "beinSports.qa",
 "id": "beinSports.qa",
 "name": "Bein Sports",
@@ -1551,24 +1562,13 @@
 "country": "UK"
 }, 
 {
-"channel": "kPoptv.br",
-"id": "kPoptv.br",
-"name": "KPop TV",
-"categories": [
-"Music"
-],
-"url": "https:\/\/srv1.zcast.com.br\/kpoptv\/kpoptv\/chunklist_w241271023.m3u8",
-"logo": "https:\/\/kpoptv.live\/wp-content\/uploads\/2021\/10\/logokpoptvplay.png",
-"country": "BR"
-}, 
-{
 "channel": "astroSport.my",
 "id": "astroSport.my",
 "name": "Astro Supersport",
 "categories": [
 "Sports"
 ],
-"url": "https:\/\/cdndac.lol\/ddh1\/premium123\/manifest.mpd",
+"url": "https:\/\/cdnhks.lol\/ddh1\/premium123\/manifest.mpd",
 "logo": "https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",
 "country": "MY"
 },
@@ -1579,7 +1579,7 @@
 "categories": [
 "Sports"
 ],
-"url": "https:\/\/cdndac.lol\/ddy1\/premium124\/manifest.mpd",
+"url": "https:\/\/cdnhks.lol\/ddy1\/premium124\/manifest.mpd",
 "logo": "https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",
 "country": "MY"
 },
@@ -1590,7 +1590,7 @@
 "categories": [
 "Sports"
 ],
-"url": "https:\/\/cdndac.lol\/ddy1\/premium125\/manifest.mpd",
+"url": "https:\/\/cdnhks.lol\/ddy1\/premium125\/manifest.mpd",
 "logo": "https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",
 "country": "MY"
 },
@@ -1601,7 +1601,7 @@
 "categories": [
 "Sports"
 ],
-"url": "https:\/\/cdndac.lol\/ddy1\/premium126\/manifest.mpd",
+"url": "https:\/\/cdnhks.lol\/ddy1\/premium126\/manifest.mpd",
 "logo": "https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png",
 "country": "MY"
 }  
