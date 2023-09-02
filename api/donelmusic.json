@@ -1465,7 +1465,7 @@
 {
 "channel": "TycSports.ar",
 "id": "TycSports.ar",
-"name": "TYC Sports",
+"name": "TYC Sports AR ",
 "categories": [
 "Sports"
 ],  
@@ -1473,6 +1473,39 @@
 "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/54\/TyC_Sports_logo.svg\/1554px-TyC_Sports_logo.svg.png",
 "country": "AR"
 }, 
+{
+"channel": "Espn.ar",
+"id": "Espn.ar",
+"name": "ESPN AR",
+"categories": [
+"Sports"
+],  
+"url": "https:\/\/tvfuego.cdn.rcs.net.ar\/mnp\/espn\/output.mpd",
+"logo": "https:\/\/www.thesportsdb.com\/images\/media\/channel\/tvlogo\/qzobqn1660760939.png",
+"country": "AR"
+},
+{
+"channel": "EspnExtra.ar",
+"id": "EspnExtra.ar",
+"name": "ESPN Extra AR",
+"categories": [
+"Sports"
+],  
+"url": "https:\/\/tvfuego.cdn.rcs.net.ar\/mnp\/espn_extra\/output.mpd",
+"logo": "https:\/\/www.thesportsdb.com\/images\/media\/channel\/tvlogo\/hdrkql1660762351.png",
+"country": "AR"
+},
+{
+"channel": "EspnPremium.ar",
+"id": "EspnPremium.ar",
+"name": "ESPN Premium AR",
+"categories": [
+"Sports"
+],  
+"url": "https:\/\/tvfuego.cdn.rcs.net.ar\/mnp\/espnpremium\/output.mpd",
+"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a1\/ESPN_Premium_logo.svg\/440px-ESPN_Premium_logo.svg.png",
+"country": "AR"
+},   
 {
 "channel": "donelfantastic.id",
 "id": "donelfantastic.id",
