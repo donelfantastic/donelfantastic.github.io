@@ -41,7 +41,7 @@
 "name":"MILAN TV",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-025/stream.mpd",
-"logo":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Milan_TV_-_Logo_2016.png",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=909305413206_image-header_pIt_1684155244000",
 "country":"IT"
 }, 
 {
@@ -59,7 +59,7 @@
 "name":"EUROSPORT DE",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-027/stream.mpd",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/Eurosport_1_Germany.png",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=997307973435_image-header_pDach_1661948898000",
 "country":"DE"
 }, 
 {
@@ -68,7 +68,7 @@
 "name":"EUROSPORT 2 DE",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-028/stream.mpd",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/0g9kv01576424209.png",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=1088590917281_image-header_pDach_1661949223000",
 "country":"DE"
 }, 
 {
@@ -77,7 +77,7 @@
 "name":"EUROSPORT IT",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-029/stream.mpd",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/yxsqpx1458425638.png",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=997307973435_image-header_pDach_1661948898000",
 "country":"IT"
 }, 
 {
@@ -86,7 +86,7 @@
 "name":"EUROSPORT 2 IT",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-030/stream.mpd",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/xspptq1458425622.png",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=1088590917281_image-header_pDach_1661949223000",
 "country":"IT"
 }, 
 {
@@ -95,7 +95,7 @@
 "name":"EUROSPORT ES",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-031/stream.mpd",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/Eurosport_1_Spain.png",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=997307973435_image-header_pDach_1661948898000",
 "country":"ES"
 }, 
 {
@@ -104,7 +104,7 @@
 "name":"EUROSPORT 2 ES",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-032/stream.mpd",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/Eurosport_2_Spain.png",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=1088590917281_image-header_pDach_1661949223000",
 "country":"ES"
 }, 
 {
@@ -113,7 +113,7 @@
 "name":"INTER TV",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-033/stream.mpd",
-"logo":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Inter_TV_-_Logo_2021.png",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=909319749342_image-header_pIt_1684149842000",
 "country":"IT"
 }, 
 {
