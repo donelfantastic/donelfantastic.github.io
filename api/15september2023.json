@@ -227,11 +227,11 @@
 {
 "channel":"DLinear047",
 "id":"DLinear047",
-"name":"DAZN ELEVEN PT",
+"name":"DAZN ELEVEN FR",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-047/stream.mpd",
-"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=192660037589_image-header_pRow_1694392121000",
-"country":"PT"
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=185039429552_image-header_pRow_1688018945000",
+"country":"FR"
 }, 
 {
 "channel":"DLinear048",
@@ -239,13 +239,13 @@
 "name":"DAZN ELEVEN",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-048/stream.mpd",
-"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=192660037589_image-header_pRow_1694392121000",
-"country":"PT"
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=185039429552_image-header_pRow_1688018945000",
+"country":"FR"
 }, 
 {
 "channel":"DLinear049",
 "id":"DLinear049",
-"name":"DAZN ELEVEN FR",
+"name":"DAZN ELEVEN PRO LEAGUE",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-049/stream.mpd",
 "logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=175986245699_image-header_pRow_1687943056000",
@@ -254,7 +254,7 @@
 {
 "channel":"DLinear050",
 "id":"DLinear050",
-"name":"DAZN ELEVEN",
+"name":"DAZN ELEVEN PRO LEAGUE",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-050/stream.mpd",
 "logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=175986245699_image-header_pRow_1687943056000",
