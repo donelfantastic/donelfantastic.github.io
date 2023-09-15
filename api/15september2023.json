@@ -5,8 +5,8 @@
 "name":"DAZN F1",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/e56qnb1616320195.png",
-"country":"UK"
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=745687109482_image-header_pEs_1675692300000",
+"country":"ES"
 }, 
 {
 "channel":"DLinear017",
@@ -14,8 +14,8 @@
 "name":"DAZN DE",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/pcmt111657045725.png",
-"country":"UK"
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=762962501271_image-header_pDach_1662550975000",
+"country":"DE"
 }, 
 {
 "channel":"DLinear018",
@@ -23,8 +23,35 @@
 "name":"DAZN 2 DE",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/risd0q1657045733.png",
-"country":"UK"
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=762965573106_image-header_pDach_1662550976000",
+"country":"DE"
+}, 
+{
+"channel":"DLinear037",
+"id":"DLinear037",
+"name":"DAZN ES",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000",
+"country":"ES"
+}, 
+{
+"channel":"DLinear038",
+"id":"DLinear038",
+"name":"DAZN 2 ES",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605032_image-header_pEs_1661946616000",
+"country":"ES"
+}, 
+{
+"channel":"DLinear043",
+"id":"DLinear043",
+"name":"DAZN LALIGA",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=1075242565118_image-header_pEs_1688456417000&quality=70",
+"country":"ES"
 }, 
 {
 "channel":"DLinear024",
@@ -32,8 +59,44 @@
 "name":"ZONA DAZN IT",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd",
-"logo":"https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_del_canale_televisivo_Zona_DAZN.svg",
-"country":"UK"
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=909285445140_image-header_pIt_1661948686000",
+"country":"IT"
+}, 
+{
+"channel":"DLinear039",
+"id":"DLinear039",
+"name":"DAZN BEINSPORTS",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-039/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=167244357778_image-header_pRow_1687877312000",
+"country":"CA"
+}, 
+{
+"channel":"DLinear040",
+"id":"DLinear040",
+"name":"DAZN BEINSPORTS 2",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-040/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=140454981957_image-header_pRow_1687877059000",
+"country":"CA"
+}, 
+{
+"channel":"DLinear041",
+"id":"DLinear041",
+"name":"DAZN BEINSPORTS 3",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-041/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=140454981956_image-header_pRow_1687877311000",
+"country":"CA"
+}, 
+{
+"channel":"DLinear042",
+"id":"DLinear042",
+"name":"DAZN BEINSPORTS 3",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-042/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=140454981956_image-header_pRow_1687877311000",
+"country":"CA"
 }, 
 {
 "channel":"DLinear025",
@@ -45,13 +108,22 @@
 "country":"IT"
 }, 
 {
+"channel":"DLinear033",
+"id":"DLinear033",
+"name":"INTER TV",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-033/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=909319749342_image-header_pIt_1684149842000",
+"country":"IT"
+}, 
+{
 "channel":"DLinear026",
 "id":"DLinear026",
 "name":"MLB NETWORK",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-026/stream.mpd",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/stsxyv1475892891.png",
-"country":"UK"
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=128997445726_image-header_pCa_1639763501000",
+"country":"CA"
 }, 
 {
 "channel":"DLinear027",
@@ -108,21 +180,12 @@
 "country":"ES"
 }, 
 {
-"channel":"DLinear033",
-"id":"DLinear033",
-"name":"INTER TV",
-"categories":["SPORTS"],
-"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-033/stream.mpd",
-"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=909319749342_image-header_pIt_1684149842000",
-"country":"IT"
-}, 
-{
 "channel":"DLinear035",
 "id":"DLinear035",
 "name":"NBA TV",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-035/stream.mpd",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/owa6og1571337802.png",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=909257285255_image-header_pDach_1661949231000",
 "country":"US"
 }, 
 {
@@ -131,71 +194,8 @@
 "name":"REDBULL TV",
 "categories":["SPORTS"],
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-036/stream.mpd",
-"logo":"https://img.redbull.com/images/w_440/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv.png",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=130867781972_image-header_pRow_1644417574000",
 "country":"US"
-}, 
-{
-"channel":"DLinear037",
-"id":"DLinear037",
-"name":"DAZN ES",
-"categories":["SPORTS"],
-"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/f5vosd1657045413.png",
-"country":"ES"
-}, 
-{
-"channel":"DLinear038",
-"id":"DLinear038",
-"name":"DAZN 2 ES",
-"categories":["SPORTS"],
-"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/fsswed1657045424.png",
-"country":"ES"
-}, 
-{
-"channel":"DLinear039",
-"id":"DLinear039",
-"name":"DAZN BEINSPORTS",
-"categories":["SPORTS"],
-"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-039/stream.mpd",
-"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=167244357778_image-header_pRow_1687877312000",
-"country":"CA"
-}, 
-{
-"channel":"DLinear040",
-"id":"DLinear040",
-"name":"DAZN BEINSPORTS 2",
-"categories":["SPORTS"],
-"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-040/stream.mpd",
-"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=140454981957_image-header_pRow_1687877059000",
-"country":"CA"
-}, 
-{
-"channel":"DLinear041",
-"id":"DLinear041",
-"name":"DAZN BEINSPORTS 3",
-"categories":["SPORTS"],
-"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-041/stream.mpd",
-"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=140454981956_image-header_pRow_1687877311000",
-"country":"CA"
-}, 
-{
-"channel":"DLinear042",
-"id":"DLinear042",
-"name":"DAZN BEINSPORTS 3",
-"categories":["SPORTS"],
-"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-042/stream.mpd",
-"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=140454981956_image-header_pRow_1687877311000",
-"country":"CA"
-}, 
-{
-"channel":"DLinear043",
-"id":"DLinear043",
-"name":"DAZN LALIGA",
-"categories":["SPORTS"],
-"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/4qm3dw1692437861.png",
-"country":"ES"
 }, 
 {
 "channel":"DLinear044",
@@ -223,5 +223,122 @@
 "url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-046/stream.mpd",
 "logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=191411269798_image-header_pRow_1692798269000",
 "country":"FR"
-} 
+}, 
+{
+"channel":"DLinear047",
+"id":"DLinear047",
+"name":"DAZN ELEVEN PT",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-047/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=192660037589_image-header_pRow_1694392121000",
+"country":"PT"
+}, 
+{
+"channel":"DLinear048",
+"id":"DLinear048",
+"name":"DAZN ELEVEN",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-048/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=192660037589_image-header_pRow_1694392121000",
+"country":"PT"
+}, 
+{
+"channel":"DLinear049",
+"id":"DLinear049",
+"name":"DAZN ELEVEN FR",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-049/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=175986245699_image-header_pRow_1687943056000",
+"country":"FR"
+}, 
+{
+"channel":"DLinear050",
+"id":"DLinear050",
+"name":"DAZN ELEVEN",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-050/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=175986245699_image-header_pRow_1687943056000",
+"country":"FR"
+}, 
+{
+"channel":"DLinear051",
+"id":"DLinear051",
+"name":"DAZN PLAYSPORTS",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=175989829625_image-header_pRow_1688019823000",
+"country":"FR"
+}, 
+{
+"channel":"DLinear052",
+"id":"DLinear052",
+"name":"DAZN PLAYSPORTS 2",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=175989829627_image-header_pRow_1688020141000",
+"country":"FR"
+}, 
+{
+"channel":"DLinear053",
+"id":"DLinear053",
+"name":"DAZN PLAYSPORTS 3",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=175995461629_image-header_pRow_1688020143000",
+"country":"FR"
+}, 
+{
+"channel":"DLinear054",
+"id":"DLinear054",
+"name":"DAZN ELEVEN",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=192660037589_image-header_pRow_1694392121000",
+"country":"PT"
+}, 
+{
+"channel":"DLinear055",
+"id":"DLinear055",
+"name":"DAZN ELEVEN 2",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=176341573856_image-header_pRow_1687892335000",
+"country":"PT"
+}, 
+{
+"channel":"DLinear056",
+"id":"DLinear056",
+"name":"DAZN ELEVEN 3",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=176341573859_image-header_pRow_1687892335000",
+"country":"PT"
+}, 
+{
+"channel":"DLinear057",
+"id":"DLinear057",
+"name":"DAZN ELEVEN 4",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=176344133619_image-header_pRow_1687892336000",
+"country":"PT"
+}, 
+{
+"channel":"DLinear058",
+"id":"DLinear058",
+"name":"DAZN ELEVEN 5",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=176344133852_image-header_pRow_1687878826000",
+"country":"PT"
+}, 
+{
+"channel":"DLinear059",
+"id":"DLinear058",
+"name":"DAZN ELEVEN 6",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=192659525513_image-header_pRow_1694392453000",
+"country":"PT"
+}
 ]
