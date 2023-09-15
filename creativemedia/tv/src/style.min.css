@@ -18,12 +18,14 @@ body {
   margin: 0;
   padding-bottom: 6rem;
   min-height: 100%;
-  background: rgba(44, 131, 185, 1);
-  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  background: rgb(0,0,0);
+  background: radial-gradient(ellipse, rgba(0,0,0,0.95) 0%, rgba(25,25,25,1) 100%);
 }
 /*
   background: rgb(0,0,0);
   background: linear-gradient(180deg, rgba(0,0,0,0.95) 0%, rgba(25,25,25,1) 100%);
+  background: rgba(44, 131, 185, 1);
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
 */
   
 /*
