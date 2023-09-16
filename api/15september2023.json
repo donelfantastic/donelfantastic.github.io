@@ -1,5 +1,41 @@
 [
 {
+"channel":"Vsport",
+"id":"Vsport",
+"name":"VSPORT",
+"categories":["SPORTS"],
+"url":"https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd",
+"logo":"https://www.allente.no/globalassets/global/streaming/streaming-logos/json/v_sport1_dark_bg.png",
+"country":"NO"
+}, 
+{
+"channel":"SkySPL",
+"id":"SkySPL",
+"name":"SKYSPORTS PREMIER LEAGUE",
+"categories":["SPORTS"],
+"url":"https://linear002-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportspremierleague)/manifest_hd.mpd",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/7e2lv21502554825.png",
+"country":"UK"
+}, 
+{
+"channel":"SkySME",
+"id":"SkySME",
+"name":"SKYSPORTS MAIN EVENT",
+"categories":["SPORTS"],
+"url":"https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsmainevent)/manifest_hd.mpd",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/mp44981502554837.png",
+"country":"UK"
+}, 
+{
+"channel":"SkySF1",
+"id":"SkySF1",
+"name":"SKYSPORTS F1",
+"categories":["SPORTS"],
+"url":"https://linear004-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsf1)/manifest_hd.mpd",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/tqxrqx1433965330.png",
+"country":"UK"
+}, 
+{
 "channel":"SpotvKr",
 "id":"SpotvKr",
 "name":"SPOTV",
