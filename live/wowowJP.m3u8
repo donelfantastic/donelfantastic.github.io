@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:4657905
+
+#EXTINF:8.333333
+https://stream01.willfonk.com/JP/HD/bs192_HD-4657905.ts
+#EXTINF:6.666667
+https://stream01.willfonk.com/JP/HD/bs192_HD-4657906.ts
+#EXTINF:10.800000
+https://stream01.willfonk.com/JP/HD/bs192_HD-4657907.ts
+#EXTINF:10.633333
+https://stream01.willfonk.com/JP/HD/bs192_HD-4657908.ts
+#EXTINF:13.066667
+https://stream01.willfonk.com/JP/HD/bs192_HD-4657909.ts
+#EXTINF:6.666667
+https://stream01.willfonk.com/JP/HD/bs192_HD-4657910.ts
