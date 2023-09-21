@@ -4,10 +4,10 @@
 #EXT-X-TARGETDURATION:11
 #EXT-X-I-FRAMES-ONLY
 #EXTINF:10.144000,
-https://cors.plus/http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/73125
+https://cors.plus/2hubs.ddns.net:25461/pachaman/asdfghuytrc/73125
 #EXTINF:10.000000,
-https://cors.plus/http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/73125
+https://cors.plus/2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73125
 #EXTINF:10.144000,
-https://cors.plus/http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73125
+https://cors.plus/2hubs.ddns.net:25461/live/pachaman/asdfghuytrc/73125.m3u8
 #EXTINF:10.000000,
-https://cors.plus/http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/73125
+https://cors.plus/2hubs.ddns.net:25461/live/solidtv/0elrXWdEdl/73125.m3u8
