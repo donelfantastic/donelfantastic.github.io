@@ -1,14 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:105604
-#EXT-X-TARGETDURATION:6
-#EXTINF:4.001, no desc
-https://cdnv148.cloudrsst.com:444/live/wowlive_720/1695275625671.ts
-#EXTINF:4.989, no desc
-https://cdnv148.cloudrsst.com:444/live/wowlive_720/1695275629888.ts
-#EXTINF:4.997, no desc
-https://cdnv148.cloudrsst.com:444/live/wowlive_720/1695275634812.ts
-#EXTINF:4.003, no desc
-https://cdnv148.cloudrsst.com:444/live/wowlive_720/1695275639872.ts
-#EXTINF:4.991, no desc
-https://cdnv148.cloudrsst.com:444/live/wowlive_720/1695275643763.ts
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=1280x720
+http://code.vthanhtivi.pw/getlink/jptvvn/223/playlist.m3u8
