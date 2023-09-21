@@ -40,7 +40,7 @@
 "id":"Vsport",
 "name":"VSPORT",
 "categories":["SPORTS"],
-"url":"https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd",
+"url":"https://cors.plus/director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd",
 "logo":"https://www.allente.no/globalassets/global/streaming/streaming-logos/json/v_sport1_dark_bg.png",
 "country":"NO"
 }, 
