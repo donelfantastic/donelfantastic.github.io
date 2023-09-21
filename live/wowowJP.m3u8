@@ -1,17 +1,14 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:12
-#EXT-X-MEDIA-SEQUENCE:4657905
-
-#EXTINF:8.333333
-https://stream01.willfonk.com/JP/HD/bs192_HD-4657905.ts
-#EXTINF:6.666667
-https://stream01.willfonk.com/JP/HD/bs192_HD-4657906.ts
-#EXTINF:10.800000
-https://stream01.willfonk.com/JP/HD/bs192_HD-4657907.ts
-#EXTINF:10.633333
-https://stream01.willfonk.com/JP/HD/bs192_HD-4657908.ts
-#EXTINF:13.066667
-https://stream01.willfonk.com/JP/HD/bs192_HD-4657909.ts
-#EXTINF:6.666667
-https://stream01.willfonk.com/JP/HD/bs192_HD-4657910.ts
+#EXT-X-MEDIA-SEQUENCE:105604
+#EXT-X-TARGETDURATION:6
+#EXTINF:4.001, no desc
+https://cdnv148.cloudrsst.com:444/live/wowlive_720/1695275625671.ts
+#EXTINF:4.989, no desc
+https://cdnv148.cloudrsst.com:444/live/wowlive_720/1695275629888.ts
+#EXTINF:4.997, no desc
+https://cdnv148.cloudrsst.com:444/live/wowlive_720/1695275634812.ts
+#EXTINF:4.003, no desc
+https://cdnv148.cloudrsst.com:444/live/wowlive_720/1695275639872.ts
+#EXTINF:4.991, no desc
+https://cdnv148.cloudrsst.com:444/live/wowlive_720/1695275643763.ts
