@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=1280x720
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690640945/ei/0c3EZM2ZM4-B6dsPnKGI4Ao/ip/3.125.183.140/id/4rmf-lk3ito.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq2mUNRK1G00NMjmV-_kT5_NjQkZDm5dIf6yfXQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000013%2C51000022/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKKnmHVqZWSq1Rosbj9jL1YyA8BhIZZv75X8VOOoaAlNAiBnqV-iRk-MTSw6cBDqAylkPfJBigUnvjdsk7L1oBcnEw%3D%3D/file/index.m3u8
-#https://ythls.onrender.com/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
