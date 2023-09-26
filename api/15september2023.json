@@ -36,6 +36,50 @@
 "country":"QA"
 }, 
 {
+"channel": "astroSport.my",
+"id": "astroSport.my",
+"name": "Astro Supersport",
+"categories": [
+"Sports"
+],
+"url": "https://m3.ballnaja.com/live/assp1/chunks.m3u8",
+"logo": "https://camo.githubusercontent.com/3f7192f10197fa53e5ddef352f4ac14037e2011b8bf086fb68e6ddb24019651c/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3135345f3134342e706e67",
+"country": "MY"
+},
+{
+"channel": "astroSport2.my",
+"id": "astroSport2.my",
+"name": "Astro Supersport 2",
+"categories": [
+"Sports"
+],
+"url": "https://m3.ballnaja.com/live/assp2/chunks.m3u8",
+"logo": "https://camo.githubusercontent.com/643155e1cae0c3ca21ea1796371c73b36c79e426a758e9c01e2e668c45a907fb/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3133385f3134342e706e67",
+"country": "MY"
+},
+{
+"channel": "astroSport3.my",
+"id": "astroSport3.my",
+"name": "Astro Supersport 3",
+"categories": [
+"Sports"
+],
+"url": "https://m3.ballnaja.com/live/assp3/chunks.m3u8",
+"logo": "https://camo.githubusercontent.com/44bb1c3b434a452e511c5527e3b3c234f6c8b58bc1547557e948cff5db4e09aa/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3136345f3134342e706e67",
+"country": "MY"
+},
+{
+"channel": "astroSport4.my",
+"id": "astroSport4.my",
+"name": "Astro Supersport 4",
+"categories": [
+"Sports"
+],
+"url": "https://m3.ballnaja.com/live/assp4/chunks.m3u8",
+"logo": "https://camo.githubusercontent.com/791341ad78b81e9d2952699abf5b94fcad7c296eafbd53f10149130e28a8ddd4/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3234315f3134342e706e67",
+"country": "MY"
+}, 
+{
 "channel":"SpotvKr",
 "id":"SpotvKr",
 "name":"SPOTV",
