@@ -333,6 +333,15 @@
 "country":"ES"
 }, 
 {
+"channel":"DLinear022",
+"id":"DLinear022",
+"name":"SPORTDIGITAL",
+"categories":["SPORTS"],
+"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=824817733470_image-header_pDach_1674763073000",
+"country":"DE"
+}, 
+{
 "channel":"DLinear024",
 "id":"DLinear024",
 "name":"ZONA DAZN IT",
