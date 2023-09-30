@@ -38,28 +38,28 @@
 {
 "channel":"beinS1my",
 "id":"beinS1my",
-"name":"BEINSPORTS 🇲🇾",
+"name":"BEINSPORTS MY",
 "categories":["SPORTS"],
 "url":"https://1.yurend.xyz/dash-wv/linear/408/default.mpd",
-"logo":"",
+"logo":"https://camo.githubusercontent.com/84e8aec99b97953b1c75f026fc84ad6677937b8811624467f5616e0890e18c2f/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3233365f3134342e706e67",
 "country":"MY"
 }, 
 {
 "channel":"beinS2my",
 "id":"beinS2my",
-"name":"BEINSPORTS 2 🇲🇾",
+"name":"BEINSPORTS 2 MY",
 "categories":["SPORTS"],
 "url":"https://1.yurend.xyz/dash-wv/linear/5066/default.mpd",
-"logo":"",
+"logo":"https://camo.githubusercontent.com/eeac95d35ec6988b347e1dcbd9f5013cfecf174b37785cbf10a3d64edda6d551/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3436365f3134342e706e67",
 "country":"MY"
 }, 
 {
 "channel":"beinS3my",
 "id":"beinS3my",
-"name":"BEINSPORTS 3 🇲🇾",
+"name":"BEINSPORTS 3 MY",
 "categories":["SPORTS"],
 "url":"https://1.yurend.xyz/dash-wv/linear/2705/default.mpd",
-"logo":"",
+"logo":"https://camo.githubusercontent.com/cbcfb24b677a0ee580ad87a63b8512b156f3497ba45699a889ddd4ed5128551c/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3331335f3134342e706e67",
 "country":"MY"
 }, 
 {
