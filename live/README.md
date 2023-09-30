@@ -21,7 +21,7 @@ https://donelfantastic.github.io/live/optus1Sport.m3u8
 
 
 
-<img src="https://sportskhabri.com/wp-content/uploads/2022/04/Astro-renews-Premier-League-deal.jpg" width="70" /> | <img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" width="70" /> | <img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" width="70" /> | <img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" width="70" /> | img src="" width="70" /> | img src="" width="70" /> | img src="" width="70" /> | 
+<img src="https://sportskhabri.com/wp-content/uploads/2022/04/Astro-renews-Premier-League-deal.jpg" width="70" /> | <img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" width="70" /> | <img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" width="70" /> | <img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" width="70" /> | <img src="" width="70" /> | <img src="" width="70" /> | <img src="" width="70" /> | 
 
 
   
