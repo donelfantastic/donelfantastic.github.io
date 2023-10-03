@@ -38,72 +38,72 @@
 {
 "channel":"beinS1my",
 "id":"beinS1my",
-"name":"BEINSPORTS MY",
+"name":"BEINSPORTS",
 "categories":["SPORTS"],
 "url":"https://1.yurend.xyz/dash-wv/linear/408/default.mpd",
-"logo":"https://camo.githubusercontent.com/84e8aec99b97953b1c75f026fc84ad6677937b8811624467f5616e0890e18c2f/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3233365f3134342e706e67",
+"logo":"https://raw.githubusercontent.com/donelfantastic/donelfantastic.github.io/main/assets/1696342096491.png",
 "country":"MY"
 }, 
 {
 "channel":"beinS2my",
 "id":"beinS2my",
-"name":"BEINSPORTS 2 MY",
+"name":"BEINSPORTS 2",
 "categories":["SPORTS"],
 "url":"https://1.yurend.xyz/dash-wv/linear/5066/default.mpd",
-"logo":"https://camo.githubusercontent.com/eeac95d35ec6988b347e1dcbd9f5013cfecf174b37785cbf10a3d64edda6d551/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3436365f3134342e706e67",
+"logo":"https://raw.githubusercontent.com/donelfantastic/donelfantastic.github.io/main/assets/1696342096491.png",
 "country":"MY"
 }, 
 {
 "channel":"beinS3my",
 "id":"beinS3my",
-"name":"BEINSPORTS 3 MY",
+"name":"BEINSPORTS 3",
 "categories":["SPORTS"],
 "url":"https://1.yurend.xyz/dash-wv/linear/2705/default.mpd",
-"logo":"https://camo.githubusercontent.com/cbcfb24b677a0ee580ad87a63b8512b156f3497ba45699a889ddd4ed5128551c/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3331335f3134342e706e67",
+"logo":"https://raw.githubusercontent.com/donelfantastic/donelfantastic.github.io/main/assets/1696342096491.png",
 "country":"MY"
 }, 
 {
 "channel": "astroGoLive.my",
 "id": "astroGoLive.my",
-"name": "AstroGo Live",
+"name": "ASTROGO LIVE EVENT 1",
 "categories": [
-"Sports"
+"SPORTS"
 ],
 "url": "https://1.yurend.xyz/dash-wv/linear/9986/default.mpd",
-"logo": "https://camo.githubusercontent.com/f8ab9b4f6259c3457db02982c60d7012ae7d56441cbb43f21664474e7b7edeef/68747470733a2f2f73706f7274736b68616272692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30342f417374726f2d72656e6577732d5072656d6965722d4c65616775652d6465616c2e6a7067",
+"logo": "https://camo.githubusercontent.com/c23622583f55532ca8768a321180b5f0865479bf742381f0f79371746249eef1/68747470733a2f2f6173736574732e7468652d6166632e636f6d2f42726f6164636173746572732f417374726f2e706e67",
 "country": "MY"
 },
 {
 "channel": "astroGoLive2.my",
 "id": "astroGoLive2.my",
-"name": "AstroGo Live 2",
+"name": "ASTROGO LIVE EVENT 2",
 "categories": [
-"Sports"
+"SPORTS"
 ],
 "url": "https://1.yurend.xyz/dash-wv/linear/9987/default.mpd",
-"logo": "https://camo.githubusercontent.com/f8ab9b4f6259c3457db02982c60d7012ae7d56441cbb43f21664474e7b7edeef/68747470733a2f2f73706f7274736b68616272692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30342f417374726f2d72656e6577732d5072656d6965722d4c65616775652d6465616c2e6a7067",
+"logo": "https://camo.githubusercontent.com/c23622583f55532ca8768a321180b5f0865479bf742381f0f79371746249eef1/68747470733a2f2f6173736574732e7468652d6166632e636f6d2f42726f6164636173746572732f417374726f2e706e67",
 "country": "MY"
 },
 {
 "channel": "astroGoLive3.my",
 "id": "astroGoLive3.my",
-"name": "AstroGo Live 3",
+"name": "ASTROGO LIVE EVENT 3",
 "categories": [
-"Sports"
+"SPORTS"
 ],
 "url": "https://1.yurend.xyz/dash-wv/linear/9988/default.mpd",
-"logo": "https://camo.githubusercontent.com/f8ab9b4f6259c3457db02982c60d7012ae7d56441cbb43f21664474e7b7edeef/68747470733a2f2f73706f7274736b68616272692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30342f417374726f2d72656e6577732d5072656d6965722d4c65616775652d6465616c2e6a7067",
+"logo": "https://camo.githubusercontent.com/c23622583f55532ca8768a321180b5f0865479bf742381f0f79371746249eef1/68747470733a2f2f6173736574732e7468652d6166632e636f6d2f42726f6164636173746572732f417374726f2e706e67",
 "country": "MY"
 },
 {
 "channel": "astroGoLive4.my",
 "id": "astroGoLive4.my",
-"name": "AstroGO Live 4",
+"name": "ASTROGO LIVE EVENT 4",
 "categories": [
-"Sports"
+"SPORTS"
 ],
 "url": "https://1.yurend.xyz/dash-wv/linear/9989/default.mpd",
-"logo": "https://camo.githubusercontent.com/f8ab9b4f6259c3457db02982c60d7012ae7d56441cbb43f21664474e7b7edeef/68747470733a2f2f73706f7274736b68616272692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30342f417374726f2d72656e6577732d5072656d6965722d4c65616775652d6465616c2e6a7067",
+"logo": "https://camo.githubusercontent.com/c23622583f55532ca8768a321180b5f0865479bf742381f0f79371746249eef1/68747470733a2f2f6173736574732e7468652d6166632e636f6d2f42726f6164636173746572732f417374726f2e706e67",
 "country": "MY"
 }, 
 {
