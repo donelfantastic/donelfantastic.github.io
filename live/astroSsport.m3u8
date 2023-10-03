@@ -4,6 +4,10 @@
 #EXT-X-TARGETDURATION:11
 #EXT-X-I-FRAMES-ONLY
 #EXTINF:10.144000,
-https://m3.ballnaja.com/live/assp1/playlist.m3u8
+https://m3.ballnaja.com/live/assp1/l_946_2424080_197.ts
 #EXTINF:10.000000,
-https://m3.ballnaja.com/live/assp1/chunks.m3u8
+https://m3.ballnaja.com/live/assp1/l_946_2430080_198.ts
+#EXTINF:10.144000,
+https://m3.ballnaja.com/live/assp1/l_946_2424080_199.ts
+#EXTINF:10.000000,
+https://m3.ballnaja.com/live/assp1/l_946_2430080_200.ts
