@@ -155,7 +155,7 @@
 "id":"SpotvKr",
 "name":"SPOTV",
 "categories":["SPORTS"],
-"url":"https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd",
+"url":"https://mangga-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd",
 "logo":"https://www.firstmedia.com/files/logos/channels/12-SPORTS/SPOTV%20HD-FirstMedia-Chl-329.jpg",
 "country":"KR"
 }, 
@@ -164,7 +164,7 @@
 "id":"Spotv2Kr",
 "name":"SPOTV 2",
 "categories":["SPORTS"],
-"url":"https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd",
+"url":"https://mangga-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd",
 "logo":"https://www.firstmedia.com/files/logos/channels/12-SPORTS/SPOTV2%20HD-FirstMedia-Chl-330.jpg",
 "country":"KR"
 }, 
