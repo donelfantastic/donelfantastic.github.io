@@ -1,12 +1,37 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:300,700&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Josefin+Slab&display=swap");
+html {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+a:link {
+  text-decoration: none;
+}
+body {
+  position: relative;
+  font-family: "Roboto Condensed";
+  margin: 0;
+  padding: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+  background: #1a1717;
+  color: rgb(243, 239, 239);
+}
+/*
 body {
   margin: 0;
   padding: 0;
   background: #1a1717;
   color: rgb(243, 239, 239);
 }
-
+*/
 .bg-video-wrap {
   position: relative;
   overflow: hidden;
@@ -29,7 +54,7 @@ video {
   color: rgba(255, 255, 255, 0.8);
   font-size: 22px;
   font-weight: 700;
-  position: absolute;
+  position: fixed;/*absolute*/
   left: 75px;
   top: 20px;
   letter-spacing: 1.2px;
@@ -40,7 +65,7 @@ video {
   width: 48px;
   height: 48px;
   background: #001f61;
-  position: absolute;
+  position: fixed;/*absolute*/
   border: 1px solid #001f61;
   box-shadow: 0 16px 22px -17px #03153b;
   top: 30px;
@@ -648,36 +673,3 @@ table-area {
   }
 }
 
-/* Page Loader */
-.loading:before {
-  content: "";
-  position: fixed;
-  z-index: 100000;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100vh;
-  background: black;
-}
-.loading:after {
-  content: "";
-  position: fixed;
-  z-index: 100000;
-  top: 50%;
-  left: 50%;
-  width: 60px;
-  height: 60px;
-  margin: -30px 0 0 -30px;
-  pointer-events: none;
-  border-radius: 50%;
-  opacity: 0.4;
-  background: white;
-  animation: loaderAnim 0.7s linear infinite alternate forwards;
-}
-
-@keyframes loaderAnim {
-  to {
-    opacity: 1;
-    transform: scale3d(0.5, 0.5, 1);
-  }
-}
