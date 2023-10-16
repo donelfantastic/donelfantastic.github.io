@@ -27,6 +27,138 @@
 "country":"ES"
 }, 
 {
+"channel": "TrueSports1.th",
+"id": "TrueSports1.th",
+"name": "TRUESPORTS 1",
+"categories": [
+"SPORTS"
+],
+"url": "https://m1.ballnaja.com/True_Sports_1/playlist.m3u8",
+"logo": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-truesport1.webp",
+"country": "TH"
+}, 
+{
+"channel": "TrueSports2.th",
+"id": "TrueSports2.th",
+"name": "TRUESPORTS 2",
+"categories": [
+"SPORTS"
+],
+"url": "https://m1.ballnaja.com/True_Sports_2/playlist.m3u8",
+"logo": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-truesport2.webp",
+"country": "TH"
+}, 
+{
+"channel": "TrueSports3.th",
+"id": "TrueSports3.th",
+"name": "TRUESPORTS 3",
+"categories": [
+"SPORTS"
+],
+"url": "https://m1.ballnaja.com/True_Sports_3/playlist.m3u8",
+"logo": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-truesport3.webp",
+"country": "TH"
+}, 
+{
+"channel": "TrueSports4.th",
+"id": "TrueSports4.th",
+"name": "TRUESPORTS 4",
+"categories": [
+"SPORTS"
+],
+"url": "https://m1.ballnaja.com/True_Sports_4/playlist.m3u8",
+"logo": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-truesport4.webp",
+"country": "TH"
+}, 
+{
+"channel": "TrueSports5.th",
+"id": "TrueSports5.th",
+"name": "TRUESPORTS 5",
+"categories": [
+"SPORTS"
+],
+"url": "https://m1.ballnaja.com/True_Sports_5/playlist.m3u8",
+"logo": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-truesport5.webp",
+"country": "TH"
+}, 
+{
+"channel": "TrueSports6.th",
+"id": "TrueSports6.th",
+"name": "TRUESPORTS 6",
+"categories": [
+"SPORTS"
+],
+"url": "https://m1.ballnaja.com/True_Sports_6/playlist.m3u8",
+"logo": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true4k-ultra-hd.webp",
+"country": "TH"
+},
+{
+"channel": "TrueSports7.th",
+"id": "TrueSports7.th",
+"name": "TRUESPORTS 7",
+"categories": [
+"SPORTS"
+],
+"url": "https://m1.ballnaja.com/True_Sports_7/playlist.m3u8",
+"logo": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-truesport7.webp",
+"country": "TH"
+}, 
+{
+"channel": "TruePremiereFootball1.th",
+"id": "TruePremiereFootball1.th",
+"name": "TRUEPREMIERE Football 1",
+"categories": [
+"SPORTS"
+],
+"url": "https://m1.ballnaja.com/True_Premier_Football_1/playlist.m3u8",
+"logo": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp",
+"country": "TH"
+}, 
+{
+"channel": "TruePremiereFootball2.th",
+"id": "TruePremiereFootball2.th",
+"name": "TRUEPREMIERE Football 2",
+"categories": [
+"SPORTS"
+],
+"url": "https://m1.ballnaja.com/True_Premier_Football_2/playlist.m3u8",
+"logo": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd2.webp",
+"country": "TH"
+}, 
+{
+"channel": "TruePremiereFootball3.th",
+"id": "TruePremiereFootball3.th",
+"name": "TRUEPREMIERE Football 3",
+"categories": [
+"SPORTS"
+],
+"url": "https://m1.ballnaja.com/True_Premier_Football_3/playlist.m3u8",
+"logo": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd3.webp",
+"country": "TH"
+}, 
+{
+"channel": "TruePremiereFootball4.th",
+"id": "TruePremiereFootball4.th",
+"name": "TRUEPREMIERE Football 4",
+"categories": [
+"SPORTS"
+],
+"url": "https://m1.ballnaja.com/True_Premier_Football_4/playlist.m3u8",
+"logo": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd4.webp",
+"country": "TH"
+}, 
+{
+"channel": "TruePremiereFootball5.th",
+"id": "TruePremiereFootball5.th",
+"name": "TRUEPREMIERE Football 5",
+"categories": [
+"SPORTS"
+],
+"url": "https://m1.ballnaja.com/True_Premier_Football_5/playlist.m3u8",
+"logo": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd5.webp",
+"country": "TH"
+}, 
+{
 "channel":"beinS1en",
 "id":"beinS1en",
 "name":"BEINSPORTS ENG",
@@ -65,7 +197,7 @@
 {
 "channel": "astroGoLive.my",
 "id": "astroGoLive.my",
-"name": "ASTROGO LIVE EVENT 1",
+"name": "LIVE ON EVENT 1",
 "categories": [
 "SPORTS"
 ],
@@ -76,7 +208,7 @@
 {
 "channel": "astroGoLive2.my",
 "id": "astroGoLive2.my",
-"name": "ASTROGO LIVE EVENT 2",
+"name": "LIVE ON EVENT 2",
 "categories": [
 "SPORTS"
 ],
@@ -87,7 +219,7 @@
 {
 "channel": "astroGoLive3.my",
 "id": "astroGoLive3.my",
-"name": "ASTROGO LIVE EVENT 3",
+"name": "LIVE ON EVENT 3",
 "categories": [
 "SPORTS"
 ],
@@ -98,7 +230,7 @@
 {
 "channel": "astroGoLive4.my",
 "id": "astroGoLive4.my",
-"name": "ASTROGO LIVE EVENT 4",
+"name": "LIVE ON EVENT 4",
 "categories": [
 "SPORTS"
 ],
@@ -109,9 +241,9 @@
 {
 "channel": "astroSport.my",
 "id": "astroSport.my",
-"name": "Astro Supersport",
+"name": "ASTROSUPERSPORT",
 "categories": [
-"Sports"
+"SPORTS"
 ],
 "url": "https://donelfantastic.github.io/live/astroSsport.m3u8",
 "logo": "https://camo.githubusercontent.com/3f7192f10197fa53e5ddef352f4ac14037e2011b8bf086fb68e6ddb24019651c/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3135345f3134342e706e67",
@@ -120,9 +252,9 @@
 {
 "channel": "astroSport2.my",
 "id": "astroSport2.my",
-"name": "Astro Supersport 2",
+"name": "ASTROSUPERSPORT 2",
 "categories": [
-"Sports"
+"SPORTS"
 ],
 "url": "https://donelfantastic.github.io/live/astroSsport2.m3u8",
 "logo": "https://camo.githubusercontent.com/643155e1cae0c3ca21ea1796371c73b36c79e426a758e9c01e2e668c45a907fb/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3133385f3134342e706e67",
@@ -131,9 +263,9 @@
 {
 "channel": "astroSport3.my",
 "id": "astroSport3.my",
-"name": "Astro Supersport 3",
+"name": "ASTROSUPERSPORT 3",
 "categories": [
-"Sports"
+"SPORTS"
 ],
 "url": "https://donelfantastic.github.io/live/astroSsport3.m3u8",
 "logo": "https://camo.githubusercontent.com/44bb1c3b434a452e511c5527e3b3c234f6c8b58bc1547557e948cff5db4e09aa/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3136345f3134342e706e67",
@@ -142,9 +274,9 @@
 {
 "channel": "astroSport4.my",
 "id": "astroSport4.my",
-"name": "Astro Supersport 4",
+"name": "ASTROSUPERSPORT 4",
 "categories": [
-"Sports"
+"SPORTS"
 ],
 "url": "https://1.yurend.xyz/dash-wv/linear/2506/default.mpd",
 "logo": "https://camo.githubusercontent.com/791341ad78b81e9d2952699abf5b94fcad7c296eafbd53f10149130e28a8ddd4/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3234315f3134342e706e67",
@@ -264,7 +396,7 @@
 "id":"Espn1Arg",
 "name":"ESPN ARG",
 "categories":["SPORTS"],
-"url":"https://ixp-nqn.origin.rcs.net.ar/mnp/espn/output.mpd",
+"url":"https://davitel.cdn.rcs.net.ar/mnp/espn/output.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/qzobqn1660760939.png",
 "country":"ARG"
 }, 
@@ -273,7 +405,7 @@
 "id":"Espn2Arg",
 "name":"ESPN 2 ARG",
 "categories":["SPORTS"],
-"url":"https://ixp-nqn.origin.rcs.net.ar/mnp/espn2/output.mpd",
+"url":"https://davitel.cdn.rcs.net.ar/mnp/espn2/output.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/wcualh1660760950.png",
 "country":"ARG"
 }, 
@@ -282,7 +414,7 @@
 "id":"Espn3Arg",
 "name":"ESPN 3 ARG",
 "categories":["SPORTS"],
-"url":"https://ixp-nqn.origin.rcs.net.ar/mnp/espn3/output.mpd",
+"url":"https://davitel.cdn.rcs.net.ar/mnp/espn3/output.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/wkdrnd1660760961.png",
 "country":"ARG"
 }, 
@@ -291,7 +423,7 @@
 "id":"Espn1PArg",
 "name":"ESPN PREMIUM ARG",
 "categories":["SPORTS"],
-"url":"https://ixp-nqn.origin.rcs.net.ar/mnp/espnpremium/output.mpd",
+"url":"https://davitel.cdn.rcs.net.ar/mnp/espnpremium/output.mpd",
 "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png",
 "country":"ARG"
 }, 
@@ -300,7 +432,7 @@
 "id":"Espn1XArg",
 "name":"ESPN EXTRA ARG",
 "categories":["SPORTS"],
-"url":"https://ixp-nqn.origin.rcs.net.ar/mnp/espn_extra/output.mpd",
+"url":"https://davitel.cdn.rcs.net.ar/mnp/espn_extra/output.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/hdrkql1660762351.png",
 "country":"ARG"
 }, 
@@ -309,7 +441,7 @@
 "id":"FoxS1Arg",
 "name":"FOX SPORTS ARG",
 "categories":["SPORTS"],
-"url":"https://ixp-nqn.origin.rcs.net.ar/mnp/fox_sport/output.mpd",
+"url":"https://davitel.cdn.rcs.net.ar/mnp/fox_sport/output.mpd",
 "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logo_Fox_Sports_Argentina_2023.png/800px-Logo_Fox_Sports_Argentina_2023.png",
 "country":"ARG"
 }, 
@@ -318,7 +450,7 @@
 "id":"FoxS2Arg",
 "name":"FOX SPORTS 2 ARG",
 "categories":["SPORTS"],
-"url":"https://ixp-nqn.origin.rcs.net.ar/mnp/fox_sport2/output.mpd",
+"url":"https://davitel.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd",
 "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png",
 "country":"ARG"
 }, 
@@ -327,7 +459,7 @@
 "id":"FoxS3Arg",
 "name":"FOX SPORTS 3 ARG",
 "categories":["SPORTS"],
-"url":"https://ixp-nqn.origin.rcs.net.ar/mnp/fox_sport3/output.mpd",
+"url":"https://davitel.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd",
 "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png",
 "country":"ARG"
 }, 
@@ -336,7 +468,7 @@
 "id":"TycSArg",
 "name":"TYC SPORTS ARG",
 "categories":["SPORTS"],
-"url":"https://ixp-nqn.origin.rcs.net.ar/mnp/tyc/output.mpd",
+"url":"https://davitel.cdn.rcs.net.ar/mnp/tyc/output.mpd",
 "logo":"https://www.thesportsdb.com/images/media/tvlogo/rtqxvp1472103744.png",
 "country":"ARG"
 }, 
@@ -345,7 +477,7 @@
 "id":"TNTSArg",
 "name":"TNT SPORTS ARG",
 "categories":["SPORTS"],
-"url":"https://ixp-nqn.origin.rcs.net.ar/mnp/tntsports/output.mpd",
+"url":"https://davitel.cdn.rcs.net.ar/mnp/tntsports/output.mpd",
 "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png",
 "country":"ARG"
 }, 
