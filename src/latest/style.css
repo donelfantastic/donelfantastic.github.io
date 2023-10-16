@@ -26,7 +26,7 @@ video {
 
 .hint {
   font-family: "Roboto Condensed";
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 0.8);
   font-size: 22px;
   font-weight: 700;
   position: absolute;
