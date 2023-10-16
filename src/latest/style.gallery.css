@@ -1,0 +1,283 @@
+/* ===============================
+	Async image loading
+=============================== */
+.async-image-holder {
+  position: relative;
+  overflow: hidden;
+}
+
+.async-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0;
+  transition: opacity 0.3s ease-out 0s;
+}
+
+.async-image.loaded {
+  opacity: 1;
+}
+
+.async-image.low-res {
+  filter: blur(3px);
+}
+
+/* ===============================
+	BEGIN GALLERY
+=============================== */
+.gallery {
+  display: flex;
+  flex-flow: wrap row;
+  justify-content: space-between;
+  width: 95%;
+  margin: 50px auto;
+}
+
+/* These three lines are incredibly useful for flexbox.
+Kudos to https://stackoverflow.com/a/34816625*/
+.gallery:after {
+  content: "";
+  display: inline-block;
+  flex: auto;
+}
+
+/* =========================================
+    Gallery image sizes
+========================================== */
+/*Setting height by padding-top maintains aspect ratio when window is resized*/
+/* 2 columns */
+.gallery-image {
+  width: 49.57%;
+  padding-top: 35%;
+  margin: 0.2%;
+  background-color: rgba(20, 20, 20, 0.3);
+}
+
+/* 3 columns */
+@media screen and (min-width: 500px) {
+  .gallery-image {
+    width: 33.1%;
+    padding-top: 23.3709%;
+    margin: 0.1%;
+  }
+}
+/* 4 columns */
+@media screen and (min-width: 700px) {
+  .gallery-image {
+    width: 24.8%;
+    padding-top: 17.5105%;
+    margin: 0.1%;
+  }
+}
+/* 5 columns */
+@media screen and (min-width: 800px) {
+  .gallery-image {
+    width: 19.8%;
+    padding-top: 13.9802%;
+    margin: 0.1%;
+  }
+}
+/* 6 columns */
+@media screen and (min-width: 1200px) {
+  .gallery-image {
+    width: 16.5%;
+    padding-top: 11.6501%;
+    margin: 0.082%;
+  }
+}
+/* ===============================
+	BEGIN LIGHTBOX
+=============================== */
+/* ===========================
+    Transition vars
+============================ */
+/* =========================
+    Overlay
+========================= */
+#swgl-overlay {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  opacity: 0;
+  background-color: rgba(0, 0, 0, 0.9);
+  transition: max-height 0s linear 270ms, opacity 250ms linear 0s;
+  max-height: 0px;
+  overflow: hidden;
+}
+
+#swgl-overlay.active {
+  opacity: 1;
+  max-height: 100vh;
+  transition: max-height 0s linear 0s, opacity 250ms linear 0s;
+}
+
+/* =========================
+    CONTROLS
+========================= */
+#swgl-controls {
+  position: absolute;
+  top: 0px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 5000;
+}
+
+.swgl-digitizer {
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.swgl-btn {
+  position: absolute;
+  border-width: 0;
+  font-size: 35px;
+  color: white;
+  text-shadow: 1px 2px 5px rgba(0, 0, 0, 0.2);
+  padding: 156px 16px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0);
+  cursor: pointer;
+}
+
+.swgl-btn:focus, .swgl-btn:active {
+  outline: none !important;
+}
+
+.swgl-nav-btn {
+  top: 50%;
+  transform: translateY(-50%);
+  width: 110px;
+  color: rgba(255, 255, 255, 0.6);
+  transition: background-color 0.4s ease 0s, color 0.4s ease 0s;
+}
+
+.swgl-nav-btn:hover {
+  color: white;
+  background-color: rgba(60, 60, 60, 0.4);
+}
+
+#swgl-close-btn {
+  top: 0px;
+  right: 0px;
+  padding: 7px 15px;
+  font-size: 45px;
+  z-index: 4000;
+}
+
+#swgl-prev-btn {
+  left: 0px;
+  text-align: left;
+}
+
+#swgl-next-btn {
+  right: 0px;
+  text-align: right;
+}
+
+/* =========================
+    Slide wrapper
+========================= */
+#swgl-slide-wrapper {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+/* ==========================
+    Loading spinner
+===========================*/
+.swgl-loading-spinner {
+  position: absolute;
+  display: block;
+  width: 65px;
+  height: auto;
+  top: 50%;
+  left: 50%;
+  animation-name: swgl-spinner;
+  animation-iteration-count: infinite;
+  animation-duration: 2s;
+}
+
+/* The animation code */
+@keyframes swgl-spinner {
+  from {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+  to {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+/* =========================
+    SLIDE
+========================= */
+.swgl-slide {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  max-width: 400px;
+  max-height: 260px;
+  top: 50%;
+  left: 50%;
+  border-radius: 2px;
+  border: 2px solid white;
+  background: #e4e4e4;
+  overflow: hidden;
+  transform: translate(-50%, -50%);
+  transform-origin: 50% 50%;
+  transition: opacity 500ms linear 0s, transform 500ms ease-out 0s, max-height 500ms ease 0s, max-width 500ms ease 0s;
+}
+
+.swgl-slide.loaded {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.swgl-left {
+  opacity: 0;
+  transform: translate(-155%, -50%) !important;
+}
+
+.swgl-right {
+  opacity: 0;
+  transform: translate(55%, -50%) !important;
+}
+
+.swgl-center {
+  opacity: 0;
+}
+
+.swgl-slide-img {
+  display: block;
+  width: auto;
+  height: auto;
+  max-height: 98vh;
+  max-width: 98vw;
+  opacity: 0;
+  transition: opacity 0.4s ease-out 0s;
+}
+
+.swgl-slide-img.loaded {
+  opacity: 1;
+  width: auto;
+  height: auto;
+}
+
+.swgl-caption {
+  display: none;
+}
