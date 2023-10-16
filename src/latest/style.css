@@ -26,7 +26,7 @@ video {
 
 .hint {
   font-family: "Roboto Condensed";
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255, 0.9);
   font-size: 22px;
   font-weight: 700;
   position: absolute;
@@ -180,7 +180,7 @@ video {
   border-radius: 25px;
   text-align: center;
   color: #001f61;
-  font-family: "Roboto Condensed";
+  font-family: "Roboto Condensed", sans-serif;
   font-size: 22px;
   z-index: 1;
   transition: 0.2s;
