@@ -234,7 +234,7 @@ window.addEventListener("load", function () {
       var b = 0;
       var output = "";
       output +=
-        "<br><table id='myTable' class='display' style='background:#001f61;font-size:12px;'><thead><tr><th class='th-sm'>Logo</th><th class='th-sm'>Channel</th><th class='th-sm' style='display:none;'>Category</th><th class='th-sm'>Live</th></thead><tbody>";
+        "<br><table id='myTable' class='display' style='background:#001f61;font-size:12px;'><thead><tr><th class='th-sm'>LOGO CHANNEL</th><th class='th-sm'>NAME CHANNEL</th><th class='th-sm' style='display:none;'>Category</th><th class='th-sm'>LIVE CHANNEL</th></thead><tbody>";
       var i, j, k, l;
       for (i in a) {
         for (j in a[i].categories) {
