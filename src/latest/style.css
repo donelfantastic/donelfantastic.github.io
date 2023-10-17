@@ -33,6 +33,7 @@ video {
   left: 75px;
   top: 20px;
   letter-spacing: 1.2px;
+  cursor: none;
 }
 
 /* NAVIGATION MENU CSS */
@@ -411,7 +412,8 @@ video {
 
 h5 {
   color: white;
-  cursor: pointer;  
+  margin-left: 15px;
+  cursor: none;  
   }
 
 .df_title {
@@ -426,7 +428,7 @@ h5 {
   margin-right: 15px;
   margin-top:150px;
   letter-spacing: 2px;
-  cursor: pointer;  
+  cursor: none;  
   }
 
 p {
@@ -435,7 +437,7 @@ p {
   color: white;
   margin-left: 15px;
   letter-spacing: 1px;
-  cursor: pointer;  
+  cursor: none;  
   }
 
 span {
