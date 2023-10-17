@@ -497,20 +497,29 @@ span {
   display: block;
 }
 
+/* TABLE */
 table-area {
   position: relative;
   z-index: 0;
   margin-top: 0px;
 }
 
+table tr, table th {
+background: transparent !important;
+}
+
+table td {
+background: #1a1717 !important;
+}
+
 .dataTables_wrapper .dataTables_length,
 .dataTables_wrapper .dataTables_filter {
   color: white !important;
-  }
+}
 
 .dataTables_wrapper .dataTables_info {
   color: white !important;
-  }
+}
 
 /* POPUP VIDEO CSS */
 .video-popup {
