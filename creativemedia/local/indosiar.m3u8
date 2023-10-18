@@ -1,7 +1,26 @@
 #EXTM3U
-#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1920x1080,FRAME-RATE=30.000,CODECS="avc1.64002a,mp4a.40.2",AVERAGE-BANDWIDTH=2710000,BANDWIDTH=3380000
-https://cors.plus/http://tvnid.x10.mx/vidio/master.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
+https://etslive-2-vidio-com.akamaized.net/exp=1697647080~acl=/hls-p/ingest_205_*/*~hmac=8afb42b06bdcdac0d3556fc6dfad2718e0dfc5111b31ae9a15f125bddfceb9af/hls-p/ingest_205_720p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
+https://etslive-2-vidio-com.akamaized.net/exp=1697647080~acl=/hls-p/ingest_205_*/*~hmac=8afb42b06bdcdac0d3556fc6dfad2718e0dfc5111b31ae9a15f125bddfceb9af/hls-p/ingest_205_480p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
+https://etslive-2-vidio-com.akamaized.net/exp=1697647080~acl=/hls-p/ingest_205_*/*~hmac=8afb42b06bdcdac0d3556fc6dfad2718e0dfc5111b31ae9a15f125bddfceb9af/hls-p/ingest_205_360p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
+https://etslive-2-vidio-com.akamaized.net/exp=1697647080~acl=/hls-p/ingest_205_*/*~hmac=8afb42b06bdcdac0d3556fc6dfad2718e0dfc5111b31ae9a15f125bddfceb9af/hls-p/ingest_205_240p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
+https://etslive-2-vidio-com.akamaized.net/exp=1697647080~acl=/hls-b/ingest_205_*/*~hmac=a0725bfc3bd1d3b35c6bf2a9bd759d5e87123359693f07b4f4dcf0fced4ae383/hls-b/ingest_205_720p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
+https://etslive-2-vidio-com.akamaized.net/exp=1697647080~acl=/hls-b/ingest_205_*/*~hmac=a0725bfc3bd1d3b35c6bf2a9bd759d5e87123359693f07b4f4dcf0fced4ae383/hls-b/ingest_205_480p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
+https://etslive-2-vidio-com.akamaized.net/exp=1697647080~acl=/hls-b/ingest_205_*/*~hmac=a0725bfc3bd1d3b35c6bf2a9bd759d5e87123359693f07b4f4dcf0fced4ae383/hls-b/ingest_205_360p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
+https://etslive-2-vidio-com.akamaized.net/exp=1697647080~acl=/hls-b/ingest_205_*/*~hmac=a0725bfc3bd1d3b35c6bf2a9bd759d5e87123359693f07b4f4dcf0fced4ae383/hls-b/ingest_205_240p/index.m3u8
 
+
+<!--// #EXTM3U //-->
+<!--// #EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1920x1080,FRAME-RATE=30.000,CODECS="avc1.64002a,mp4a.40.2",AVERAGE-BANDWIDTH=2710000,BANDWIDTH=3380000 //-->
+<!--// https://cors.plus/http://tvnid.x10.mx/vidio/master.m3u8 //-->
 <!--// #EXTM3U //-->
 <!--// #EXT-X-VERSION:3 //-->
 <!--// #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=705720,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=480x360 //-->
