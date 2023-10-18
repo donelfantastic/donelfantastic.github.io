@@ -737,3 +737,54 @@ background: #1a1717 !important;
 #slide4 { background: url("https://donelfantastic.github.io/assets/donelfantastic13.png")no-repeat center center/cover; }
 #slide5 { background: url("https://donelfantastic.github.io/assets/donelfantastic8.jpg")no-repeat center center/cover; }
 
+/* MENUTVBUTTON */
+
+#wrapper {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+}
+.animated-button {
+  display: inline-block;
+  position: relative;
+  padding: 5px 15px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  font-size: 12px;
+  background: #fc4a1a;
+  background: -webkit-linear-gradient(
+    to right,
+    #f30876,
+    #fc4a1a
+  );
+  background: linear-gradient(
+    to right,
+    #f30876,
+    #fc4a1a
+  );
+  color: #fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: all 0.3s linear;
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+}
+.animated-button:hover {
+  transform: scale(1.2);
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+}
+.animated-button i {
+  margin-right: 10px;
+  transition: all 0.3s linear;
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+}
+.animated-button:hover i {
+  transform: rotate(360deg);
+}
+
+
+
