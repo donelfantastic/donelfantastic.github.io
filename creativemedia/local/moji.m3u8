@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTM3U
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1920x1080,FRAME-RATE=30.000,CODECS="avc1.64002a,mp4a.40.2",AVERAGE-BANDWIDTH=2710000,BANDWIDTH=3380000
-https://donelfantastic.github.io/creativemedia/local/mojiID.m3u8
+https://cors.plus/donelfantastic.github.io/creativemedia/local/mojiID.m3u8
 <!-- #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=705720,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=480x360 -->
 <!-- #http://http://210.210.155.35/qwr9ew/s/s41/02.m3u8 -->
 <!-- #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238329,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1024x576 -->
