@@ -12,7 +12,7 @@ body {
   overflow: hidden;
   width: 100%;
   height: 100vh;
-  background: url("https://donelfantastic.github.io/assets/donelfantastic12.png") no-repeat center center/cover;
+  background: url("https://cdn.jsdelivr.net/gh/donelfantastic/donelfantastic.github.io@main/assets/donelfantastic12.png") no-repeat center center/cover;
 }
 
 video {
