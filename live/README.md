@@ -1,5 +1,7 @@
 Test
 ==
+<li>https://donelfantastic.github.io/live/id/CHTVsctv.m3u8</li>
+
 <li>https://donelfantastic.github.io/live/usaNetwork.m3u8</li>
 
 <li>https://donelfantastic.github.io/live/wowowJP-HD.m3u8</li>
