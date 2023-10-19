@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:5
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:29047 #EXT-X-PROGRAM-DATE-TIME:2023-10-19T09:38:53.384Z
+#EXTINF:4.000,
+https://bd.rriptv.xyz/live-bd/y3/.ts.php?ts=https://ddy3.vipboxtv.stream/ddy3/premium38/tracks-v1a1/2023/10/19/09/38/53-04000.ts
+#EXTINF:4.011,
+https://bd.rriptv.xyz/live-bd/y3/ts.php?ts=https://ddy3.vipboxtv.stream/ddy3/premium38/tracks-v1a1/2023/10/19/09/38/57-04011.ts
+#EXTINF:4.000,
+https://bd.rriptv.xyz/live-bd/y3/ts.php?ts=https://ddy3.vipboxtv.stream/ddy3/premium38/tracks-v1a1/2023/10/19/09/39/01-04000.ts
+#EXTINF:4.011,
+https://bd.rriptv.xyz/live-bd/y3/ts.php?ts=https://ddy3.vipboxtv.stream/ddy3/premium38/tracks-v1a1/2023/10/19/09/39/05-04011.ts
+#EXTINF:4.000,
+https://bd.rriptv.xyz/live-bd/y3/ts.php?ts=https://ddy3.vipboxtv.stream/ddy3/premium38/tracks-v1a1/2023/10/19/09/39/09-04000.ts
+#EXTINF:4.011,
+https://bd.rriptv.xyz/live-bd/y3/ts.php?ts=https://ddy3.vipboxtv.stream/ddy3/premium38/tracks-v1a1/2023/10/19/09/39/13-04011.ts
