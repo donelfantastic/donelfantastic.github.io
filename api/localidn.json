@@ -44,27 +44,16 @@
 "country": "CN"
 },
 {
-"channel": "AnimalPlanet.sg",
-"id": "AnimalPlanet.sg",
+"channel": "AnimalPlanet",
+"id": "AnimalPlanet",
 "name": "Animal Planet",
 "categories": [
 "Knowledge"
 ],
 "url": "https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/AnimalPlanet\/sa_dash_vmx\/AnimalPlanet.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/animal-planet-us.svg",
-"country": "SG"
-},
-{
-"channel": "AnimalPlanet.us",
-"id": "AnimalPlanet.us",
-"name": "Animal Planet(backup)",
-"categories": [
-"Knowledge"
-],
-"url": "https:\/\/m2.ballnaja.com:8443/ANIMALPLANET/playlist.m3u8",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/animal-planet-us.svg",
 "country": "US"
-},  
+},
 {
 "channel": "Animax",
 "id": "Animax",
@@ -1470,7 +1459,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/donelfantastic.github.io\/creativemedia\/local\/moji.m3u8",
-"logo": "https://www.proliga.co.id/wp-content/uploads/2022/12/Moji_blue.svg-1536x764.png",
+"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/moji-id.svg",
 "country": "ID"
 },  
 {
@@ -1491,8 +1480,19 @@
 "categories": [
 "Movies"
 ],
-"url": "https://donelfantastic.github.io/creativemedia/local/kPlus.m3u8",
-"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/id\/8\/8c\/K_Plus_Asia_Logo.jpg",
+"url": "https:\/\/op-group1-swiftservehd-1.dens.tv\/h\/h08\/index.m3u8",
+"logo": "https:\/\/divign0fdw3sv.cloudfront.net\/Images\/ChannelLogo\/contenthub\/266_144.png",
+"country": "KR"
+}, 
+{
+"channel": "nadoo.kr",
+"id": "nadoo.kr",
+"name": "Nadoo Korean",
+"categories": [
+"Movies"
+],
+"url": "https:\/\/op-group1-swiftservehd-1.dens.tv\/h\/h125\/live.m3u8",
+"logo": "https:\/\/picture.dens.tv\/wp\/img\/tvchannels_v1\/340x160\/1692691581_tvchannels_v1.jpg",
 "country": "KR"
 }
 ]
