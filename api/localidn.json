@@ -1,5 +1,16 @@
 [
 {
+"channel": "indonesiana.id",
+"id": "indonesiana.id",
+"name": "Indonesiana TV",
+"categories": [
+"Entertainment"
+],
+"url": "https:\/\/kbtv.akamaized.net\/hls\/live\/2031188\/kanalbuya\/playlist.m3u8",
+"logo": "https:\/\/indonesiana.tv\/_nuxt\/img\/logo-indonesianatv-fit.0d9697f.png",
+"country": "ID"
+},  
+{
 "channel": "AFN-HD",
 "id": "AFN-HD",
 "name": "Asian Food Network",
