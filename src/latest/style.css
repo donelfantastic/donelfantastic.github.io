@@ -417,10 +417,10 @@ h5 {
   }
 
 .df_title {
+  /*background-color: #001f61;
+  box-shadow: 0 16px 22px -17px #03153b;*/
+  border: 1px solid #ffffff;
   border-radius: 26.5px;
-  background-color: #001f61;
-  border: 1px solid #001f61;
-  box-shadow: 0 16px 22px -17px #03153b;
   font-size: 22px;
   color: white;
   text-align: center;
