@@ -220,13 +220,13 @@ close_btn.addEventListener("click", () => {
 
 //TVJSON JS
 window.addEventListener("load", function () {
-  var cukuRukuk = "//donelfantastic.github.io/api/30september2023.json";
+  var cukuRukuk = "//donelfantastic.github.io/api/localidn.json";
   var o = $("#display-number");
   var p = $("#display-resources");
   p.html(
     "<center><p>Loading TV Channels Please wait...</p><br/><div id='loading'></div></center>"
   );
-//01020307080920212223 //15september2023
+
   $.ajax({
     type: "GET",
     url: cukuRukuk, 
@@ -259,7 +259,7 @@ window.addEventListener("load", function () {
         ) {
           b++;
 
-          var Dory = "https://donelfantastic.github.io:443/mn/embed/shoko/?live&url=";
+          var Dory = "https://donelfantastic.github.io:443/mn/embed/cloppr/?live&url=";
           var Nella = "//cors.plus/";
           var deviceId = "deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj-YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj";   
           output += "<tr><td><center><img width='64' src='" + a[i].logo + "'/></center></td><td>" + a[i].name + "</td><td style='display:none;'>" + d + "</td><td><center><a class='open-video' style='text-decoration:none;' href='" + Dory + a[i].url + "?" + deviceId + "'><img src='//donelfantastic.github.io/assets/watchnow.png' style='width:48px;height:auto;'/></a></center></td></tr>";
