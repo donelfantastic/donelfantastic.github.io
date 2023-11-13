@@ -27,6 +27,24 @@
 "country":"ES"
 }, 
 {
+"channel":"fPlus",
+"id":"fPlus",
+"name":"FIFA+ ",
+"categories":["SPORTS"],
+"url":"https:\/\/i.mjh.nz\/SamsungTVPlus\/ITBD1000002HF.m3u8",
+"logo":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200008JG_20230823T001831SQUARE.png_20230823001832.png",
+"country":"EN"
+}, 
+{
+"channel":"fPlus",
+"id":"fPlus",
+"name":"FIFA+ 2",
+"categories":["SPORTS"],
+"url":"https:\/\/i.mjh.nz\/SamsungTVPlus\/ATBA3300007PT.m3u8",
+"logo":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200008JG_20230823T001831SQUARE.png_20230823001832.png",
+"country":"EN"
+},   
+{
 "channel":"SpotvKr",
 "id":"SpotvKr",
 "name":"SPOTV",
