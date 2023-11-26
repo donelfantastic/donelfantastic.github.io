@@ -1,5 +1,16 @@
 [
 {
+"channel": "donelID",
+"id": "donelID",
+"name": "Donel on Event ",
+"categories": [
+"VOD"
+],  
+"url": "https://vidio.com/videos/7759420/common_tokenized_playlist.m3u8",
+"logo": "https://thumb.viva.id/antvklik/375x211/2023/05/26/6470b80882589-kangen-joget-antv_antvklik.jpg",
+"country": "ID"
+},    
+{
 "channel": "indonesiana.id",
 "id": "indonesiana.id",
 "name": "Indonesiana TV",
