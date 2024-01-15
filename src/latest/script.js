@@ -1,3 +1,4 @@
+//Latest Updated 15/1/2024
 //NAVIGATION MENU JS
 let menuIcon = $(".toggle-nav");
 let nav = $(".nav");
@@ -40,7 +41,8 @@ menuIcon.click(function () {
   var player; 
   var playlist1 = $("#ytpl-player1").data("nk"), 
       playlist2 = $("#ytpl-player2").data("dh"), 
-      playlist3 = $("#ytpl-player3").data("im"); 
+      playlist3 = $("#ytpl-player3").data("im"), 
+      playlist4 = $("#ytpl-player4").data("dm");
   
   
 var $ul = $("#ytpl-thumbs");
@@ -65,6 +67,11 @@ var $ul = $("#ytpl-thumbs");
       key: apiKey,
       maxResults: 50
     };
+       var data4 = {
+      playlistId: playlist4, 
+      key: apiKey,
+      maxResults: 50
+    };
 
     $.get(url, data1, function (e) {
       buildHTML(e.items);
@@ -73,6 +80,9 @@ var $ul = $("#ytpl-thumbs");
       buildHTML(e.items);
     });
     $.get(url, data3, function (e) {
+      buildHTML(e.items);
+    });
+    $.get(url, data4, function (e) {
       buildHTML(e.items);
     });
   }
@@ -142,6 +152,19 @@ var $ul = $("#ytpl-thumbs");
       playerVars: {
         listType: "playlist", 
         list: playlist3
+      },
+      events: {
+        onReady: onPlayerReady,
+        onStateChange: onPlayerStateChange
+      }
+    });
+    
+    var player4 = new YT.Player("ytpl-player4",{
+      height: "360",
+      width: "640",
+      playerVars: {
+        listType: "playlist", 
+        list: playlist4
       },
       events: {
         onReady: onPlayerReady,
