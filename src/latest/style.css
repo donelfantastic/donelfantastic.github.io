@@ -7,6 +7,12 @@ body {
   color: rgb(243, 239, 239);
 }
 
+/*YT Video BG*/
+.video-container {
+  height: 100vh;
+  width: 100%;
+}
+
 .bg-video-wrap {
   position: relative;
   overflow: hidden;
