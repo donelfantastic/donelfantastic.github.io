@@ -45,59 +45,49 @@
 "country":"EN"
 },
 {
-"channel": "Sportstars.id",
-"id": "Sportstars.id",
-"name": "Sportstars",
-"categories": [
-"Sports"
-],
-"url": "https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/MNCSports-HD\/sa_dash_vmx\/MNCSports-HD.mpd",
-"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3f\/Sportstars.png",
-"country": "ID"
+"channel":"Sportstars.id",
+"id":"Sportstars.id",
+"name":"SPORTSTAR",
+"categories":["SPORTS"],
+"url":"https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/MNCSports-HD\/sa_dash_vmx\/MNCSports-HD.mpd",
+"logo":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3f\/Sportstars.png",
+"country":"ID"
 },
 {
-"channel": "Sportstars2.id",
-"id": "Sportstars2.id",
-"name": "Sportstars 2",
-"categories": [
-"Sports"
-],
-"url": "https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
-"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d7\/Sportstars_2.png\/640px-Sportstars_2.png",
-"country": "ID"
+"channel":"Sportstars2.id",
+"id":"Sportstars2.id",
+"name":"SPORTSTAR 2",
+"categories":["SPORTS"],
+"url":"https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
+"logo":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d7\/Sportstars_2.png\/640px-Sportstars_2.png",
+"country":"ID"
 },
 {
-"channel": "Sportstar3.id",
-"id": "Sportstar3.id",
-"name": "Sportstar 3",
-"categories": [
-"Sports"
-],
-"url": "https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/Soccer-2\/sa_dash_vmx\/Soccer-2.mpd",
-"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a3\/Sportstars_3.png\/640px-Sportstars_3.png",
-"country": "ID"
+"channel":"Sportstar3.id",
+"id":"Sportstar3.id",
+"name":"SPORTSTAR 3",
+"categories":["SPORTS"],
+"url":"https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/Soccer-2\/sa_dash_vmx\/Soccer-2.mpd",
+"logo":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a3\/Sportstars_3.png\/640px-Sportstars_3.png",
+"country":"ID"
 },
 {
-"channel": "Sportstar4.id",
-"id": "Sportstar4.id",
-"name": "Sportstar 4",
-"categories": [
-"Sports"
-],
-"url": "https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/Sportstar4\/sa_dash_vmx\/Sportstar4.mpd",
-"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a4\/Sportstars_4.png",
-"country": "ID"
+"channel":"Sportstar4.id",
+"id":"Sportstar4.id",
+"name":"SPORTSTAR 4",
+"categories":["SPORTS"],
+"url":"https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/Sportstar4\/sa_dash_vmx\/Sportstar4.mpd",
+"logo":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a4\/Sportstars_4.png",
+"country":"ID"
 },
 {
-"channel": "soccerchannel-HD",
-"id": "soccerchannel-HD",
-"name": "Soccer Channel",
-"categories": [
-"Sports"
-],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/soccerchannel-test\/sa_dash_vmx\/soccerchannel-test.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/soccer-channel-id.png",
-"country": "ID"
+"channel":"soccerchannel-HD",
+"id":"soccerchannel-HD",
+"name":"SOCCER CHANNEL",
+"categories":["SPORTS"],
+"url":"https:\/\/testfunctionlive.mncnow.id\/live\/eds\/soccerchannel-test\/sa_dash_vmx\/soccerchannel-test.mpd",
+"logo":"https:\/\/www.lyngsat.com\/logo\/tv\/ss\/soccer-channel-id.png",
+"country":"ID"
 },  
 {
 "channel":"SpotvKr",
