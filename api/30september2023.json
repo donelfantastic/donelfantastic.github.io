@@ -29,19 +29,19 @@
 {
 "channel":"fifPlay",
 "id":"fifPlay",
-"name":"AFC ASIANCUP 1",
+"name":"ASIAN CUP 1",
 "categories":["SPORTS"],
 "url":"https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd",
-"logo":"https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png",
+"logo":"https://assets.the-afc.com/AFC%20Competition%20Logos/Rebrush/ACQ.png",
 "country":"EN"
 }, 
 {
 "channel":"fifPlay",
 "id":"fifPlay",
-"name":"AFC ASIANCUP 2",
+"name":"ASIAN CUP 2",
 "categories":["SPORTS"],
 "url":"https://mwmpos01.akamaized.net/out/v1/a9e54b70137743d3b94f57272486d981/manifest.mpd",
-"logo":"https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png",
+"logo":"https://assets.the-afc.com/AFC%20Competition%20Logos/Rebrush/ACQ.png",
 "country":"EN"
 },  
 {
