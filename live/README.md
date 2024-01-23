@@ -1,18 +1,12 @@
 Test
 ==
-<li>https://donelfantastic.github.io/live/id/CHTVsctv.m3u8</li>
 
-<li>https://donelfantastic.github.io/live/usaNetwork.m3u8</li>
-
-<li>https://donelfantastic.github.io/live/wowowJP-HD.m3u8</li>
 
 <li>https://donelfantastic.github.io/live/astroSsport.m3u8</li>
 
-<li>https://donelfantastic.github.io/live/ssportsUk(MainEvent).m3u8</li>
-
 <li>https://donelfantastic.github.io/live/optus1Sport.m3u8</li>
 
-<li>https://donelfantastic.github.io/live/wowowJP-HD.m3u8</li>
+<li>https://donelfantastic.github.io/live/wowowJP.m3u8</li>
 
 
 TV LOGO Collection! 
