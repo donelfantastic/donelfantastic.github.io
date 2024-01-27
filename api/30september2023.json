@@ -211,10 +211,46 @@
 "id":"TNTSArg",
 "name":"TNT SPORTS ARG",
 "categories":["SPORTS"],
-"url":"https://tvfuego.cdn.rcs.net.ar/mnp/tntsports/output.mpd",
+"url":"https://davitel.cdn.rcs.net.ar/mnp/tntsports/output.mpd",
 "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png",
 "country":"ARG"
 }, 
+{
+"channel":"DLinear501",
+"id":"DLinear501",
+"name":"DAZN RISE",
+"categories":["SPORTS"],
+"url":"https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=dxaycmnfa2rc14y5ww482fi2l_image-header_pDach_1687955212000",
+"country":"DE"
+}, 
+{
+"channel":"DLinear502",
+"id":"DLinear502",
+"name":"DAZN COMBAT",
+"categories":["SPORTS"],
+"url":"https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=1e8qv74kj9ru71k69jmgy26gow_image-header_pRow_1690455045000",
+"country":"DE"
+}, 
+{
+"channel":"DLinear503",
+"id":"DLinear503",
+"name":"DAZN WOMENS FOOTBALL",
+"categories":["SPORTS"],
+"url":"https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=6kpp24j94emn1563o0hqjcxnl_image-header_pRow_1690455103000",
+"country":"DE"
+}, 
+{
+"channel":"DLinear504",
+"id":"DLinear504",
+"name":"DAZN FAST+",
+"categories":["SPORTS"],
+"url":"https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=jyy9jw5qg2fo1t2oucwjqzi6r_image-header_pDach_1690558178000",
+"country":"DE"
+},   
 {
 "channel":"DLinear016",
 "id":"DLinear016",
