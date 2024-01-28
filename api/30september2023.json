@@ -126,6 +126,60 @@
 "country":"KR"
 }, 
 {
+"channel":"SkySPL",
+"id":"SkySPL",
+"name":"SKYSPORTS PREMIER LEAGUE",
+"categories":["SPORTS"],
+"url":"https:\/\/linear003-gb-dash1-prd-ll.cdn.skycdp.com\/016a\/Content\/DASH_003_sd\/Live\/channel(skysportspremierleague)\/manifest_sd.mpd",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/7e2lv21502554825.png",
+"country":"UK"
+}, 
+{
+"channel":"SkySME",
+"id":"SkySME",
+"name":"SKYSPORTS MAIN EVENT",
+"categories":["SPORTS"],
+"url":"https:\/\/linear011-gb-dash1-prd-cf.cdn.skycdp.com\/016a\/Content\/DASH_003_hd\/Live\/channel(sportsmainevent50)\/manifest_hd.mpd",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/mp44981502554837.png",
+"country":"UK"
+}, 
+{
+"channel":"tnt1Sports",
+"id":"tnt1Sports",
+"name":"TNTSPORTS 1",
+"categories":["SPORTS"],
+"url":"https:\/\/linear036-ie-dash1-prd-ak.cdn.skycdp.com\/016a\/Content\/DASH_003_hd\/Live\/channel(tnt1sport50)\/manifest_hd.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/153ikz1689746051.png",
+"country":"UK"
+}, 
+{
+"channel":"tnt2Sports",
+"id":"tnt2Sports",
+"name":"TNTSPORTS 2",
+"categories":["SPORTS"],
+"url":"https:\/\/linear037-ie-dash1-prd-cf.cdn.skycdp.com\/016a\/Content\/DASH_003_hd\/Live\/channel(tnt2sport50)\/manifest_hd.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/lzqo991689746090.png",
+"country":"UK"
+}, 
+{
+"channel":"tnt3Sports",
+"id":"tnt3Sports",
+"name":"TNTSPORTS 3",
+"categories":["SPORTS"],
+"url":"http:\/\/linear036-ie-dash1-prd-ak.cdn.skycdp.com\/016a\/Content\/DASH_003_hd\/Live\/channel(tnt3sport50)\/manifest_hd.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/iwotea1701768457.png",
+"country":"UK"
+}, 
+{
+"channel":"tnt4Sports",
+"id":"tnt4Sports",
+"name":"TNTSPORTS 4",
+"categories":["SPORTS"],
+"url":"https:\/\/linear037-ie-dash1-prd-ak.cdn.skycdp.com\/016a\/Content\/DASH_003_hd\/Live\/channel(tnt4sport50)\/manifest_hd.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/81twnr1689746183.png",
+"country":"UK"
+},   
+{
 "channel":"Espn1Arg",
 "id":"Espn1Arg",
 "name":"ESPN ARG",
