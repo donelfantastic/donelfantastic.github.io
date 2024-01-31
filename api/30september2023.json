@@ -27,6 +27,15 @@
 "country":"EN"
 }, 
 {
+"channel":"usaNet.us",
+"id":"usaNet.us",
+"name":"USA NETWORK",
+"categories":["SPORTS"],
+"url":"https:\/\/fsly.stream.peacocktv.com\/Content\/CMAF_OL1-CTR-4s\/Live\/channel(usa-east)\/master.mpd",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/yswxwr1433432126.png",
+"country":"US"
+},   
+{
 "channel":"fifPlay",
 "id":"fifPlay",
 "name":"ASIAN CUP 1",
