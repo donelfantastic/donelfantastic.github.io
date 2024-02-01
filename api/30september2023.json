@@ -31,7 +31,7 @@
 "id":"usaNet.us",
 "name":"USA NETWORK",
 "categories":["SPORTS"],
-"url":"https:\/\/cors.streammaximum.com\/fsly.stream.peacocktv.com\/Content\/CMAF_OL1-CTR-4s\/Live\/channel(usa-east)\/master.mpd",
+"url":"https:\/\/fsly.stream.peacocktv.com\/Content\/CMAF_OL1-CTR-4s\/Live\/channel(usa-east)\/master.mpd",
 "logo":"https://www.thesportsdb.com/images/media/tvlogo/yswxwr1433432126.png",
 "country":"US"
 },   
@@ -139,7 +139,7 @@
 "id":"SkySPL",
 "name":"SKYSPORTS PREMIER LEAGUE",
 "categories":["SPORTS"],
-"url":"https://linear003-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportspremierleague)/manifest_sd.mpd",
+"url":"https:\/\/linear003-gb-dash1-prd-ll.cdn.skycdp.com\/016a\/Content\/DASH_003_sd\/Live\/channel(skysportspremierleague)\/manifest_sd.mpd",
 "logo":"https://www.thesportsdb.com/images/media/tvlogo/7e2lv21502554825.png",
 "country":"UK"
 }, 
@@ -148,7 +148,7 @@
 "id":"SkySME",
 "name":"SKYSPORTS MAIN EVENT",
 "categories":["SPORTS"],
-"url":"https://linear011-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmainevent50)/manifest_hd.mpd",
+"url":"https:\/\/linear011-gb-dash1-prd-cf.cdn.skycdp.com\/016a\/Content\/DASH_003_hd\/Live\/channel(sportsmainevent50)\/manifest_hd.mpd",
 "logo":"https://www.thesportsdb.com/images/media/tvlogo/mp44981502554837.png",
 "country":"UK"
 }, 
