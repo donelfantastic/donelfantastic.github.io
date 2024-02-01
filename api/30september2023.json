@@ -139,7 +139,7 @@
 "id":"SkySPL",
 "name":"SKYSPORTS PREMIER LEAGUE",
 "categories":["SPORTS"],
-"url":"https:\/\/cors.streammaximum.com\/linear003-gb-dash1-prd-ll.cdn.skycdp.com\/016a\/Content\/DASH_003_sd\/Live\/channel(skysportspremierleague)\/manifest_sd.mpd",
+"url":"https://linear003-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportspremierleague)/manifest_sd.mpd",
 "logo":"https://www.thesportsdb.com/images/media/tvlogo/7e2lv21502554825.png",
 "country":"UK"
 }, 
