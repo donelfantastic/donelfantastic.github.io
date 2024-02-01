@@ -589,7 +589,7 @@
 "id":"DLinear051",
 "name":"DAZN PLAYSPORTS",
 "categories":["SPORTS"],
-"url":"https://dcf-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd",
+"url":"https://dcf-ak-livewwdazn.akamaized.net/dashrdm/dazn-linear-051/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
 "logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=175989829625_image-header_pRow_1688019823000",
 "country":"FR"
 }, 
@@ -598,7 +598,7 @@
 "id":"DLinear052",
 "name":"DAZN PLAYSPORTS 2",
 "categories":["SPORTS"],
-"url":"https://dcf-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd",
+"url":"https://dcf-ak-livewwdazn.akamaized.net/dashrdm/dazn-linear-052/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
 "logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=175989829627_image-header_pRow_1688020141000",
 "country":"FR"
 }, 
@@ -607,7 +607,7 @@
 "id":"DLinear053",
 "name":"DAZN PLAYSPORTS 3",
 "categories":["SPORTS"],
-"url":"https://dcf-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd",
+"url":"https://dcf-ak-livewwdazn.akamaized.net/dashrdm/dazn-linear-053/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
 "logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=175995461629_image-header_pRow_1688020143000",
 "country":"FR"
 }, 
