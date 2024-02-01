@@ -1,9 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:125672
-#EXT-X-TARGETDURATION:10
-#EXT-X-I-FRAMES-ONLY 
-#EXTINF:10.000000,
-https://cors.plus/2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73125
-#EXTINF:10.000000,
-https://cors.plus/2hubs.ddns.net:25461/live/solidtv/0elrXWdEdl/73125.m3u8
