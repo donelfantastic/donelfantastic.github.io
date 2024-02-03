@@ -33,5 +33,14 @@ https://donelfantastic.github.io/live/optus6Sport.m3u8
 #EXTINF:-1 group-title="optusSports.Au" tvg-logo="https://static.sport.optus.com.au/images/favicon-192x192-20180518.png",Optus Sports 7
 https://donelfantastic.github.io/live/optus7Sport.m3u8
 
+#EXTINF:-1 group-title="astroSsports.My" tvg-logo="https://camo.githubusercontent.com/d644419cf8a32b205ca08ee16e30b615a279bdfa3f0c1948f78d19fc769c688b/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3135345f3134342e706e67",Astro Supersports 
+https://donelfantastic.github.io/live/astroSsport.m3u8
+#EXTINF:-1 group-title="astroSsports.My" tvg-logo="https://camo.githubusercontent.com/f08d81cc47038b4913abfb4791fc16f5ce57d3be190bade90752b7b428fd45ad/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3133385f3134342e706e67",Astro Supersports 2 
+https://donelfantastic.github.io/live/astroSsport2.m3u8
+#EXTINF:-1 group-title="astroSsports.My" tvg-logo="https://camo.githubusercontent.com/c025fb15051179bf182b187ac8ddcb0541fb8555bbefab57a3aaa3071f4011c5/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3136345f3134342e706e67",Astro Supersports 3 
+https://donelfantastic.github.io/live/astroSsport3.m3u8
+#EXTINF:-1 group-title="astroSsports.My" tvg-logo="https://camo.githubusercontent.com/d699b16f8d5751e83b07ae64607039f9cb8ee0010caa09b4d12d41600e2031f2/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3234315f3134342e706e67",Astro Supersports 4
+https://donelfantastic.github.io/live/astroSsport4.m3u8
+
 
 
