@@ -17,3 +17,21 @@ https://donelfantastic.github.io/live/skysportsNz7.m3u8
 https://donelfantastic.github.io/live/skysportsNz8.m3u8
 #EXTINF:-1 group-title="SkySports.Nz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png",Sky Sports 9
 https://donelfantastic.github.io/live/skysportsNz9.m3u8
+
+#EXTINF:-1 group-title="optusSports.Au" tvg-logo="https://static.sport.optus.com.au/images/favicon-192x192-20180518.png",Optus Sports 1
+https://donelfantastic.github.io/live/optus1Sport.m3u8
+#EXTINF:-1 group-title="optusSports.Au" tvg-logo="https://static.sport.optus.com.au/images/favicon-192x192-20180518.png",Optus Sports 2
+https://donelfantastic.github.io/live/optus2Sport.m3u8
+#EXTINF:-1 group-title="optusSports.Au" tvg-logo="https://static.sport.optus.com.au/images/favicon-192x192-20180518.png",Optus Sports 3
+https://donelfantastic.github.io/live/optus3Sport.m3u8
+#EXTINF:-1 group-title="optusSports.Au" tvg-logo="https://static.sport.optus.com.au/images/favicon-192x192-20180518.png",Optus Sports 4
+https://donelfantastic.github.io/live/optus4Sport.m3u8
+#EXTINF:-1 group-title="optusSports.Au" tvg-logo="https://static.sport.optus.com.au/images/favicon-192x192-20180518.png",Optus Sports 5
+https://donelfantastic.github.io/live/optus5Sport.m3u8
+#EXTINF:-1 group-title="optusSports.Au" tvg-logo="https://static.sport.optus.com.au/images/favicon-192x192-20180518.png",Optus Sports 6
+https://donelfantastic.github.io/live/optus6Sport.m3u8
+#EXTINF:-1 group-title="optusSports.Au" tvg-logo="https://static.sport.optus.com.au/images/favicon-192x192-20180518.png",Optus Sports 7
+https://donelfantastic.github.io/live/optus7Sport.m3u8
+
+
+
