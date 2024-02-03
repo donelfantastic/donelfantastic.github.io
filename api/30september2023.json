@@ -142,7 +142,25 @@
 "url":"https:\/\/ctrl.laotv.la\/live\/TSport2\/manifest.mpd",
 "logo":"https://truevisions.co.th/static/f815743f-72e1-4dcc-ad17-925657183a24.png",
 "country":"TH"
-},   
+}, 
+{
+"channel":"trueBS1.th",
+"id":"trueBS1.th",
+"name":"TRUE BEIN SPORT 1",
+"categories":["SPORTS"],
+"url":"https:\/\/edge1.laotv.la\/live\/Bsport1\/manifest.mpd",
+"logo":"https://camo.githubusercontent.com/b1be58da60122d9c7e5d96b05af8f4f3d436585dc4986d5e8ad1b0df319911b4/68747470733a2f2f646f6e656c66616e7461737469632e6769746875622e696f2f63726561746976656d656469612f696d672f74727565766973696f6e2d6265696e2d73706f727473312e706e67",
+"country":"TH"
+},
+{
+"channel":"trueBS2.th",
+"id":"trueBS2.th",
+"name":"TRUE BEIN SPORT 2",
+"categories":["SPORTS"],
+"url":"https:\/\/edge1.laotv.la\/live\/Bsport2\/manifest.mpd",
+"logo":"https://camo.githubusercontent.com/1bca55ece2acf0189ce5b0c3336201a27935f9abfdd7623e3ff2861b19e81e28/68747470733a2f2f646f6e656c66616e7461737469632e6769746875622e696f2f63726561746976656d656469612f696d672f74727565766973696f6e2d6265696e2d73706f727473322e706e67",
+"country":"TH"
+},    
 {
 "channel":"Sportstars.id",
 "id":"Sportstars.id",
