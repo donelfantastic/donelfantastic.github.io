@@ -130,7 +130,7 @@
 "id":"truePF1.th",
 "name":"TRUE PREMIERE FOOTBALL 1",
 "categories":["SPORTS"],
-"url":"https:\/\/ctrl.laotv.la\/live\/TSport1\/index.m3u8",
+"url":"https:\/\/ctrl.laotv.la\/live\/TSport1\/manifest.mpd",
 "logo":"https://truevisions.co.th/static/ba1de35c-8a25-47de-a27c-5cd8f705a14f.png",
 "country":"TH"
 },
@@ -139,7 +139,7 @@
 "id":"truePF2.th",
 "name":"TRUE PREMIERE FOOTBALL 2",
 "categories":["SPORTS"],
-"url":"https:\/\/ctrl.laotv.la\/live\/TSport2\/index.m3u8",
+"url":"https:\/\/ctrl.laotv.la\/live\/TSport2\/manifest.mpd",
 "logo":"https://truevisions.co.th/static/f815743f-72e1-4dcc-ad17-925657183a24.png",
 "country":"TH"
 },   
