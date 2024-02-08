@@ -326,7 +326,7 @@
   var config = {
     key: "c6d7e091-e62e-4bda-819f-99bb13506fba",
     playback: {
-      muted: false,
+      muted: true,
       autoplay: true,
       preferredTech: [{
           player: "html5",
@@ -356,7 +356,7 @@
 
   var source = {
    progressive:"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707399180/ei/rIPEZeffLb_Hi9oP8fiikAc/ip/85.120.16.2/id/189OU76PDa4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f90T6xBftvsTJW7q5WxQakPeoHZBxt7KddXVQoz3Ykg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPOTliKfkOXGinAr39HV3CAzq9T-SDEZJgrZ6-yE6_HAAiEA1R65_91GCDcGGYK7dm0dBty7ENWTEgRZc9GMVs00MNI%3D/file/index.m3u8",
-    poster:"//raw.githubusercontent.com/donelfantastic/donelfantastic.github.io/main/assets/dftv.gif",   
+    poster:"", //raw.githubusercontent.com/donelfantastic/donelfantastic.github.io/main/assets/dftv.gif"   
   };
  
   var player = new bitmovin.player.Player(container, config);
