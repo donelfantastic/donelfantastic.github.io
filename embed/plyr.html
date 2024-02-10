@@ -61,8 +61,8 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", () => {
-    const source =
-      "https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd";
+    
+    const source ="//etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd";
     const video = document.querySelector("#donelfantastic");
     const player = new Plyr(video);
     window.player = player;
@@ -70,13 +70,13 @@
       // Install built-in polyfills
       shaka.polyfill.installAll();
       const shakaInstance = new shaka.Player(video);
-      //shakaInstance.configure({
-        //drm: {
-          //clearKeys: {
-            //"9ba3e153ef8956d6e2b0684fcf74f58f": "dbc28cb5c6426080f984a5b6d436bb30"
-          //}
-        //}
-      //});
+      shakaInstance.configure({
+        drm: {
+          clearKeys: {
+            "cdb6f38ce29ecfe657c7cade307587da":"d38d7243bd224a9c2b1ea716f19c9950"
+          }
+        }
+      });
       shakaInstance.load(source);
     } else {
       console.warn("Browser is not supported!");
