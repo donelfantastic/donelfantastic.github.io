@@ -36,40 +36,76 @@
 "country":"US"
 },   
 {
-"channel":"fifPlay",
-"id":"fifPlay",
-"name":"ASIAN CUP 1",
+"channel":"trueBS1.th",
+"id":"trueBS1.th",
+"name":"TRUE BEINSPORTS 1",
 "categories":["SPORTS"],
-"url":"https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd",
-"logo":"https://assets.the-afc.com/AFC%20Competition%20Logos/Rebrush/ACQ.png",
-"country":"EN"
+"url":"https:\/\/edge1.laotv.la\/live\/Bsport1\/manifest.mpd",
+"logo":"https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png",
+"country":"TH"
+},
+{
+"channel":"trueBS2.th",
+"id":"trueBS1.th",
+"name":"TRUE BEINSPORTS 2",
+"categories":["SPORTS"],
+"url":"https:\/\/edge1.laotv.la\/live\/Bsport2\/manifest.mpd",
+"logo":"https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png",
+"country":"TH"
+},
+{
+"channel":"truePF1.th",
+"id":"truePF1.th",
+"name":"TRUE PREMIERE FOOTBALL 1",
+"categories":["SPORTS"],
+"url":"https:\/\/ctrl.laotv.la\/live\/TSport1\/manifest.mpd",
+"logo":"https://truevisions.co.th/static/ba1de35c-8a25-47de-a27c-5cd8f705a14f.png",
+"country":"TH"
+},
+{
+"channel":"truePF2.th",
+"id":"truePF2.th",
+"name":"TRUE PREMIERE FOOTBALL 2",
+"categories":["SPORTS"],
+"url":"https:\/\/ctrl.laotv.la\/live\/TSport2\/manifest.mpd",
+"logo":"https://truevisions.co.th/static/f815743f-72e1-4dcc-ad17-925657183a24.png",
+"country":"TH"
 }, 
 {
-"channel":"fifPlay",
-"id":"fifPlay",
-"name":"ASIAN CUP 2",
+"channel":"tnt1Sports",
+"id":"tnt1Sports",
+"name":"TNTSPORTS 1",
 "categories":["SPORTS"],
-"url":"https://mwmpos01.akamaized.net/out/v1/a9e54b70137743d3b94f57272486d981/manifest.mpd",
-"logo":"https://assets.the-afc.com/AFC%20Competition%20Logos/Rebrush/ACQ.png",
-"country":"EN"
-},  
-{
-"channel":"fPlus",
-"id":"fPlus",
-"name":"FIFA+ ",
-"categories":["SPORTS"],
-"url":"https:\/\/i.mjh.nz\/SamsungTVPlus\/ITBD1000002HF.m3u8",
-"logo":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200008JG_20230823T001831SQUARE.png_20230823001832.png",
-"country":"EN"
+"url":"https:\/\/linear114-ie-dash1-prd-ak.cdn.skycdp.com\/016a\/Content\/DASH_003_sd\/Live\/channel(gcptntsport1)\/manifest_sd.mpd?c3.ri=13504144548675562788",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/153ikz1689746051.png",
+"country":"UK"
 }, 
 {
-"channel":"fPlus",
-"id":"fPlus",
-"name":"FIFA+ 2",
+"channel":"tnt2Sports",
+"id":"tnt2Sports",
+"name":"TNTSPORTS 2",
 "categories":["SPORTS"],
-"url":"https:\/\/i.mjh.nz\/SamsungTVPlus\/ATBA3300007PT.m3u8",
-"logo":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200008JG_20230823T001831SQUARE.png_20230823001832.png",
-"country":"EN"
+"url":"https:\/\/linear114-ie-dash1-prd-ak.cdn.skycdp.com\/016a\/Content\/DASH_003_sd\/Live\/channel(gcptntsport2)\/manifest_sd.mpd?c3.ri=13637563687721348180",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/lzqo991689746090.png",
+"country":"UK"
+}, 
+{
+"channel":"tnt3Sports",
+"id":"tnt3Sports",
+"name":"TNTSPORTS 3",
+"categories":["SPORTS"],
+"url":"https:\/\/linear114-ie-dash1-prd-ak.cdn.skycdp.com\/016a\/Content\/DASH_003_sd\/Live\/channel(gcptntsport3)\/manifest_sd.mpd?c3.ri=13497107674256751215",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/iwotea1701768457.png",
+"country":"UK"
+}, 
+{
+"channel":"tnt4Sports",
+"id":"tnt4Sports",
+"name":"TNTSPORTS 4",
+"categories":["SPORTS"],
+"url":"https:\/\/linear114-ie-dash1-prd-ak.cdn.skycdp.com\/016a\/Content\/DASH_003_sd\/Live\/channel(gcptntsport4)\/manifest_sd.mpd?c3.ri=13629682388522343256",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/81twnr1689746183.png",
+"country":"UK"
 },
 {
 "channel":"SkySPL",
@@ -89,60 +125,6 @@
 "logo":"https://www.thesportsdb.com/images/media/tvlogo/mp44981502554837.png",
 "country":"UK"
 },
-{
-"channel":"tnt1Sports",
-"id":"tnt1Sports",
-"name":"TNTSPORTS 1",
-"categories":["SPORTS"],
-"url":"https://freehdgames.lol/chunklist/hlsch1.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/153ikz1689746051.png",
-"country":"UK"
-}, 
-{
-"channel":"tnt2Sports",
-"id":"tnt2Sports",
-"name":"TNTSPORTS 2",
-"categories":["SPORTS"],
-"url":"https://freehdgames.lol/chunklist/hlsch1.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/lzqo991689746090.png",
-"country":"UK"
-}, 
-{
-"channel":"tnt3Sports",
-"id":"tnt3Sports",
-"name":"TNTSPORTS 3",
-"categories":["SPORTS"],
-"url":"https://freehdgames.lol/chunklist/hlsch3.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/iwotea1701768457.png",
-"country":"UK"
-}, 
-{
-"channel":"tnt4Sports",
-"id":"tnt4Sports",
-"name":"TNTSPORTS 4",
-"categories":["SPORTS"],
-"url":"https://freehdgames.lol/chunklist/hlsch4.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/81twnr1689746183.png",
-"country":"UK"
-},
-{
-"channel":"truePF1.th",
-"id":"truePF1.th",
-"name":"TRUE PREMIERE FOOTBALL 1",
-"categories":["SPORTS"],
-"url":"https:\/\/ctrl.laotv.la\/live\/TSport1\/index.m3u8",
-"logo":"https://truevisions.co.th/static/ba1de35c-8a25-47de-a27c-5cd8f705a14f.png",
-"country":"TH"
-},
-{
-"channel":"truePF2.th",
-"id":"truePF2.th",
-"name":"TRUE PREMIERE FOOTBALL 2",
-"categories":["SPORTS"],
-"url":"https:\/\/ctrl.laotv.la\/live\/TSport2\/index.m3u8",
-"logo":"https://truevisions.co.th/static/f815743f-72e1-4dcc-ad17-925657183a24.png",
-"country":"TH"
-},   
 {
 "channel":"Sportstars.id",
 "id":"Sportstars.id",
@@ -782,5 +764,23 @@
 "url":"https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd",
 "logo":"https://www.thesportsdb.com/images/media/league/logo/4c377s1535214890.png",
 "country":"RS"
+}, 
+{
+"channel":"fPlus",
+"id":"fPlus",
+"name":"FIFA+ ",
+"categories":["SPORTS"],
+"url":"https:\/\/i.mjh.nz\/SamsungTVPlus\/ITBD1000002HF.m3u8",
+"logo":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200008JG_20230823T001831SQUARE.png_20230823001832.png",
+"country":"EN"
+}, 
+{
+"channel":"fPlus",
+"id":"fPlus",
+"name":"FIFA+ 2",
+"categories":["SPORTS"],
+"url":"https:\/\/i.mjh.nz\/SamsungTVPlus\/ATBA3300007PT.m3u8",
+"logo":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200008JG_20230823T001831SQUARE.png_20230823001832.png",
+"country":"EN"
 }
 ]
