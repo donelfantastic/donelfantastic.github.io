@@ -94,7 +94,7 @@
 "id":"tnt1Sports",
 "name":"TNTSPORTS 1",
 "categories":["SPORTS"],
-"url":"https:\/\/freehdgames.lol\/chunklist\/hlsch1.m3u8",
+"url":"https://freehdgames.lol/chunklist/hlsch1.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/153ikz1689746051.png",
 "country":"UK"
 }, 
@@ -103,7 +103,7 @@
 "id":"tnt2Sports",
 "name":"TNTSPORTS 2",
 "categories":["SPORTS"],
-"url":"https:\/\/freehdgames.lol\/chunklist\/hlsch1.m3u8",
+"url":"https://freehdgames.lol/chunklist/hlsch1.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/lzqo991689746090.png",
 "country":"UK"
 }, 
@@ -112,7 +112,7 @@
 "id":"tnt3Sports",
 "name":"TNTSPORTS 3",
 "categories":["SPORTS"],
-"url":"https://headlinessportsfoot.com/chunklist/hlsch1.m3u8",
+"url":"https://freehdgames.lol/chunklist/hlsch3.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/iwotea1701768457.png",
 "country":"UK"
 }, 
@@ -121,7 +121,7 @@
 "id":"tnt4Sports",
 "name":"TNTSPORTS 4",
 "categories":["SPORTS"],
-"url":"https://headlinessportsfoot.com/chunklist/hlsch2.m3u8",
+"url":"https://freehdgames.lol/chunklist/hlsch4.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/81twnr1689746183.png",
 "country":"UK"
 },
@@ -211,7 +211,7 @@
 "id":"Espn1Arg",
 "name":"ESPN ARG",
 "categories":["SPORTS"],
-"url":"https://davitel.cdn.rcs.net.ar/mnp/espn/output.mpd",
+"url":"https://bvsat02.cdn.rcs.net.ar/mnp/espn/output.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/qzobqn1660760939.png",
 "country":"ARG"
 }, 
@@ -220,7 +220,7 @@
 "id":"Espn2Arg",
 "name":"ESPN 2 ARG",
 "categories":["SPORTS"],
-"url":"https://davitel.cdn.rcs.net.ar/mnp/espn2/output.mpd",
+"url":"https://bvsat02.cdn.rcs.net.ar/mnp/espn2/output.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/wcualh1660760950.png",
 "country":"ARG"
 }, 
@@ -229,7 +229,7 @@
 "id":"Espn3Arg",
 "name":"ESPN 3 ARG",
 "categories":["SPORTS"],
-"url":"https://davitel.cdn.rcs.net.ar/mnp/espn3/output.mpd",
+"url":"https://bvsat02.cdn.rcs.net.ar/mnp/espn3/output.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/wkdrnd1660760961.png",
 "country":"ARG"
 }, 
@@ -238,7 +238,7 @@
 "id":"Espn1PArg",
 "name":"ESPN PREMIUM ARG",
 "categories":["SPORTS"],
-"url":"https://davitel.cdn.rcs.net.ar/mnp/espnpremium/output.mpd",
+"url":"https://bvsat02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd",
 "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png",
 "country":"ARG"
 }, 
@@ -247,7 +247,7 @@
 "id":"Espn1XArg",
 "name":"ESPN EXTRA ARG",
 "categories":["SPORTS"],
-"url":"https://davitel.cdn.rcs.net.ar/mnp/espn_extra/output.mpd",
+"url":"https://bvsat02.cdn.rcs.net.ar/mnp/espn_extra/output.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/hdrkql1660762351.png",
 "country":"ARG"
 }, 
@@ -256,7 +256,7 @@
 "id":"FoxS1Arg",
 "name":"FOX SPORTS ARG",
 "categories":["SPORTS"],
-"url":"https://davitel.cdn.rcs.net.ar/mnp/fox_sport/output.mpd",
+"url":"https://bvsat02.cdn.rcs.net.ar/mnp/fox_sport/output.mpd",
 "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logo_Fox_Sports_Argentina_2023.png/800px-Logo_Fox_Sports_Argentina_2023.png",
 "country":"ARG"
 }, 
@@ -265,7 +265,7 @@
 "id":"FoxS2Arg",
 "name":"FOX SPORTS 2 ARG",
 "categories":["SPORTS"],
-"url":"https://davitel.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd",
+"url":"https://bvsat02.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd",
 "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png",
 "country":"ARG"
 }, 
@@ -274,7 +274,7 @@
 "id":"FoxS3Arg",
 "name":"FOX SPORTS 3 ARG",
 "categories":["SPORTS"],
-"url":"https://davitel.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd",
+"url":"https://bvsat02.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd",
 "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png",
 "country":"ARG"
 }, 
@@ -283,7 +283,7 @@
 "id":"TycSArg",
 "name":"TYC SPORTS ARG",
 "categories":["SPORTS"],
-"url":"https://tvfuego.cdn.rcs.net.ar/mnp/tyc/output.mpd",
+"url":"https://bvsat02.cdn.rcs.net.ar/mnp/tyc/output.mpd",
 "logo":"https://www.thesportsdb.com/images/media/tvlogo/rtqxvp1472103744.png",
 "country":"ARG"
 }, 
@@ -292,7 +292,7 @@
 "id":"TNTSArg",
 "name":"TNT SPORTS ARG",
 "categories":["SPORTS"],
-"url":"https://davitel.cdn.rcs.net.ar/mnp/tntsports/output.mpd",
+"url":"https://bvsat02.cdn.rcs.net.ar/mnp/tntsports/output.mpd",
 "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png",
 "country":"ARG"
 }, 
