@@ -18,7 +18,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/ANTV\/sa_dash_vmx\/ANTV.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/antv.png",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png",
 "country": "ID"
 },
 {
@@ -29,7 +29,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/op-group1-swiftservehd-1.dens.tv\/s\/s03\/index.m3u8",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/sctv_id.png",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png",
 "country": "ID"
 },
 {
@@ -62,7 +62,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/MNCTV-HD\/sa_dash_vmx\/MNCTV-HD.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/mnc_id_tv.png",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png",
 "country": "ID"
 },
 {
@@ -73,7 +73,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/PemersatuBangsa\/sa_dash_vmx\/PemersatuBangsa.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tvri-id.png",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png",
 "country": "ID"
 },
 {
@@ -84,7 +84,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/RCTI-DD\/sa_dash_vmx\/RCTI-DD.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/rr\/rcti-id.svg",
+"logo": "https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/400px-RCTI_logo_2015.svg.png",
 "country": "ID"
 },
 {
@@ -95,7 +95,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/Trans7-2\/sa_dash_vmx\/Trans7-2.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/trans_7_id.png",
+"logo": "https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/300px-Trans_7_2013.svg.png",
 "country": "ID"
 },
 {
@@ -106,7 +106,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/TransTV-2\/sa_dash_vmx\/TransTV-2.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/trans_tv_id.png",
+"logo": "https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png",
 "country": "ID"
 },
 {
@@ -161,7 +161,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/KompasTV\/sa_dash_vmx\/KompasTV.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/kk\/kompas-tv-id.png",
+"logo": "https://upload.wikimedia.org/wikipedia/en/archive/7/7a/20190116042347%21KOMPAS_TV_%282017%29.png",
 "country": "ID"
 },
 {
@@ -183,7 +183,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/TVOne\/sa_dash_vmx\/TVOne.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tvone-id.png",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png",
 "country": "ID"
 },
 {
@@ -194,9 +194,20 @@
 "Local Tv"
 ],
 "url": "https:\/\/op-group1-swiftservehd-1.dens.tv\/h\/h223\/index.m3u8",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/nn\/net-id.png",
+"logo": "",
 "country": "ID"
 },
+{
+"channel": "RTV",
+"id": "RTV",
+"name": "RTV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/RTV\/sa_dash_vmx\/RTV.mpd",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rajawali_Televisi_abu-abu.svg/1200px-Rajawali_Televisi_abu-abu.svg.png",
+"country": "ID"
+},  
 {
 "channel": "kPlus.kr",
 "id": "kPlus.kr",
@@ -260,7 +271,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/DAAITV\/sa_dash_vmx\/DAAITV.mpd",
-"logo": "https:\/\/www.lyngsat-logo.com\/logo\/tv\/dd\/da-ai-tv-indonesia-tw-in.png",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",
 "country": "ID"
 },
 {
@@ -1252,17 +1263,6 @@
 "url": "https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/RTEnglish\/sa_dash_vmx\/RTEnglish.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/rr\/rt-news-ru.svg",
 "country": "RU"
-},
-{
-"channel": "RTV",
-"id": "RTV",
-"name": "RTV",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/mangga-live-cdn.mncnow.id\/live\/eds\/RTV\/sa_dash_vmx\/RTV.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/rr\/rajawali_tv_id.png",
-"country": "ID"
 },
 {
 "channel": "SetOne",
