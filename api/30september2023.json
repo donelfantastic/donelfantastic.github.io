@@ -72,22 +72,22 @@
 "country":"TH"
 }, 
 {
-"channel":"senSports1.eu",
+"channel":"senSports1.kz",
 "id":"senSports1.eu",
 "name":"SENTANTA SPORTS 1",
 "categories":["SPORTS"],
 "url":"https:\/\/qi7fj3gzx1w.a.trbcdn.net\/livemaster\/glmi9_live-jj1n4gjcyeq.smil\/playlist.m3u8",
-"logo":"https://www.lyngsat.com/logo/tv/ss/setanta-sports-1-evraziya-ie.png",
-"country":"EU"
+"logo":"https://epgx.site/p/setanta1-kz.png",
+"country":"KZ"
 },
 {
-"channel":"senSports2.eu",
+"channel":"senSports2.kz",
 "id":"senSports2.eu",
 "name":"SENTANTA SPORTS 2",
 "categories":["SPORTS"],
 "url":"https:\/\/qi7fj3gzx1w.a.trbcdn.net\/livemaster\/x1ecc_live-n8t1vjjlihm.smil\/playlist.m3u8",
-"logo":"https://www.lyngsat.com/logo/tv/ss/setanta-sports-2-evraziya-ie.png",
-"country":"EU"
+"logo":"https://epgx.site/p/setanta2-kz.png",
+"country":"KZ"
 },
 {
 "channel":"Sportstars.id",
@@ -788,7 +788,7 @@
 "id":"SkySPL",
 "name":"SKYSPORTS PREMIER LEAGUE",
 "categories":["SPORTS"],
-"url":"https:\/\/linear003-gb-dash1-prd-ll.cdn.skycdp.com\/016a\/Content\/DASH_003_sd\/Live\/channel(skysportspremierleague)\/manifest_sd.mpd",
+"url":"https:\/\/linear015-gb-dash1-prd-ll.cdn.skycdp.com\/016a\/Content\/DASH_003_720_30\/Live\/channel(skysportspremierleague)\/manifest_720.mpd",
 "logo":"https://www.thesportsdb.com/images/media/tvlogo/7e2lv21502554825.png",
 "country":"UK"
 }, 
@@ -797,8 +797,17 @@
 "id":"SkySME",
 "name":"SKYSPORTS MAIN EVENT",
 "categories":["SPORTS"],
-"url":"https:\/\/linear011-gb-dash1-prd-cf.cdn.skycdp.com\/016a\/Content\/DASH_003_hd\/Live\/channel(sportsmainevent50)\/manifest_hd.mpd",
+"url":"https:\/\/linear011-gb-dash1-prd-ll.cdn.skycdp.com\/Content\/DASH_003_720_30\/Live\/channel(skysportsmainevent)\/manifest_720.mpd",
 "logo":"https://www.thesportsdb.com/images/media/tvlogo/mp44981502554837.png",
+"country":"UK"
+}, 
+{
+"channel":"SkySFB",
+"id":"SkySFB",
+"name":"SKYSPORTS FOOTBALL",
+"categories":["SPORTS"],
+"url":"https:\/\/linear014-gb-dash1-prd-ll.cdn.skycdp.com\/Content\/DASH_003_720_30\/Live\/channel(skysportsfootball)\/manifest_720.mpd",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/lnd1p01502554851.png",
 "country":"UK"
 }
 ]
