@@ -90,6 +90,51 @@
 "country":"KZ"
 },
 {
+"channel":"sony10Sports1.in",
+"id":"sony10Sports1.in",
+"name":"SONYSPORTS 1",
+"categories":["SPORTS"],
+"url":"https:\/\/jiotv.rftv.wtf\/live\/sl162.m3u8",
+"logo":"https://i.imgur.com/hWo7Ba4.png",
+"country":"IN"
+}, 
+{
+"channel":"sony10Sports2.in",
+"id":"sony10Sports2.in",
+"name":"SONYSPORTS 2",
+"categories":["SPORTS"],
+"url":"https:\/\/jiotv.rftv.wtf\/live\/sl891.m3u8",
+"logo":"https://i.imgur.com/W96KVqu.png",
+"country":"IN"
+}, 
+{
+"channel":"sony10Sports3.in",
+"id":"sony10Sports3.in",
+"name":"SONYSPORTS 3",
+"categories":["SPORTS"],
+"url":"https:\/\/jiotv.rftv.wtf\/live\/sl892.m3u8",
+"logo":"https://i.imgur.com/vG19HxD.png",
+"country":"IN"
+}, 
+{
+"channel":"sony10Sports4.in",
+"id":"sony10Sports4.in",
+"name":"SONYSPORTS 4",
+"categories":["SPORTS"],
+"url":"https:\/\/jiotv.rftv.wtf\/live\/sl1772.m3u8",
+"logo":"https://i.imgur.com/dVRMHM4.png",
+"country":"IN"
+}, 
+{
+"channel":"sony10Sports5.in",
+"id":"sony10Sports5.in",
+"name":"SONYSPORTS 5",
+"categories":["SPORTS"],
+"url":"https:\/\/jiotv.rftv.wtf\/live\/sl155.m3u8",
+"logo":"https://i.imgur.com/40BbQUd.png",
+"country":"IN"
+}, 
+{
 "channel":"Sportstars.id",
 "id":"Sportstars.id",
 "name":"SPORTSTAR",
