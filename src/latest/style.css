@@ -672,6 +672,10 @@ background: #1a1717 !important;
   color: #fff;
 }
 
+.video-btn {
+  font-family: "Oswald", sans-serif;
+  color: #fff;
+
 @media all and (max-width: 768px) {
   .iframe-wrapper {
     width: 100%;
