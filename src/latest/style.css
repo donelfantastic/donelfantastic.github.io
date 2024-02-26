@@ -650,15 +650,25 @@ background: #1a1717 !important;
 .btn {
   font-family: "Oswald", sans-serif;
   color: #fff;
-  background: gray;
+  background: #fc4a1a;
+  background: -webkit-linear-gradient(
+    to right,
+    #f30876,
+    #fc4a1a
+  );
+  background: linear-gradient(
+    to right,
+    #f30876,
+    #fc4a1a
+  );
   border: none;
-  padding: 3px 18px;
+  padding: 4px 18px;
   text-transform: uppercase;
   font-size: 12px;
   line-height: 14px;
   border-radius: 100px;
   cursor: none;
-  margin: 2px 3px;
+  margin: 2px 4px;
   transition: 0.3s;
   display: inline-block;
 }
