@@ -81,6 +81,42 @@
 "country":"KZ"
 },
 {
+"channel":"starSports1.in",
+"id":"starSports1.in",
+"name":"STARSPORTS 1",
+"categories":["SPORTS"],
+"url":"https:\/\/liveb.streamready.in\/starsports1\/smil:common.smil\/manifest.mpd",
+"logo":"https://i.imgur.com/E5jjKHI.png",
+"country":"IN"
+}, 
+{
+"channel":"starSports2.in",
+"id":"starSports2.in",
+"name":"STARSPORTS 2",
+"categories":["SPORTS"],
+"url":"https:\/\/liveb.streamready.in\/starsports2\/smil:common.smil\/manifest.mpd",
+"logo":"https://i.imgur.com/5En7pOI.png",
+"country":"IN"
+}, 
+{
+"channel":"starSportsS1.in",
+"id":"starSportsS1.in",
+"name":"STARSPORTS SELECT 1",
+"categories":["SPORTS"],
+"url":"https:\/\/liveb.streamready.in\/starsportsselect1\/smil:common.smil\/manifest.mpd",
+"logo":"https://i.imgur.com/Mh9tKPx.png",
+"country":"IN"
+}, 
+{
+"channel":"starSportsS2.in",
+"id":"starSportsS2.in",
+"name":"STARSPORTS SELECT 2",
+"categories":["SPORTS"],
+"url":"https:\/\/liveb.streamready.in\/starsportsselect2\/smil:common.smil\/manifest.mpd",
+"logo":"https://i.imgur.com/FtRT73R.png",
+"country":"IN"
+}, 
+{
 "channel":"sony10Sports1.in",
 "id":"sony10Sports1.in",
 "name":"SONYSPORTS 1",
@@ -784,11 +820,20 @@
 "country":"EN"
 }, 
 {
-"channel":"usaNet.us",
-"id":"usaNet.us",
-"name":"USA NETWORK",
+"channel":"usaNetE.us",
+"id":"usaNetE.us",
+"name":"USA NETWORK (EAST)",
 "categories":["SPORTS"],
 "url":"https:\/\/fsly.stream.peacocktv.com\/Content\/CMAF_OL1-CTR-4s\/Live\/channel(usa-east)\/master.mpd",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/yswxwr1433432126.png",
+"country":"US"
+},   
+{
+"channel":"usaNetW.us",
+"id":"usaNetW.us",
+"name":"USA NETWORK (WEST)",
+"categories":["SPORTS"],
+"url":"https:\/\/fsly.stream.peacocktv.com\/Content\/CMAF_OL1-CTR-4s\/Live\/channel(usa-west)\/master.mpd",
 "logo":"https://www.thesportsdb.com/images/media/tvlogo/yswxwr1433432126.png",
 "country":"US"
 },   
