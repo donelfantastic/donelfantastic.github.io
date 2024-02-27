@@ -459,6 +459,14 @@ h5 {
   cursor: none;  
   }
 
+.fb-comments {
+  margin: 0px;
+  padding: 0px;
+  margin-left: 15px;
+  margin-right: 15px;
+  width: 100%;
+}
+
 p {
   font-family: "Muli";
   font-size: 12px;
