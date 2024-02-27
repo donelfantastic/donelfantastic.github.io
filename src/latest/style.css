@@ -462,7 +462,8 @@ h5 {
 .fb-comments {
   margin: 0px;
   padding: 0px;
-  
+  margin-left: 15px;
+  margin-right: 15px;
 }
 
 p {
