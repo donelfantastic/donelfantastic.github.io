@@ -416,6 +416,14 @@ video {
   padding: 0;
   }
 
+#form-div2 {
+background-color:transparent;
+padding: 0px;
+margin: 0px;
+width: 100%;
+height: auto;
+}
+
 h5 {
   color: white;
   margin-left: 15px;
@@ -433,6 +441,20 @@ h5 {
   margin-left: 15px;
   margin-right: 15px;
   margin-top:150px;
+  letter-spacing: 2px;
+  cursor: none;  
+  }
+
+.df_feedback {
+  border: 1px solid #ffffff;
+  border-radius: 26.5px;
+  font-size: 22px;
+  color: white;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  margin-left: 15px;
+  margin-right: 15px;
   letter-spacing: 2px;
   cursor: none;  
   }
@@ -680,23 +702,6 @@ background: #1a1717 !important;
 .btn:hover {
   background-color: gray;
   color: #fff;
-}
-
-#form-div2 {
-background-color:transparent;
-padding: 0px;
-margin: 0px;
-border: 1px solid #ffffff;
-border-radius: 26.5px;
-font-size: 22px;
-color: white;
-text-align: center;
-margin-left: 15px;
-margin-right: 15px;
-letter-spacing: 2px;
-cursor: none;  
-width: 100%;
-height: auto;
 }
 
 @media all and (max-width: 768px) {
