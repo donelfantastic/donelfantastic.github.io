@@ -683,12 +683,14 @@ background: #1a1717 !important;
 }
 
 #form-div2 {
-	background-color:rgba(72,72,72,0.4);
-	padding: 0px;
-	margin: 0px;
-	position: absolute;
-	width: 100%;
-	height: auto;
+background-color:rgba(72,72,72,0.4);
+padding: 0px;
+//margin: 0px;
+margin-left: 15px;
+margin-right: 15px;	
+position: absolute;
+width: 100%;
+height: auto;
 }
 
 @media all and (max-width: 768px) {
