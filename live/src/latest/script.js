@@ -243,7 +243,7 @@ close_btn.addEventListener("click", () => {
 
 //TVJSON JS
 window.addEventListener("load", function () {
-  var cukuRukuk = "https://donelfantastic.github.io/live/src/latest/manifest.json";
+  var cukuRukuk = "//donelfantastic.github.io/api/24022024.json";
   var o = $("#display-number");
   var p = $("#display-resources");
   p.html(
