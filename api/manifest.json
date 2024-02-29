@@ -2,37 +2,82 @@
 {
 "channel":"skyS1.nz",
 "id":"skyS1.nz",
-"name":"SKYSPORT NZ",
+"name":"SKYSPORT 1",
 "categories":["SPORTS"],
-"url":"https://murid-nakal.github.io/mn/assets/j/s/o/n/ssnz73125.m3u8",
+"url":"https://donelfantastic.github.io/live/web/nz/ssnz73125.m3u8",
 "logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png",
 "country":"NZ"
-}, 
+},
 {
-"channel":"MuTV",
-"id":"MuTV",
-"name":"MUTV",
+"channel":"skyS2.nz",
+"id":"skyS2.nz",
+"name":"SKYSPORT 2",
 "categories":["SPORTS"],
-"url":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/rpxxqy1433779967.png",
-"country":"UK"
-}, 
+"url":"https://donelfantastic.github.io/live/web/nz/ssnz73126.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png",
+"country":"NZ"
+},
 {
-"channel":"RmTV.es",
-"id":"RmTV.es",
-"name":"RMTV ESP",
+"channel":"skyS3.nz",
+"id":"skyS3.nz",
+"name":"SKYSPORT 3",
 "categories":["SPORTS"],
-"url":"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/xqwpww1436887616.png",
-"country":"ES"
-}, 
+"url":"https://donelfantastic.github.io/live/web/nz/ssnz73127.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png",
+"country":"NZ"
+},
 {
-"channel":"RmTV.en",
-"id":"RmTV.en",
-"name":"RMTV ENG",
+"channel":"skyS4.nz",
+"id":"skyS4.nz",
+"name":"SKYSPORT 4",
 "categories":["SPORTS"],
-"url":"https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/xqwpww1436887616.png",
-"country":"EN"
-}
+"url":"https://donelfantastic.github.io/live/web/nz/ssnz73128.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS5.nz",
+"id":"skyS5.nz",
+"name":"SKYSPORT 5",
+"categories":["SPORTS"],
+"url":"https://donelfantastic.github.io/live/web/nz/ssnz73129.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS6.nz",
+"id":"skyS6.nz",
+"name":"SKYSPORT 6",
+"categories":["SPORTS"],
+"url":"https://donelfantastic.github.io/live/web/nz/ssnz73130.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS7.nz",
+"id":"skyS7.nz",
+"name":"SKYSPORT 7",
+"categories":["SPORTS"],
+"url":"https://donelfantastic.github.io/live/web/nz/ssnz73131.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS8.nz",
+"id":"skyS8.nz",
+"name":"SKYSPORT 8",
+"categories":["SPORTS"],
+"url":"https://donelfantastic.github.io/live/web/nz/ssnz73132.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_8_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS9.nz",
+"id":"skyS9.nz",
+"name":"SKYSPORT 9",
+"categories":["SPORTS"],
+"url":"https://donelfantastic.github.io/live/web/nz/ssnz73133.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png",
+"country":"NZ"
+}   
 ]
