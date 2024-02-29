@@ -243,7 +243,7 @@ close_btn.addEventListener("click", () => {
 
 //TVJSON JS
 window.addEventListener("load", function () {
-  var cukuRukuk = "./manifest.json";
+  var cukuRukuk = "manifest.json";
   var o = $("#display-number");
   var p = $("#display-resources");
   p.html(
