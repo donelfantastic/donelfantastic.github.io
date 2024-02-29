@@ -243,7 +243,7 @@ close_btn.addEventListener("click", () => {
 
 //TVJSON JS
 window.addEventListener("load", function () {
-  var cukuRukuk = "//donelfantastic.github.io/api/localidn.json";
+  var cukuRukuk = "./live/src/latest/manifest.json";
   var o = $("#display-number");
   var p = $("#display-resources");
   p.html(
