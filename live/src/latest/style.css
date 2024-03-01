@@ -23,7 +23,7 @@ body {
 
 video {
   -o-object-fit: fill cover;
-     object-fit: cover;
+  object-fit: cover;
   width: 100%;
   height: 100%;
   min-width: 100%;
@@ -537,7 +537,7 @@ background: transparent !important;
 }
 
 table td {
-background: rgba(255,0,0,0.2) !important;/*#1a1717*/
+background: rgba(0,31,97,0.2) !important;/*#1a1717*/
 }
 
 .dataTables_wrapper .dataTables_length,
