@@ -537,7 +537,7 @@ background: transparent !important;
 }
 
 table td {
-background: rgba(255,255,255,0.8) !important;/*#1a1717*/
+background: rgba(255,255,255,0.3) !important;/*#1a1717*/
 }
 
 .dataTables_wrapper .dataTables_length,
