@@ -533,11 +533,11 @@ margin-top: 0px;
 }
 
 table tr, table th {
-background-color: rgba(192,192,192,0.3);
+background: transparent !important;
 }
 
 table td {
-background: #1a1717 !important;
+background: rgba(192,192,192,0.3) !important;/*#1a1717*/
 }
 
 .dataTables_wrapper .dataTables_length,
