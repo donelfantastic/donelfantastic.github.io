@@ -79,5 +79,41 @@
 "url":"https://donelfantastic.github.io/live/web/nz/ssnz73133.m3u8",
 "logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png",
 "country":"NZ"
-}   
+},
+{
+"channel":"astroSS1.my",
+"id":"astroSS1.my",
+"name":"ASTRO SUPERSPORT 1",
+"categories":["SPORTS"],
+"url":"https://donelfantastic.github.io/live/web/my/ass63112.m3u8",
+"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",
+"country":"MY"
+}, 
+{
+"channel":"astroSS2.my",
+"id":"astroSS2.my",
+"name":"ASTRO SUPERSPORT 2",
+"categories":["SPORTS"],
+"url":"https://donelfantastic.github.io/live/web/my/ass63113.m3u8",
+"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",
+"country":"MY"
+}, 
+{
+"channel":"astroSS3.my",
+"id":"astroSS3.my",
+"name":"ASTRO SUPERSPORT 3",
+"categories":["SPORTS"],
+"url":"https://donelfantastic.github.io/live/web/my/ass63114.m3u8",
+"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",
+"country":"MY"
+},
+{
+"channel":"astroSS4.my",
+"id":"astroSS4.my",
+"name":"ASTRO SUPERSPORT 4",
+"categories":["SPORTS"],
+"url":"https://donelfantastic.github.io/live/web/my/ass63598.m3u8",
+"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png"",
+"country":"MY"
+}
 ]
