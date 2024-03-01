@@ -81,9 +81,72 @@
 "country":"NZ"
 },
 {
+"channel":"optusS1.au",
+"id":"optusS1.au",
+"name":"OPTUS SPORT",
+"categories":["SPORTS"],
+"url":"au/os63928.m3u8",
+"logo":"https://i.imgur.com/vDtIJvd.png",
+"country":"AU"
+},
+{
+"channel":"optusS2.au",
+"id":"optusS2.au",
+"name":"OPTUS SPORT 2",
+"categories":["SPORTS"],
+"url":"au/os63929.m3u8",
+"logo":"https://i.imgur.com/0Y5VndY.png",
+"country":"AU"
+}, 
+{
+"channel":"optusS3.au",
+"id":"optusS3.au",
+"name":"OPTUS SPORT 3",
+"categories":["SPORTS"],
+"url":"au/os63930.m3u8",
+"logo":"https://i.imgur.com/exP5K3m.png",
+"country":"AU"
+},
+{
+"channel":"optusS4.au",
+"id":"optusS4.au",
+"name":"OPTUS SPORT 4",
+"categories":["SPORTS"],
+"url":"au/os63931.m3u8",
+"logo":"https://i.imgur.com/D2aJFAH.png",
+"country":"AU"
+},
+{
+"channel":"optusS5.au",
+"id":"optusS5.au",
+"name":"OPTUS SPORT 5",
+"categories":["SPORTS"],
+"url":"au/os63932.m3u8",
+"logo":"https://i.imgur.com/EhwTWS4.png",
+"country":"AU"
+},
+{
+"channel":"optusS6.au",
+"id":"optusS6.au",
+"name":"OPTUS SPORT 6",
+"categories":["SPORTS"],
+"url":"au/os63933.m3u8",
+"logo":"https://i.imgur.com/nbfURnY.png",
+"country":"AU"
+},
+{
+"channel":"optusS7.au",
+"id":"optusS7.au",
+"name":"OPTUS SPORT 7",
+"categories":["SPORTS"],
+"url":"au/os64874.m3u8",
+"logo":"https://i.imgur.com/vDtIJvd.png",
+"country":"AU"
+},  
+{
 "channel":"astroSS1.my",
 "id":"astroSS1.my",
-"name":"ASTRO SUPERSPORT 1",
+"name":"ASTRO SUPERSPORT",
 "categories":["SPORTS"],
 "url":"my/ass63112.m3u8",
 "logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",
