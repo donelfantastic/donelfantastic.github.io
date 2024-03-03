@@ -1,6 +1,6 @@
-SIMPLE IPTV LIVE DEMO
+SIMPLE WEB IPTV DEMO
 ==
-<li>https://donelfantastic.github.io/live<li>
+📺 https://donelfantastic.github.io/live
 
 
 
