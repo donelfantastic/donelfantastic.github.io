@@ -1,9 +1,3 @@
-SIMPLE WEB IPTV DEMO
-==
-📺 https://donelfantastic.github.io/live
-
-
-
 
 TV LOGO Collection! 
 ==
