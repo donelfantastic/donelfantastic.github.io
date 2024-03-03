@@ -1,12 +1,8 @@
-Test
+SIMPLE IPTV LIVE DEMO
 ==
+<li>https://donelfantastic.github.io/live<li>
 
 
-<li>https://donelfantastic.github.io/live/astroSsport.m3u8</li>
-
-<li>https://donelfantastic.github.io/live/optus1Sport.m3u8</li>
-
-<li>https://donelfantastic.github.io/live/wowowJP.m3u8</li>
 
 
 TV LOGO Collection! 
