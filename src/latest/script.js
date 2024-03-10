@@ -1,9 +1,3 @@
-//PAGE LOADER
-$(window).on('load',function(){
-	setTimeout(function(){ // allowing 3 secs to fade out loader
-	$('.page-loader').fadeOut('slow');
-	},3500);
-});
 //NAVIGATION MENU JS
 let menuIcon = $(".toggle-nav");
 let nav = $(".nav");
