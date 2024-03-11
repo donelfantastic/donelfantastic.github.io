@@ -57,7 +57,9 @@
           const ui = video['ui'];
           const controls = ui.getControls();
           const player = controls.getPlayer();
-        var linkSource ='https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd';
+          //var linkSource ='https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd';
+          var proxy ='https://au.4everproxy.com/direct/';
+          var linkSource = proxy + atob('aHR0cHM6Ly9saW5lYXIuYXdzLm9wdHVzdmlkZW8udHYvdjcvT3B0dXNTcG9ydDEveGJ0c3MvZHJtL2F2Yy9kYXNoL3BsYWluL21hbmlmZXN0Lm1wZA==') 
           player.configure({
                 drm: {
                   clearKeys: {
