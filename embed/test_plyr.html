@@ -1,12 +1,10 @@
 <html lang="en">
-
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <meta name="robots" content="noindex" />
   <meta name="referrer" content="never" />
-  <title>Donelfantastic</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.6.12/plyr.min.css" />
   <style>
     * {
@@ -46,22 +44,16 @@
   </style>
 
 </head>
-
 <body>
   <div class="video-section video-responsive">
     <video id="donelfantastic" preload="auto" controls crossorigin playsinline data-poster=""></video>
   </div>
 </body>
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.6.12/plyr.min.js"></script>
-
 <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=es6,Array.prototype.includes,CustomEvent,Object.entries,Object.values,URL"></script>
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/2.4.0/shaka-player.compiled.js"></script>
-
 <script>
   document.addEventListener("DOMContentLoaded", () => {
-    
     const source ="//etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd";
     const video = document.querySelector("#donelfantastic");
     const player = new Plyr(video);
@@ -83,5 +75,4 @@
     }
   });
 </script>
-
 </html>
