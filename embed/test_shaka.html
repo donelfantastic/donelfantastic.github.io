@@ -9,8 +9,9 @@
     }
   </style>
   <meta name='viewport' content='width=device-width, initial-scale=1.0' />
-  <meta name="referrer" content="no-referrer" />
-  <title></title>
+  <link href="https://embed.now.net.eu.org" rel="dns-prefetch"><link rel="preconnect" href="https://embed.now.net.eu.org">
+  <!--<meta name="referrer" content="no-referrer" />-->
+  <title>test</title>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.0.2/shaka-player.ui.min.js' crossorigin='anonymous'></script>
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.0.2/controls.min.css' crossorigin='anonymous' />
   <script async src='/cdn-cgi/challenge-platform/h/g/scripts/invisible.js?cb=6ebfddfd6fa3499c'></script>
@@ -57,14 +58,14 @@
           const ui = video['ui'];
           const controls = ui.getControls();
           const player = controls.getPlayer();
-          var linkSource ='https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd';
+          var linkSource ='https://dz.now.net.eu.org/dazn-linear-051/stream.mpd';
           //var proxy ='https://au.4everproxy.com/direct/';
           //var linkSource = proxy + atob('aHR0cHM6Ly9ldmVyeW9yaWdpbi5kZW5vLmRldi8/dXJsPWh0dHBzOi8vbGluZWFyLmF3cy5vcHR1c3ZpZGVvLnR2L3Y3L09wdHVzU3BvcnQxL3hidHNzL2RybS9hdmMvZGFzaC9wbGFpbi9tYW5pZmVzdC5tcGQ='); 
           player.configure({
                 drm: {
                   clearKeys: {
                     //'key-id-in-hex':'key-in-hex'
-                    '03b47c8e5bdf41cbbbef29be6a18de9e': '3e13b4627eed3885cb58818fdc39d66f' 
+                    '82f8e2a17dac44c0a18f660479349c59':'1b144f73e6fefe91cd05f850e2b589d0' 
                   } 
                 } 
           }); 
