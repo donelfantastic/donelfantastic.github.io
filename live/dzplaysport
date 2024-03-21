@@ -1,3 +1,5 @@
+#EXTM3U url-tvg=""
+
 #EXTINF:-1 tvg-id="Play Sports 1" tvg-logo="https://i.imgur.com/rVJBVSK.png" group-title="BELGIAN SPORTS",Play Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
