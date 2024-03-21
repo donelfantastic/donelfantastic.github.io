@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-051/stream.mpd
+#https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-051/stream.mpd
 https://dz.now.net.eu.org/dazn-linear-051/stream.mpd|origin=https://embed.now.net.eu.org
  
 #EXTINF:-1 tvg-id="Play Sports 2" tvg-logo="https://i.imgur.com/bulJIMP.png" group-title="BELGIAN SPORTS",Play Sports 2
@@ -13,7 +13,7 @@ https://dz.now.net.eu.org/dazn-linear-051/stream.mpd|origin=https://embed.now.ne
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd
+#https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd
 https://dz.now.net.eu.org/dazn-linear-052/stream.mpd|origin=https://embed.now.net.eu.org
 
 #EXTINF:-1 tvg-id="Play Sports 3" tvg-logo="https://i.imgur.com/XVlqJ2M.png" group-title="BELGIAN SPORTS",Play Sports 3
@@ -21,5 +21,5 @@ https://dz.now.net.eu.org/dazn-linear-052/stream.mpd|origin=https://embed.now.ne
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-053/stream.mpd
+#https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-053/stream.mpd
 https://dz.now.net.eu.org/dazn-linear-053/stream.mpd|origin=https://embed.now.net.eu.org
