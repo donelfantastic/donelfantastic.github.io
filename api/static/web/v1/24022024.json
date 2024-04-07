@@ -238,7 +238,7 @@
 "id":"viaPlay1.uk",
 "name":"VIAPLAY 1",
 "categories":["SPORTS"],
-"url":"https:\/\/cors-proxy.cluster.fun\/https:\/\/live-dash-cdn7-vp.cdn.viaplay.tv\/vp\/vpsports1uk\/vpsports1uk.isml\/index.mpd",
+"url":"https:\/\/cors.snapaper.com\/https:\/\/live-dash-cdn7-vp.cdn.viaplay.tv\/vp\/vpsports1uk\/vpsports1uk.isml\/index.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/bm9azf1678871805.png",
 "country":"UK"
 },
@@ -247,7 +247,7 @@
 "id":"viaPlay2.uk",
 "name":"VIAPLAY 2",
 "categories":["SPORTS"],
-"url":"https:\/\/cors-proxy.cluster.fun\/https:\/\/live-dash-cdn7-vp.cdn.viaplay.tv\/vp\/vpsports2uk\/vpsports2uk.isml\/index.mpd",
+"url":"https:\/\/cors.snapaper.com\/https:\/\/live-dash-cdn7-vp.cdn.viaplay.tv\/vp\/vpsports2uk\/vpsports2uk.isml\/index.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/kxyaqo1678871855.png",
 "country":"UK"
 },
@@ -256,7 +256,7 @@
 "id":"viaPlayX.uk",
 "name":"VIAPLAY XTRA",
 "categories":["SPORTS"],
-"url":"https:\/\/cors-proxy.cluster.fun\/https:\/\/live-dash-cdn7-vp.cdn.viaplay.tv\/vp\/vssp\/vssp.isml\/index.mpd",
+"url":"https:\/\/cors.snapaper.com\/https:\/\/live-dash-cdn7-vp.cdn.viaplay.tv\/vp\/vssp\/vssp.isml\/index.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/yk1vcy1678871870.png",
 "country":"UK"
 },
