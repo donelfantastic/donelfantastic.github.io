@@ -234,33 +234,6 @@
 "country":"IT"
 }, 
 {
-"channel":"viaPlay1.uk",
-"id":"viaPlay1.uk",
-"name":"VIAPLAY 1",
-"categories":["SPORTS"],
-"url":"https:\/\/live-dash-cdn7-vp.cdn.viaplay.tv\/vp\/vpsports1uk\/vpsports1uk.isml\/index.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/bm9azf1678871805.png",
-"country":"UK"
-},
-{
-"channel":"viaPlay2.uk",
-"id":"viaPlay2.uk",
-"name":"VIAPLAY 2",
-"categories":["SPORTS"],
-"url":"https:\/\/live-dash-cdn7-vp.cdn.viaplay.tv\/vp\/vpsports2uk\/vpsports2uk.isml\/index.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/kxyaqo1678871855.png",
-"country":"UK"
-},
-{
-"channel":"viaPlayX.uk",
-"id":"viaPlayX.uk",
-"name":"VIAPLAY XTRA",
-"categories":["SPORTS"],
-"url":"https:\/\/live-dash-cdn7-vp.cdn.viaplay.tv\/vp\/vssp\/vssp.isml\/index.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/yk1vcy1678871870.png",
-"country":"UK"
-},
-{
 "channel":"Espn1Arg",
 "id":"Espn1Arg",
 "name":"ESPN ARG",
@@ -350,6 +323,33 @@
 "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png",
 "country":"ARG"
 },
+{
+"channel":"DLinear051",
+"id":"DLinear051",
+"name":"DAZN PLAYSPORTS",
+"categories":["SPORTS"],
+"url":"https:\/\/dcf-ak-live.donelfantastic.workers.dev\/dazn-linear-051\/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=175989829625_image-header_pRow_1688019823000",
+"country":"BE"
+}, 
+{
+"channel":"DLinear052",
+"id":"DLinear052",
+"name":"DAZN PLAYSPORTS 2",
+"categories":["SPORTS"],
+"url":"https:\/\/dcf-ak-live.donelfantastic.workers.dev\/dazn-linear-052\/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=175989829627_image-header_pRow_1688020141000",
+"country":"BE"
+}, 
+{
+"channel":"DLinear053",
+"id":"DLinear053",
+"name":"DAZN PLAYSPORTS 3",
+"categories":["SPORTS"],
+"url":"https:\/\/dcf-ak-live.donelfantastic.workers.dev\/dazn-linear-053\/stream.mpd",
+"logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=175995461629_image-header_pRow_1688020143000",
+"country":"BE"
+}, 
 {
 "channel":"DLinear037",
 "id":"DLinear037",
