@@ -27,60 +27,6 @@
 "country":"EN"
 }, 
 {
-"channel":"trueBS1.th",
-"id":"trueBS1.th",
-"name":"TRUE BEINSPORTS 1",
-"categories":["SPORTS"],
-"url":"https:\/\/edge1.laotv.la\/live\/Bsport1\/manifest.mpd",
-"logo":"https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png",
-"country":"TH"
-},
-{
-"channel":"trueBS2.th",
-"id":"trueBS1.th",
-"name":"TRUE BEINSPORTS 2",
-"categories":["SPORTS"],
-"url":"https:\/\/edge1.laotv.la\/live\/Bsport2\/manifest.mpd",
-"logo":"https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png",
-"country":"TH"
-},
-{
-"channel":"truePF1.th",
-"id":"truePF1.th",
-"name":"TRUE PREMIERE FOOTBALL 1",
-"categories":["SPORTS"],
-"url":"https:\/\/ctrl.laotv.la\/live\/TSport1\/manifest.mpd",
-"logo":"https://truevisions.co.th/static/ba1de35c-8a25-47de-a27c-5cd8f705a14f.png",
-"country":"TH"
-},
-{
-"channel":"truePF2.th",
-"id":"truePF2.th",
-"name":"TRUE PREMIERE FOOTBALL 2",
-"categories":["SPORTS"],
-"url":"https:\/\/ctrl.laotv.la\/live\/TSport2\/manifest.mpd",
-"logo":"https://truevisions.co.th/static/f815743f-72e1-4dcc-ad17-925657183a24.png",
-"country":"TH"
-},
-{
-"channel":"truePF1a.th",
-"id":"truePF1a.th",
-"name":"TRUE PREMIERE FOOTBALL 1*",
-"categories":["SPORTS"],
-"url":"https:\/\/ctrl.laotv.la\/live\/TSport1\/index.m3u8",
-"logo":"https://truevisions.co.th/static/ba1de35c-8a25-47de-a27c-5cd8f705a14f.png",
-"country":"TH"
-},
-{
-"channel":"truePF2a.th",
-"id":"truePF2a.th",
-"name":"TRUE PREMIERE FOOTBALL 2*",
-"categories":["SPORTS"],
-"url":"https:\/\/ctrl.laotv.la\/live\/TSport2\/index.m3u8",
-"logo":"https://truevisions.co.th/static/f815743f-72e1-4dcc-ad17-925657183a24.png",
-"country":"TH"
-}, 
-{
 "channel":"senSports1.kz",
 "id":"senSports1.eu",
 "name":"SENTANTA SPORTS 1",
