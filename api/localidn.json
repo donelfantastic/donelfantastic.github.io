@@ -1,7 +1,7 @@
 [
 {
-"channel": "donelfantastic.id",
-"id": "donelfantastic.id",
+"channel": "donelf.id",
+"id": "donelf.id",
 "name": "Ikatan Cinta Nella & Dory",
 "categories": [
 "VOD"
@@ -17,7 +17,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/ANTV\/sa_dash_vmx\/ANTV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/ANTV\/sa_dash_vmx\/ANTV.mpd",
 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png",
 "country": "ID"
 },
@@ -61,7 +61,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/MNCTV-HD\/sa_dash_vmx\/MNCTV-HD.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCTV-HD\/sa_dash_vmx\/MNCTV-HD.mpd",
 "logo": "https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png",
 "country": "ID"
 },
@@ -72,7 +72,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/PemersatuBangsa\/sa_dash_vmx\/PemersatuBangsa.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/PemersatuBangsa\/sa_dash_vmx\/PemersatuBangsa.mpd",
 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png",
 "country": "ID"
 },
@@ -83,7 +83,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/RCTI-DD\/sa_dash_vmx\/RCTI-DD.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/RCTI-DD\/sa_dash_vmx\/RCTI-DD.mpd",
 "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/400px-RCTI_logo_2015.svg.png",
 "country": "ID"
 },
@@ -94,7 +94,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/Trans7-2\/sa_dash_vmx\/Trans7-2.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Trans7-2\/sa_dash_vmx\/Trans7-2.mpd",
 "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/300px-Trans_7_2013.svg.png",
 "country": "ID"
 },
@@ -105,7 +105,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/TransTV-2\/sa_dash_vmx\/TransTV-2.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/TransTV-2\/sa_dash_vmx\/TransTV-2.mpd",
 "logo": "https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png",
 "country": "ID"
 },
@@ -116,7 +116,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/GTV-HD\/sa_dash_vmx\/GTV-HD.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/GTV-HD\/sa_dash_vmx\/GTV-HD.mpd",
 "logo": "https:\/\/www.lyngsat-logo.com\/logo\/tv\/gg\/gtv-id.png",
 "country": "ID"
 },
@@ -127,7 +127,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/IndonesiaMovieChannels-HD\/sa_dash_vmx\/IndonesiaMovieChannels-HD.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/IndonesiaMovieChannels-HD\/sa_dash_vmx\/IndonesiaMovieChannels-HD.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ii\/imc-id.png",
 "country": "ID"
 },
@@ -138,7 +138,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/iNewsTV-HDD\/sa_dash_vmx\/iNewsTV-HDD.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/iNewsTV-HDD\/sa_dash_vmx\/iNewsTV-HDD.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ii\/inews-id.png",
 "country": "ID"
 },
@@ -149,7 +149,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/JakTV\/sa_dash_vmx\/JakTV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/JakTV\/sa_dash_vmx\/JakTV.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/jj\/jak-tv-id.png",
 "country": "ID"
 },
@@ -160,7 +160,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/KompasTV\/sa_dash_vmx\/KompasTV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/KompasTV\/sa_dash_vmx\/KompasTV.mpd",
 "logo": "https://upload.wikimedia.org/wikipedia/en/archive/7/7a/20190116042347%21KOMPAS_TV_%282017%29.png",
 "country": "ID"
 },
@@ -171,7 +171,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/Metro-TV2\/sa_dash_vmx\/Metro-TV2.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Metro-TV2\/sa_dash_vmx\/Metro-TV2.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/metro_tv_id.png",
 "country": "ID"
 },
@@ -182,7 +182,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/TVOne\/sa_dash_vmx\/TVOne.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/TVOne\/sa_dash_vmx\/TVOne.mpd",
 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png",
 "country": "ID"
 },
@@ -204,7 +204,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/RTV\/sa_dash_vmx\/RTV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/RTV\/sa_dash_vmx\/RTV.mpd",
 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rajawali_Televisi_abu-abu.svg/1200px-Rajawali_Televisi_abu-abu.svg.png",
 "country": "ID"
 },  
@@ -237,7 +237,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/JTV\/sa_dash_vmx\/JTV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/JTV\/sa_dash_vmx\/JTV.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/jj\/jtv-id.png",
 "country": "ID"
 },
@@ -248,7 +248,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/SEA-Channel\/sa_dash_vmx\/SEA-Channel.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/SEA-Channel\/sa_dash_vmx\/SEA-Channel.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/sea-today-id.png",
 "country": "ID"
 },
@@ -259,7 +259,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/MNCnews-HDD\/sa_dash_vmx\/MNCnews-HDD.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCnews-HDD\/sa_dash_vmx\/MNCnews-HDD.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/mnc-news-id.png",
 "country": "ID"
 },
@@ -270,7 +270,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/DAAITV\/sa_dash_vmx\/DAAITV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/DAAITV\/sa_dash_vmx\/DAAITV.mpd",
 "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",
 "country": "ID"
 },
@@ -281,7 +281,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/BeritaSatu\/sa_dash_vmx\/BeritaSatu.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/BeritaSatu\/sa_dash_vmx\/BeritaSatu.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/btv-id.svg",
 "country": "ID"
 },
@@ -303,7 +303,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/AFN-HD\/sa_dash_vmx\/AFN-HD.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/AFN-HD\/sa_dash_vmx\/AFN-HD.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/asian-food-network-sg.svg",
 "country": "SG"
 },
@@ -314,7 +314,7 @@
 "categories": [
 "News"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/AlJazeeraInternational\/sa_dash_vmx\/AlJazeeraInternational.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/AlJazeeraInternational\/sa_dash_vmx\/AlJazeeraInternational.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/aljazeera-channel-qa.svg",
 "country": "QA"
 },
@@ -325,7 +325,7 @@
 "categories": [
 "Religion"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/AlQuranAlKareem\/sa_dash_vmx\/AlQuranAlKareem.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/AlQuranAlKareem\/sa_dash_vmx\/AlQuranAlKareem.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/qq\/quran-tv-sa.png",
 "country": "QA"
 },
@@ -336,7 +336,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/AnhuiTV\/sa_dash_vmx\/AnhuiTV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/AnhuiTV\/sa_dash_vmx\/AnhuiTV.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/anhui_tv_cn.png",
 "country": "CN"
 },
@@ -358,7 +358,7 @@
 "categories": [
 "Kids"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/Animax\/sa_dash_vmx\/Animax.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Animax\/sa_dash_vmx\/Animax.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/animax_asia.png",
 "country": "ID"
 },
@@ -369,7 +369,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/Arirang\/sa_dash_vmx\/Arirang.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Arirang\/sa_dash_vmx\/Arirang.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/arirang-kr.svg",
 "country": "KR"
 },
@@ -380,7 +380,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/AustraliaPlus\/sa_dash_vmx\/AustraliaPlus.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/AustraliaPlus\/sa_dash_vmx\/AustraliaPlus.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/abc-tv-plus-au.png",
 "country": "AU"
 },
@@ -391,7 +391,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/AXN\/sa_dash_vmx\/AXN.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/AXN\/sa_dash_vmx\/AXN.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/axn_east_asia.png",
 "country": "SG"
 },
@@ -402,7 +402,7 @@
 "categories": [
 "Kids"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/BabyTV-NewHD\/sa_dash_vmx\/BabyTV-NewHD.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/BabyTV-NewHD\/sa_dash_vmx\/BabyTV-NewHD.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/baby_tv_eu.png",
 "country": "EU"
 },
@@ -413,7 +413,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/BaliTV\/sa_dash_vmx\/BaliTV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/BaliTV\/sa_dash_vmx\/BaliTV.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/bali_tv_id.png",
 "country": "ID"
 },
@@ -424,7 +424,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/BandungTV\/sa_dash_vmx\/BandungTV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/BandungTV\/sa_dash_vmx\/BandungTV.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/bandung_tv_id.png",
 "country": "ID"
 },
@@ -435,7 +435,7 @@
 "categories": [
 "Knowledge"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/BBCEarth-HD\/sa_dash_vmx\/BBCEarth-HD.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/BBCEarth-HD\/sa_dash_vmx\/BBCEarth-HD.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/bbc-earth-uk.png",
 "country": "UK"
 },
@@ -446,7 +446,7 @@
 "categories": [
 "News"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/BBCWorldNews\/sa_dash_vmx\/BBCWorldNews.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/BBCWorldNews\/sa_dash_vmx\/BBCWorldNews.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/bbc_world_news_uk.png",
 "country": "UK"
 },
@@ -457,7 +457,7 @@
 "categories": [
 "Kids"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/BeSmart\/sa_dash_vmx\/BeSmart.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/BeSmart\/sa_dash_vmx\/BeSmart.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/besmart-id.png",
 "country": "ID"
 },
@@ -468,7 +468,7 @@
 "categories": [
 "News"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/Bloomberg\/sa_dash_vmx\/Bloomberg.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Bloomberg\/sa_dash_vmx\/Bloomberg.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/blommberg-tv-us.png",
 "country": "US"
 },
@@ -479,7 +479,7 @@
 "categories": [
 "Kids"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/Boomerang\/sa_dash_vmx\/Boomerang.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Boomerang\/sa_dash_vmx\/Boomerang.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/bb\/boomerang-us.svg",
 "country": "US"
 },
@@ -490,7 +490,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https://testfunctionlive.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd",
+"url": "https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/MY-CINEMA-Ch.-52.png",
 "country": "ID"
 }, 
@@ -501,7 +501,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https://testfunctionlive.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd",
+"url": "https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/MY-FAMILY-Ch.-51.png",
 "country": "ID"
 }, 
@@ -512,7 +512,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https://testfunctionlive.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd",
+"url": "https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/MY-CINEMA-ASIA-Ch.-53.png",
 "country": "ID"
 }, 
@@ -523,7 +523,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https://testfunctionlive.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd",
+"url": "https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/CINEMACHI-Ch.-36.png",
 "country": "ID"
 }, 
@@ -534,7 +534,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd",
+"url": "https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/CINEMACHI-ACTION-Ch.-40.png",
 "country": "ID"
 }, 
@@ -545,7 +545,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd",
+"url": "https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/CINEMACHI-MAX-Ch.-39-1024x77.png",
 "country": "ID"
 }, 
@@ -556,7 +556,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd",
+"url": "https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/CINEMACHI-XTRA-Ch.-38.png",
 "country": "ID"
 }, 
@@ -567,7 +567,7 @@
 "categories": [
 "Kids"
 ],
-"url": "https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd",
+"url": "https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/CINEMACHI-KIDS-Ch.-37.png",
 "country": "ID"
 }, 
@@ -578,7 +578,7 @@
 "categories": [
 "Kids"
 ],
-"url": "https://testfunctionlive.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd",
+"url": "https://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/MY-KIDS-Ch.-66.png",
 "country": "ID"
 }, 
@@ -589,7 +589,7 @@
 "categories": [
 "Kids"
 ],
-"url": "https://testfunctionlive.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd",
+"url": "https://cempedak-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/ZOOMOO-Ch.-63.png",
 "country": "ID"
 },
@@ -600,7 +600,7 @@
 "categories": [
 "Kids"
 ],
-"url": "https://testfunctionlive.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd",
+"url": "https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/DREAMWORKS-Ch.-67.png",
 "country": "ID"
 },
@@ -611,7 +611,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https://testfunctionlive.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd",
+"url": "https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/PARAMOUNT-NETWORK-Ch.-54-768x265.png",
 "country": "ID"
 },
@@ -622,7 +622,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https://testfunctionlive.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd",
+"url": "https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/ROCK-ACTION-Ch.-92.png",
 "country": "ID"
 },
@@ -633,7 +633,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https://testfunctionlive.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd",
+"url": "https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/ROCK-ENTERTAINMENT-Ch.-93.png",
 "country": "ID"
 },                                          
@@ -644,7 +644,7 @@
 "categories": [
 "Kids"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/CartoonNetwork\/sa_dash_vmx\/CartoonNetwork.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/CartoonNetwork\/sa_dash_vmx\/CartoonNetwork.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cartoon-network-us.svg",
 "country": "ID"
 },
@@ -655,7 +655,7 @@
 "categories": [
 "Kids"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/Cbeebies\/sa_dash_vmx\/Cbeebies.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Cbeebies\/sa_dash_vmx\/Cbeebies.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cbeebies-uk-uk.svg",
 "country": "UK"
 },
@@ -666,7 +666,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/CelestialClassic\/sa_dash_vmx\/CelestialClassic.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/CelestialClassic\/sa_dash_vmx\/CelestialClassic.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/celestial-classic-movies-hk.png",
 "country": "HK"
 },
@@ -677,7 +677,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/CelestialMovie\/sa_dash_vmx\/CelestialMovie.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/CelestialMovie\/sa_dash_vmx\/CelestialMovie.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/celestial-movies-hk.png",
 "country": "HK"
 },
@@ -688,7 +688,7 @@
 "categories": [
 "Knowledge"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/CGTN_Doc\/sa_dash_vmx\/CGTN_Doc.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/CGTN_Doc\/sa_dash_vmx\/CGTN_Doc.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cgtn_cn_documentary.png",
 "country": "CN"
 },
@@ -699,7 +699,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/CGTN\/sa_dash_vmx\/CGTN.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/CGTN\/sa_dash_vmx\/CGTN.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cgtn_cn.png",
 "country": "CN"
 },
@@ -710,7 +710,7 @@
 "categories": [
 "News"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/ChannelNewsAsia\/sa_dash_vmx\/ChannelNewsAsia.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/ChannelNewsAsia\/sa_dash_vmx\/ChannelNewsAsia.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cna-sg.svg",
 "country": "SG"
 },
@@ -721,7 +721,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/CinemaWorld\/sa_dash_vmx\/CinemaWorld.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/CinemaWorld\/sa_dash_vmx\/CinemaWorld.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cinemaworld-sg.svg",
 "country": "SG"
 },
@@ -732,7 +732,7 @@
 "categories": [
 "News"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/CNBC\/sa_dash_vmx\/CNBC.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/CNBC\/sa_dash_vmx\/CNBC.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cnbc-us.svg",
 "country": "US"
 },
@@ -743,7 +743,7 @@
 "categories": [
 "News"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/CNNInternational\/sa_dash_vmx\/CNNInternational.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/CNNInternational\/sa_dash_vmx\/CNNInternational.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/cnn-us.svg",
 "country": "US"
 },
@@ -754,7 +754,7 @@
 "categories": [
 "Knowledge"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/CrimeInvestigation\/sa_dash_vmx\/CrimeInvestigation.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/CrimeInvestigation\/sa_dash_vmx\/CrimeInvestigation.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/cc\/crime-plus-investigation-us.svg",
 "country": "US"
 },
@@ -765,7 +765,7 @@
 "categories": [
 "Knowledge"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/Discovery\/sa_dash_vmx\/Discovery.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Discovery\/sa_dash_vmx\/Discovery.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/dd\/discovery-channel-east-us.png",
 "country": "US"
 },
@@ -776,7 +776,7 @@
 "categories": [
 "News"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/DW\/sa_dash_vmx\/DW.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/DW\/sa_dash_vmx\/DW.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/dd\/deutsche_welle_tv_de.png",
 "country": "DE"
 },
@@ -787,7 +787,7 @@
 "categories": [
 "News"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/EuroNews\/sa_dash_vmx\/EuroNews.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/EuroNews\/sa_dash_vmx\/EuroNews.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ee\/euronews-fr.svg",
 "country": "FR"
 },
@@ -798,7 +798,7 @@
 "categories": [
 "Religion"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/EWTN\/sa_dash_vmx\/EWTN.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/EWTN\/sa_dash_vmx\/EWTN.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ee\/ewtn_us.png",
 "country": "US"
 },
@@ -809,7 +809,7 @@
 "categories": [
 "Sports"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/FightSports\/sa_dash_vmx\/FightSports.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/FightSports\/sa_dash_vmx\/FightSports.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ff\/fight_sports_us.png",
 "country": "US"
 },
@@ -820,7 +820,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/FMN\/sa_dash_vmx\/FMN.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/FMN\/sa_dash_vmx\/FMN.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ff\/fmn_id.png",
 "country": "ID"
 },
@@ -831,7 +831,7 @@
 "categories": [
 "News"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/FoxNews\/sa_dash_vmx\/FoxNews.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/FoxNews\/sa_dash_vmx\/FoxNews.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ff\/fox_news_channel.png",
 "country": "US"
 },
@@ -842,7 +842,7 @@
 "categories": [
 "News"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/France24\/sa_dash_vmx\/France24.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/France24\/sa_dash_vmx\/France24.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ff\/france24_fr.png",
 "country": "FR"
 },
@@ -853,7 +853,7 @@
 "categories": [
 "Knowledge"
 ],
-"url": "https://testfunctionlive.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd",
+"url": "https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/GLOBAL-TREKKER-Ch.-103.png",
 "country": "ID"
 },              
@@ -864,7 +864,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/Galaxy-HD\/sa_dash_vmx\/Galaxy-HD.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Galaxy-HD\/sa_dash_vmx\/Galaxy-HD.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/gg\/galaxy_tv_id.png",
 "country": "ID"
 },
@@ -875,7 +875,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/GalaxyPremium-HD\/sa_dash_vmx\/GalaxyPremium-HD.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/GalaxyPremium-HD\/sa_dash_vmx\/GalaxyPremium-HD.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/gg\/galaxy-premium-id.png",
 "country": "ID"
 },
@@ -886,7 +886,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/HGTV\/sa_dash_vmx\/HGTV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/HGTV\/sa_dash_vmx\/HGTV.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/hh\/hgtv-us.svg",
 "country": "US"
 },
@@ -897,7 +897,7 @@
 "categories": [
 "Knowledge"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/History\/sa_dash_vmx\/History.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/History\/sa_dash_vmx\/History.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/hh\/history_us.png",
 "country": "US"
 },
@@ -908,7 +908,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/HITS\/sa_dash_vmx\/HITS.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/HITS\/sa_dash_vmx\/HITS.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/hh\/hits_tv_sg.png",
 "country": "SG"
 },
@@ -919,7 +919,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/HitsMovies\/sa_dash_vmx\/HitsMovies.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/HitsMovies\/sa_dash_vmx\/HitsMovies.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/hh\/hits-movies-sg.png",
 "country": "ID"
 },
@@ -930,7 +930,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/HunanTV\/sa_dash_vmx\/HunanTV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/HunanTV\/sa_dash_vmx\/HunanTV.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/hh\/hunan_cn_tv.png",
 "country": "CN"
 },
@@ -941,7 +941,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/IDX\/sa_dash_vmx\/IDX.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/IDX\/sa_dash_vmx\/IDX.mpd",
 "logo": "https:\/\/www.lyngsat-logo.com\/logo\/tv\/ii\/idx_channel_id.png",
 "country": "ID"
 },
@@ -952,7 +952,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/JiangsuTV\/sa_dash_vmx\/JiangsuTV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/JiangsuTV\/sa_dash_vmx\/JiangsuTV.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/jj\/jiangsu_tv.png",
 "country": "CN"
 },
@@ -963,7 +963,7 @@
 "categories": [
 "Kids"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/KidsChannel\/sa_dash_vmx\/KidsChannel.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/KidsChannel\/sa_dash_vmx\/KidsChannel.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/kk\/kids-tv-id.png",
 "country": "ID"
 },
@@ -974,7 +974,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/KIX\/sa_dash_vmx\/KIX.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/KIX\/sa_dash_vmx\/KIX.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/kk\/kix-hk.png",
 "country": "HK"
 },
@@ -985,7 +985,7 @@
 "categories": [
 "Life Style"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/Life\/sa_dash_vmx\/Life.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Life\/sa_dash_vmx\/Life.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ll\/life_id.png",
 "country": "ID"
 },
@@ -996,7 +996,7 @@
 "categories": [
 "Life Style"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/LifeStyleFashion\/sa_dash_vmx\/LifeStyleFashion.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/LifeStyleFashion\/sa_dash_vmx\/LifeStyleFashion.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ll\/lifestyle-and-fashion-id.png",
 "country": "ID"
 },
@@ -1007,7 +1007,7 @@
 "categories": [
 "Life Style"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/Lifetime\/sa_dash_vmx\/Lifetime.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Lifetime\/sa_dash_vmx\/Lifetime.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ll\/lifetime-us.png",
 "country": "US"
 },
@@ -1018,7 +1018,7 @@
 "categories": [
 "Music"
 ],
-"url": "https://testfunctionlive.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd",
+"url": "https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/MTV-LIVE-Ch.-143.png",
 "country": "UK"
 },
@@ -1029,7 +1029,7 @@
 "categories": [
 "Music"
 ],
-"url": "https://testfunctionlive.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd",
+"url": "https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd",
 "logo": "https://mncplay.id/wp-content/uploads/2023/06/MTV-90S-Ch.-144.png",
 "country": "UK"
 },
@@ -1040,7 +1040,7 @@
 "categories": [
 "Kids"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/MiaoMi\/sa_dash_vmx\/MiaoMi.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MiaoMi\/sa_dash_vmx\/MiaoMi.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/miao_mi_tv_hk.png",
 "country": "HK"
 },
@@ -1051,7 +1051,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/MNCEntertainment\/sa_dash_vmx\/MNCEntertainment.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCEntertainment\/sa_dash_vmx\/MNCEntertainment.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ee\/ent-id.png",
 "country": "ID"
 },
@@ -1062,7 +1062,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/MNCInfotainment\/sa_dash_vmx\/MNCInfotainment.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCInfotainment\/sa_dash_vmx\/MNCInfotainment.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ii\/ie-indonesia-id.png",
 "country": "ID"
 },
@@ -1073,7 +1073,7 @@
 "categories": [
 "Religion"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/MNCMuslim\/sa_dash_vmx\/MNCMuslim.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCMuslim\/sa_dash_vmx\/MNCMuslim.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/muslim-tv-id.png",
 "country": "ID"
 },
@@ -1084,7 +1084,7 @@
 "categories": [
 "Life Style"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/MNCShop\/sa_dash_vmx\/MNCShop.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCShop\/sa_dash_vmx\/MNCShop.mpd",
 "logo": "https:\/\/static.wikia.nocookie.net\/logopedia\/images\/0\/0c\/EM_Shop_logo.png",
 "country": "ID"
 },
@@ -1095,7 +1095,7 @@
 "categories": [
 "Life Style"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/MNCShopSmart\/sa_dash_vmx\/MNCShopSmart.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCShopSmart\/sa_dash_vmx\/MNCShopSmart.mpd",
 "logo": "https:\/\/static.wikia.nocookie.net\/logopedia\/images\/0\/0c\/EM_Shop_logo.png",
 "country": "ID"
 },
@@ -1106,7 +1106,7 @@
 "categories": [
 "Sports"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/MNCSports-HD\/sa_dash_vmx\/MNCSports-HD.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports-HD\/sa_dash_vmx\/MNCSports-HD.mpd",
 "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3f\/Sportstars.png",
 "country": "ID"
 },
@@ -1117,7 +1117,7 @@
 "categories": [
 "Sports"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
 "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d7\/Sportstars_2.png\/640px-Sportstars_2.png",
 "country": "ID"
 },
@@ -1128,7 +1128,7 @@
 "categories": [
 "Sports"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/Soccer-2\/sa_dash_vmx\/Soccer-2.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Soccer-2\/sa_dash_vmx\/Soccer-2.mpd",
 "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a3\/Sportstars_3.png\/640px-Sportstars_3.png",
 "country": "ID"
 },
@@ -1139,7 +1139,7 @@
 "categories": [
 "Sports"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/Sportstar4\/sa_dash_vmx\/Sportstar4.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Sportstar4\/sa_dash_vmx\/Sportstar4.mpd",
 "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a4\/Sportstars_4.png",
 "country": "ID"
 },
@@ -1150,7 +1150,7 @@
 "categories": [
 "Music"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/MrBein1\/sa_dash_vmx\/MrBein1.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MrBein1\/sa_dash_vmx\/MrBein1.mpd",
 "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/30\/MTV_Live_2021_logo.svg\/440px-MTV_Live_2021_logo.svg.png",
 "country": "SG"
 },
@@ -1161,7 +1161,7 @@
 "categories": [
 "Music"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/MusicChannel\/sa_dash_vmx\/MusicChannel.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MusicChannel\/sa_dash_vmx\/MusicChannel.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/music-tv-id.png",
 "country": "ID"
 },
@@ -1172,7 +1172,7 @@
 "categories": [
 "Knowledge"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/NatGeoChannel\/sa_dash_vmx\/NatGeoChannel.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/NatGeoChannel\/sa_dash_vmx\/NatGeoChannel.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/nn\/national-geographic-us.svg",
 "country": "US"
 },
@@ -1183,7 +1183,7 @@
 "categories": [
 "Knowledge"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/NatGeoWild\/sa_dash_vmx\/NatGeoWild.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/NatGeoWild\/sa_dash_vmx\/NatGeoWild.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/nn\/national-geographic-wild-us.svg",
 "country": "US"
 },
@@ -1194,7 +1194,7 @@
 "categories": [
 "News"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/NHKWorldPremium\/sa_dash_vmx\/NHKWorldPremium.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/NHKWorldPremium\/sa_dash_vmx\/NHKWorldPremium.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/nn\/nhk-world-premium-jp.png",
 "country": "JP"
 },
@@ -1205,7 +1205,7 @@
 "categories": [
 "News"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/NHKWorldTV\/sa_dash_vmx\/NHKWorldTV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/NHKWorldTV\/sa_dash_vmx\/NHKWorldTV.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/nn\/nhk-world-japan-jp.svg",
 "country": "JP"
 },
@@ -1216,7 +1216,7 @@
 "categories": [
 "Kids"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/Nickelodeon\/sa_dash_vmx\/Nickelodeon.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Nickelodeon\/sa_dash_vmx\/Nickelodeon.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/nn\/nickelodeon-us.svg",
 "country": "US"
 },
@@ -1227,7 +1227,7 @@
 "categories": [
 "Kids"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/NickJr-HDD\/sa_dash_vmx\/NickJr-HDD.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/NickJr-HDD\/sa_dash_vmx\/NickJr-HDD.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/nn\/nick-jr-us.svg",
 "country": "US"
 },
@@ -1238,7 +1238,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/OKTV\/sa_dash_vmx\/OKTV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/OKTV\/sa_dash_vmx\/OKTV.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/oo\/ok-tv-id.png",
 "country": "ID"
 },
@@ -1249,7 +1249,7 @@
 "categories": [
 "Religion"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/Reformed21\/sa_dash_vmx\/Reformed21.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Reformed21\/sa_dash_vmx\/Reformed21.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/rr\/reformed_21_id.png",
 "country": "ID"
 },
@@ -1260,7 +1260,7 @@
 "categories": [
 "News"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/RTEnglish\/sa_dash_vmx\/RTEnglish.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/RTEnglish\/sa_dash_vmx\/RTEnglish.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/rr\/rt-news-ru.svg",
 "country": "RU"
 },
@@ -1271,7 +1271,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/SetOne\/sa_dash_vmx\/SetOne.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/SetOne\/sa_dash_vmx\/SetOne.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/oo\/one-in.png",
 "country": "US"
 },
@@ -1282,7 +1282,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/ShanghaiDragonTV\/sa_dash_vmx\/ShanghaiDragonTV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/ShanghaiDragonTV\/sa_dash_vmx\/ShanghaiDragonTV.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/dd\/dragon-tv-cn.png",
 "country": "CN"
 },
@@ -1293,7 +1293,7 @@
 "categories": [
 "Sports"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/soccerchannel-test\/sa_dash_vmx\/soccerchannel-test.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/soccerchannel-test\/sa_dash_vmx\/soccerchannel-test.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/soccer-channel-id.png",
 "country": "ID"
 },
@@ -1304,7 +1304,7 @@
 "categories": [
 "Sports"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/SPOTV-HD\/sa_dash_vmx\/SPOTV-HD.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/SPOTV-HD\/sa_dash_vmx\/SPOTV-HD.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/spotv-kr.png",
 "country": "ID"
 },
@@ -1315,7 +1315,7 @@
 "categories": [
 "Sports"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/SPOTV2-HD\/sa_dash_vmx\/SPOTV2-HD.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/SPOTV2-HD\/sa_dash_vmx\/SPOTV2-HD.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/spotv-2-kr.png",
 "country": "KR"
 },
@@ -1326,7 +1326,7 @@
 "categories": [
 "Religion"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/TawafTV\/sa_dash_vmx\/TawafTV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/TawafTV\/sa_dash_vmx\/TawafTV.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tawaf-tv-id.png",
 "country": "ID"
 },
@@ -1337,7 +1337,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/Thrill\/sa_dash_vmx\/Thrill.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Thrill\/sa_dash_vmx\/Thrill.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/thrill_hk.png",
 "country": "HK"
 },
@@ -1348,7 +1348,7 @@
 "categories": [
 "Life Style"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/TLC\/sa_dash_vmx\/TLC.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/TLC\/sa_dash_vmx\/TLC.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tlc-us.svg",
 "country": "US"
 },
@@ -1359,7 +1359,7 @@
 "categories": [
 "News"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/TRTWorld\/sa_dash_vmx\/TRTWorld.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/TRTWorld\/sa_dash_vmx\/TRTWorld.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/trt-world-tr.svg",
 "country": "TR"
 },
@@ -1370,7 +1370,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/TV5\/sa_dash_vmx\/TV5.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/TV5\/sa_dash_vmx\/TV5.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tv5monde-fr.png",
 "country": "FR"
 },
@@ -1381,7 +1381,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/TV9\/sa_dash_vmx\/TV9.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/TV9\/sa_dash_vmx\/TV9.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tv-9-my.png",
 "country": "MY"
 },
@@ -1392,7 +1392,7 @@
 "categories": [
 "Religion"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/TVMuhammadiyah\/sa_dash_vmx\/TVMuhammadiyah.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/TVMuhammadiyah\/sa_dash_vmx\/TVMuhammadiyah.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tv-mu-id.png",
 "country": "ID"
 },
@@ -1403,7 +1403,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/tvN\/sa_dash_vmx\/tvN.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/tvN\/sa_dash_vmx\/tvN.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tvn-kr.svg",
 "country": "KR"
 },
@@ -1414,7 +1414,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/tvNMovies\/sa_dash_vmx\/tvNMovies.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/tvNMovies\/sa_dash_vmx\/tvNMovies.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/tt\/tvnmovies.png",
 "country": "ID"
 },
@@ -1425,7 +1425,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/VisionPrime\/sa_dash_vmx\/VisionPrime.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/VisionPrime\/sa_dash_vmx\/VisionPrime.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/vv\/vision-prime-id.png",
 "country": "ID"
 },
@@ -1436,7 +1436,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/WarnerTV\/sa_dash_vmx\/WarnerTV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/WarnerTV\/sa_dash_vmx\/WarnerTV.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ww\/warner-tv-us.png",
 "country": "US"
 },
@@ -1447,7 +1447,7 @@
 "categories": [
 "Entertainment"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/XingKongTV\/sa_dash_vmx\/XingKongTV.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/XingKongTV\/sa_dash_vmx\/XingKongTV.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/star_xing_kong_hk.png",
 "country": "HK"
 },
@@ -1458,7 +1458,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/ZeeBIOSKOP\/sa_dash_vmx\/ZeeBIOSKOP.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/ZeeBIOSKOP\/sa_dash_vmx\/ZeeBIOSKOP.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/zz\/zee-bioskop-in.png",
 "country": "IN"
 },
@@ -1469,7 +1469,7 @@
 "categories": [
 "Movies"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/Hits\/sa_dash_vmx\/HitsMovies.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Hits\/sa_dash_vmx\/HitsMovies.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/hh\/hits-movies-sg.png",
 "country": "SG"
 },
@@ -1480,7 +1480,7 @@
 "categories": [
 "Kids"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/NickJr\/sa_dash_vmx\/NickJr.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/NickJr\/sa_dash_vmx\/NickJr.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/nn\/nick-jr-us.svg",
 "country": "US"
 },
@@ -1491,7 +1491,7 @@
 "categories": [
 "Sports"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/SCM\/sa_dash_vmx\/SCM.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/SCM\/sa_dash_vmx\/SCM.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/ss\/spotv-kr.png",
 "country": "KR"
 },
@@ -1502,7 +1502,7 @@
 "categories": [
 "Sports"
 ],
-"url": "https:\/\/testfunctionlive.mncnow.id\/live\/eds\/MNCSports3-HD\/sa_dash_vmx\/MNCSports3-HD.mpd",
+"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports3-HD\/sa_dash_vmx\/MNCSports3-HD.mpd",
 "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a3\/Sportstars_3.png\/640px-Sportstars_3.png",
 "country": "ID"
 }
