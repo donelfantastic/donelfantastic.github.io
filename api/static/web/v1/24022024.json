@@ -25,7 +25,70 @@
 "url":"https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/tvlogo/xqwpww1436887616.png",
 "country":"EN"
-}, 
+},
+{
+"channel":"trueBS1.th",
+"id":"trueBS1.th",
+"name":"TRUE BEINSPORTS 1",
+"categories":["SPORTS"],
+"url":"https:\/\/edge1.laotv.la\/live\/Bsport1\/manifest.mpd",
+"logo":"https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png",
+"country":"TH"
+},
+{
+"channel":"trueBS2.th",
+"id":"trueBS1.th",
+"name":"TRUE BEINSPORTS 2",
+"categories":["SPORTS"],
+"url":"https:\/\/edge1.laotv.la\/live\/Bsport2\/manifest.mpd",
+"logo":"https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png",
+"country":"TH"
+},
+{
+"channel":"truePF1.th",
+"id":"truePF1.th",
+"name":"TRUE PREMIERE FOOTBALL 1",
+"categories":["SPORTS"],
+"url":"https:\/\/ctrl.laotv.la\/live\/TSport1\/manifest.mpd",
+"logo":"https://truevisions.co.th/static/ba1de35c-8a25-47de-a27c-5cd8f705a14f.png",
+"country":"TH"
+},
+{
+"channel":"truePF2.th",
+"id":"truePF2.th",
+"name":"TRUE PREMIERE FOOTBALL 2",
+"categories":["SPORTS"],
+"url":"https:\/\/ctrl.laotv.la\/live\/TSport2\/manifest.mpd",
+"logo":"https://truevisions.co.th/static/f815743f-72e1-4dcc-ad17-925657183a24.png",
+"country":"TH"
+},
+{
+"channel":"bSports1en.qa",
+"id":"bSports1en.qa",
+"name":"BEINSPORTS 1 ENG*",
+"categories":["SPORTS"],
+"url":"https:\/\/donelfantastic.github.io\/webiptv\/web\/qa\/qwertyuiop1.m3u8",
+"logo":"https:\/\/assets.bein.com\/mena\/sites\/3\/2015\/06\/beIN_SPORTS1_ENGLISH_Digital_Mono.png",
+"country":"QA"
+},
+{
+"channel":"bSports2en.qa",
+"id":"bSports2en.qa",
+"name":"BEINSPORTS 2 ENG*",
+"categories":["SPORTS"],
+"url":"https:\/\/donelfantastic.github.io\/webiptv\/web\/qa\/qwertyuiop12.m3u8",
+"logo":"https:\/\/assets.bein.com\/mena\/sites\/3\/2015\/06\/beIN_SPORTS2_ENGLISH_Digital_Mono.png",
+"country":"QA"
+},
+{
+"channel":"bSports3en.qa",
+"id":"bSports3en.qa",
+"name":"BEINSPORTS 3 ENG*",
+"categories":["SPORTS"],
+"url":"https:\/\/donelfantastic.github.io\/webiptv\/web\/qa\/qwertyuiop123.m3u8",
+"logo":"https:\/\/assets.bein.com\/mena\/sites\/3\/2015\/06\/beIN_SPORTS3_ENGLISH_Digital_Mono.png",
+"country":"QA"
+},
 {
 "channel":"senSports1.kz",
 "id":"senSports1.eu",
