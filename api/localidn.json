@@ -1,23 +1,12 @@
 [
 {
-"channel": "donelf.id",
-"id": "donelf.id",
-"name": "Ikatan Cinta Nella & Dory",
-"categories": [
-"VOD"
-],
-"url": "https:\/\/cf-vod-cdn.mncnow.id\/vod\/storage2\/kilau-konser-ikatan-cinta-nella-dory-2021-rev-clean-anv6-rev\/_\/sa_dash_vmx\/kilau-konser-ikatan-cinta-nella-dory-2021-rev-clean-anv6-rev.mpd",
-"logo": "https:\/\/static.mncnow.id\/images\/vod\/c0b01684/2670_r32.jpg",
-"country": "ID"
-}, 
-{
 "channel": "ANTV",
 "id": "ANTV",
 "name": "ANTV",
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/ANTV\/sa_dash_vmx\/ANTV.mpd",
+"url": "https:\/\/op-group1-swiftservehd-1.dens.tv\/h\/h235\/index.m3u8",
 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png",
 "country": "ID"
 },
@@ -1504,6 +1493,17 @@
 ],
 "url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports3-HD\/sa_dash_vmx\/MNCSports3-HD.mpd",
 "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a3\/Sportstars_3.png\/640px-Sportstars_3.png",
+"country": "ID"
+},
+{
+"channel": "donelf.id",
+"id": "donelf.id",
+"name": "Ikatan Cinta Nella & Dory",
+"categories": [
+"VOD"
+],
+"url": "https:\/\/cf-vod-cdn.mncnow.id\/vod\/storage2\/kilau-konser-ikatan-cinta-nella-dory-2021-rev-clean-anv6-rev\/_\/sa_dash_vmx\/kilau-konser-ikatan-cinta-nella-dory-2021-rev-clean-anv6-rev.mpd",
+"logo": "https:\/\/static.mncnow.id\/images\/vod\/c0b01684/2670_r32.jpg",
 "country": "ID"
 }
 ]
