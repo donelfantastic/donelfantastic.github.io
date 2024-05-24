@@ -31,7 +31,7 @@
 "id":"usaNetE.us",
 "name":"USA NETWORK (EAST)",
 "categories":["SPORTS"],
-"url":"https:\/\/fsly.stream.peacocktv.com\/Content\/CMAF_OL1-CTR-4s\/Live\/channel(usa-east)\/master.mpd",
+"url":"https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd",
 "logo":"https://www.thesportsdb.com/images/media/tvlogo/yswxwr1433432126.png",
 "country":"US"
 },   
@@ -40,7 +40,7 @@
 "id":"usaNetW.us",
 "name":"USA NETWORK (WEST)",
 "categories":["SPORTS"],
-"url":"https:\/\/fsly.stream.peacocktv.com\/Content\/CMAF_OL1-CTR-4s\/Live\/channel(usa-west)\/master.mpd",
+"url":"https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd",
 "logo":"https://www.thesportsdb.com/images/media/tvlogo/yswxwr1433432126.png",
 "country":"US"
 },   
@@ -121,7 +121,7 @@
 "id":"SkySPL.uk",
 "name":"SKYSPORTS PREMIER LEAGUE",
 "categories":["SPORTS"],
-"url":"https:\/\/linear015-gb-dash1-prd-ll.cdn.skycdp.com\/016a\/Content\/DASH_003_720_120\/Live\/channel(skysportspremierleague)\/manifest_720.mpd",
+"url":"https://linear015-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportspremierleague)/manifest_720.mpd",
 "logo":"https://www.thesportsdb.com/images/media/tvlogo/7e2lv21502554825.png",
 "country":"UK"
 }, 
@@ -130,7 +130,7 @@
 "id":"SkySME.uk",
 "name":"SKYSPORTS MAIN EVENT",
 "categories":["SPORTS"],
-"url":"https:\/\/linear011-gb-dash1-prd-ll.cdn.skycdp.com\/Content\/DASH_003_720_120\/Live\/channel(skysportsmainevent)\/manifest_720.mpd",
+"url":"https://linear001-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd", 
 "logo":"https://www.thesportsdb.com/images/media/tvlogo/mp44981502554837.png",
 "country":"UK"
 }, 
@@ -139,7 +139,7 @@
 "id":"SkySFB.uk",
 "name":"SKYSPORTS FOOTBALL",
 "categories":["SPORTS"],
-"url":"https:\/\/linear014-gb-dash1-prd-ll.cdn.skycdp.com\/Content\/DASH_003_720_120\/Live\/channel(skysportsfootball)\/manifest_720.mpd",
+"url":"https://linear019-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720-120.mpd",
 "logo":"https://www.thesportsdb.com/images/media/tvlogo/lnd1p01502554851.png",
 "country":"UK"
 }, 
