@@ -283,7 +283,7 @@
 "id":"DLinear501",
 "name":"DAZN RISE",
 "categories":["SPORTS"],
-"url":"https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd",
+"url":"dcj-ak-livedazn.akamaized.net/dash/dazn-linear-501/stream.mpd",
 "logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=dxaycmnfa2rc14y5ww482fi2l_image-header_pDach_1687955212000",
 "country":"DE"
 }, 
@@ -292,7 +292,7 @@
 "id":"DLinear502",
 "name":"DAZN COMBAT",
 "categories":["SPORTS"],
-"url":"https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd",
+"url":"https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-502/stream.mpd",
 "logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=1e8qv74kj9ru71k69jmgy26gow_image-header_pRow_1690455045000",
 "country":"DE"
 }, 
@@ -301,7 +301,7 @@
 "id":"DLinear503",
 "name":"DAZN WOMENS FOOTBALL",
 "categories":["SPORTS"],
-"url":"https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd",
+"url":"https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-503/stream.mpd",
 "logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=6kpp24j94emn1563o0hqjcxnl_image-header_pRow_1690455103000",
 "country":"DE"
 }, 
@@ -310,7 +310,7 @@
 "id":"DLinear504",
 "name":"DAZN FAST+",
 "categories":["SPORTS"],
-"url":"https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd",
+"url":"https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-504/stream.mpd",
 "logo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=jyy9jw5qg2fo1t2oucwjqzi6r_image-header_pDach_1690558178000",
 "country":"DE"
 },   
