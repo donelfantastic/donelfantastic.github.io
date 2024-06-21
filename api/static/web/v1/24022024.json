@@ -1,0 +1,165 @@
+[
+{
+"channel":"MuTV",
+"id":"MuTV",
+"name":"MUTV",
+"categories":["SPORTS"],
+"url":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/rpxxqy1433779967.png",
+"country":"UK"
+}, 
+{
+"channel":"RmTV.es",
+"id":"RmTV.es",
+"name":"RMTV ESP",
+"categories":["SPORTS"],
+"url":"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/xqwpww1436887616.png",
+"country":"ES"
+}, 
+{
+"channel":"RmTV.en",
+"id":"RmTV.en",
+"name":"RMTV ENG",
+"categories":["SPORTS"],
+"url":"https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/xqwpww1436887616.png",
+"country":"EN"
+},
+{
+"channel":"usaNetE.us",
+"id":"usaNetE.us",
+"name":"USA NETWORK (EAST)",
+"categories":["SPORTS"],
+"url":"https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/yswxwr1433432126.png",
+"country":"US"
+},   
+{
+"channel":"usaNetW.us",
+"id":"usaNetW.us",
+"name":"USA NETWORK (WEST)",
+"categories":["SPORTS"],
+"url":"https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/yswxwr1433432126.png",
+"country":"US"
+},   
+{
+"channel":"SkySUno.it",
+"id":"SkySUno.it",
+"name":"SKYSPORTS UNO",
+"categories":["SPORTS"],
+"url":"https:\/\/linear301-it-dash1-prd.selector.skycdn.it\/016a\/31023\/FHD\/skysportuno\/master.mpd",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_Uno.png",
+"country":"IT"
+},
+{
+"channel":"SkySCc.it",
+"id":"SkySCc.it",
+"name":"SKYSPORTS CALCIO",
+"categories":["SPORTS"],
+"url":"https:\/\/linear302-it-dash1-prd-ll.cdn13.skycdp.com\/016a\/31209\/FHD\/skysportseriea\/master.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/70ud6o1656963115.png",
+"country":"IT"
+}, 
+{
+"channel":"ArenaS1P",
+"id":"ArenaS1P",
+"name":"ARENASPORT PREMIUM",
+"categories":["SPORTS"],
+"url":"https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/wmvrmi1643205486.png",
+"country":"RS"
+}, 
+{
+"channel":"ArenaS2P",
+"id":"ArenaS2P",
+"name":"ARENASPORT 2 PREMIUM",
+"categories":["SPORTS"],
+"url":"https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/l4y8gt1643205498.png",
+"country":"RS"
+}, 
+{
+"channel":"ArenaS3P",
+"id":"ArenaS3P",
+"name":"ARENASPORT 3 PREMIUM",
+"categories":["SPORTS"],
+"url":"https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/gtlulj1643205508.png",
+"country":"RS"
+}, 
+{
+"channel":"ArenaS1x2",
+"id":"ArenaS1x2",
+"name":"ARENASPORT 1X2",
+"categories":["SPORTS"],
+"url":"https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/ih14ab1646222134.png",
+"country":"RS"
+}, 
+{
+"channel":"ArenaS1",
+"id":"ArenaS1",
+"name":"ARENASPORT",
+"categories":["SPORTS"],
+"url":"https://webtvstream.bhtelecom.ba/hls6/arena1.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/2v005r1643205531.png",
+"country":"RS"
+}, 
+{
+"channel":"ArenaS2",
+"id":"ArenaS2",
+"name":"ARENASPORT 2",
+"categories":["SPORTS"],
+"url":"https://webtvstream.bhtelecom.ba/hls6/arena2.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/m4cqz91643205540.png",
+"country":"RS"
+}, 
+{
+"channel":"ArenaS3",
+"id":"ArenaS3",
+"name":"ARENASPORT 3",
+"categories":["SPORTS"],
+"url":"https://webtvstream.bhtelecom.ba/hls6/arena3.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/yjqg7l1643205550.png",
+"country":"RS"
+}, 
+
+{
+"channel":"ArenaS4",
+"id":"ArenaS4",
+"name":"ARENASPORT 4",
+"categories":["SPORTS"],
+"url":"https://webtvstream.bhtelecom.ba/hls6/arena4.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/cvlppn1643205563.png",
+"country":"RS"
+}, 
+{
+"channel":"ArenaS5",
+"id":"ArenaS5",
+"name":"ARENASPORT 5",
+"categories":["SPORTS"],
+"url":"https://webtvstream.bhtelecom.ba/hls6/arena5.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/zu2qkb1643205581.png",
+"country":"RS"
+}, 
+{
+"channel":"ArenaS6",
+"id":"ArenaS6",
+"name":"ARENASPORT 6",
+"categories":["SPORTS"],
+"url":"https://webtvstream.bhtelecom.ba/hls6/arena6.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/gcy7ct1643205612.png",
+"country":"RS"
+},   
+{
+"channel":"ArenaSPL",
+"id":"ArenaSPL",
+"name":"ARENASPORT PREMIERE LEAGUE",
+"categories":["SPORTS"],
+"url":"https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd",
+"logo":"https://www.thesportsdb.com/images/media/league/logo/4c377s1535214890.png",
+"country":"RS"
+}
+]
