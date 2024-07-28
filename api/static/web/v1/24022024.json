@@ -5,7 +5,7 @@
 "name":"MUTV",
 "categories":["SPORTS"],
 "url":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/rpxxqy1433779967.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/rpxxqy1433779967.png",
 "country":"UK"
 }, 
 {
@@ -14,7 +14,7 @@
 "name":"RMTV ESP",
 "categories":["SPORTS"],
 "url":"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/xqwpww1436887616.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/trrqwt1433356293.png",
 "country":"ES"
 }, 
 {
@@ -23,7 +23,7 @@
 "name":"RMTV ENG",
 "categories":["SPORTS"],
 "url":"https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/xqwpww1436887616.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/trrqwt1433356293.png",
 "country":"EN"
 },
 {
@@ -44,24 +44,6 @@
 "logo":"https://www.thesportsdb.com/images/media/tvlogo/yswxwr1433432126.png",
 "country":"US"
 },   
-{
-"channel":"SkySUno.it",
-"id":"SkySUno.it",
-"name":"SKYSPORTS UNO",
-"categories":["SPORTS"],
-"url":"https:\/\/linear301-it-dash1-prd.selector.skycdn.it\/016a\/31023\/FHD\/skysportuno\/master.mpd",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_Uno.png",
-"country":"IT"
-},
-{
-"channel":"SkySCc.it",
-"id":"SkySCc.it",
-"name":"SKYSPORTS CALCIO",
-"categories":["SPORTS"],
-"url":"https:\/\/linear302-it-dash1-prd-ll.cdn13.skycdp.com\/016a\/31209\/FHD\/skysportseriea\/master.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/70ud6o1656963115.png",
-"country":"IT"
-}, 
 {
 "channel":"ArenaS1P",
 "id":"ArenaS1P",
