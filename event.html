@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>VOD Event | ILR</title>
+  <title>Live Event | Hadir Untuk Konawe</title>
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -353,10 +353,10 @@
   }
 //  var currentLocation = window.location.search;
 //  var stream_url = currentLocation.replace("?play&mediaType=all&live=true&url=", "");
-var liveNow = "//rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?anevia_date_begin=1709218836&anevia_date_end=1709228100";
+var liveNow = "//video.fbth8-1.fna.fbcdn.net/hvideo-rva-prn/_nc_cat-102/_nc_sr_t-4/v/rASe2eMU6fPl26BIG8b5w6vQcHgF4sk3yDdhuqQiYdHsZfg/_nc_ohc-3u7D9UkDeyQQ7kNvgH5vZ4S/live-dash/dash-abr-ibr-audio/1018786799601668.mpd?ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AYDKIJ6zvRwPfCDPtArGESVycq8TLJ0lgKG27z0M7Oq-WQ&oe=66C7B9BE";
   var source = {
-   hls: liveNow,
-    poster:"//www.visionplus.id/images/repository/520/78520-SNAPSHOT-l.jpg", //raw.githubusercontent.com/donelfantastic/donelfantastic.github.io/main/assets/dftv.gif"   
+   dash: liveNow,
+    poster:"//raw.githubusercontent.com/donelfantastic/donelfantastic.github.io/main/assets/dftv.gif"   
   };
  
   var player = new bitmovin.player.Player(container, config);
