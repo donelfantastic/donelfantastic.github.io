@@ -27,21 +27,12 @@
 "country":"EN"
 },
 {
-"channel":"usaNetE.us",
-"id":"usaNetE.us",
-"name":"USA NETWORK (EAST)",
-"categories":["SPORTS"],
-"url":"https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/yswxwr1433432126.png",
-"country":"US"
-},   
-{
 "channel":"usaNetW.us",
 "id":"usaNetW.us",
-"name":"USA NETWORK (WEST)",
+"name":"USA NETWORK",
 "categories":["SPORTS"],
 "url":"https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/yswxwr1433432126.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/yswxwr1433432126.png",
 "country":"US"
 },   
 {
@@ -50,7 +41,7 @@
 "name":"ARENASPORT PREMIUM",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/wmvrmi1643205486.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png",
 "country":"RS"
 }, 
 {
@@ -59,7 +50,7 @@
 "name":"ARENASPORT 2 PREMIUM",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/l4y8gt1643205498.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/l4y8gt1643205498.png",
 "country":"RS"
 }, 
 {
@@ -68,7 +59,7 @@
 "name":"ARENASPORT 3 PREMIUM",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/gtlulj1643205508.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/gtlulj1643205508.png",
 "country":"RS"
 }, 
 {
@@ -77,7 +68,7 @@
 "name":"ARENASPORT 1X2",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/ih14ab1646222134.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/ih14ab1646222134.png",
 "country":"RS"
 }, 
 {
@@ -86,7 +77,7 @@
 "name":"ARENASPORT",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/arena1.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/2v005r1643205531.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/2v005r1643205531.png",
 "country":"RS"
 }, 
 {
@@ -95,7 +86,7 @@
 "name":"ARENASPORT 2",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/arena2.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/m4cqz91643205540.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/m4cqz91643205540.png",
 "country":"RS"
 }, 
 {
@@ -104,7 +95,7 @@
 "name":"ARENASPORT 3",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/arena3.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/yjqg7l1643205550.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/yjqg7l1643205550.png",
 "country":"RS"
 }, 
 
@@ -114,7 +105,7 @@
 "name":"ARENASPORT 4",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/arena4.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/cvlppn1643205563.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/cvlppn1643205563.png",
 "country":"RS"
 }, 
 {
@@ -123,7 +114,7 @@
 "name":"ARENASPORT 5",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/arena5.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/zu2qkb1643205581.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/zu2qkb1643205581.png",
 "country":"RS"
 }, 
 {
@@ -132,7 +123,7 @@
 "name":"ARENASPORT 6",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/arena6.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/gcy7ct1643205612.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/gcy7ct1643205612.png",
 "country":"RS"
 },   
 {
