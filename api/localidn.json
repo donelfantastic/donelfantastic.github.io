@@ -1,16 +1,5 @@
 [
 {
-"channel": "Live Event",
-"id": "Live Event",
-"name": "LIVE EVENT",
-"categories": [
-"Local Tv"
-],
-"url": "",
-"logo": "https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png",
-"country": "ID"
-},
-{
 "channel": "ANTV",
 "id": "ANTV",
 "name": "ANTV",
@@ -39,7 +28,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/op-group1-swiftservehd-1.dens.tv\/h\/h207\/index.m3u8",
+"url": "https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd",
 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1500px-INDOSIAR_Logo.png",
 "country": "ID"
 },
@@ -50,7 +39,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https:\/\/op-group1-swiftservesd-1.dens.tv\/s\/s41\/index.m3u8",
+"url": "https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/moji-id.svg",
 "country": "ID"
 },  
