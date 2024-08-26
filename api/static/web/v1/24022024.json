@@ -179,5 +179,23 @@
 "url":"https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd",
 "logo":"https://www.thesportsdb.com/images/media/league/logo/4c377s1535214890.png",
 "country":"RS"
+},
+{
+"channel":"SpotvKr",
+"id":"SpotvKr",
+"name":"SPOTV",
+"categories":["SPORTS"],
+"url":"https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd",
+"logo":"https://www.firstmedia.com/files/logos/channels/12-SPORTS/SPOTV%20HD-FirstMedia-Chl-329.jpg",
+"country":"KR"
+}, 
+{
+"channel":"Spotv2Kr",
+"id":"Spotv2Kr",
+"name":"SPOTV 2",
+"categories":["SPORTS"],
+"url":"https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd",
+"logo":"https://www.firstmedia.com/files/logos/channels/12-SPORTS/SPOTV2%20HD-FirstMedia-Chl-330.jpg",
+"country":"KR"
 }
 ]
