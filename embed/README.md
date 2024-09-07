@@ -7,3 +7,5 @@
 
 
 <li>https://donelfantastic.github.io/embed/test_shaka.html</li>
+
+<li>https://donelfantastic.github.io/embed/test_clappr.html</li>
