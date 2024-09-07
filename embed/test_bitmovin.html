@@ -27,7 +27,7 @@
     arguments[1] = url;
     return opens.apply(this, arguments);
   }
-  var src = "https://cors.abc-akamaized.one/dash/live/2005218/dtv/dtvlatam_fox_sports_arg/master.mpd";
+  //var src = "https://cors.abc-akamaized.one/dash/live/2005218/dtv/dtvlatam_fox_sports_arg/master.mpd";
   //https://feedback.googleusercontent.com/gadgets/proxy?container=blogger&url=https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_5_864000.m3u8
   const container = document.getElementById('player');
   const playerConfig = {
@@ -49,14 +49,14 @@
       }
     }
   };
-  const BASE ='https://3rd.donelfantastic.workers.dev/';
+  //const BASE ='';
   const source = {
-    dash: BASE + 'https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd',
+    dash: 'https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd',
     poster: '',
     drm: {
       clearkey: [{
-        key: '03b47c8e5bdf41cbbbef29be6a18de9e',
-        kid: '3e13b4627eed3885cb58818fdc39d66f'
+        key: '002046c9a49b9ab1cdb6616bec5d26c3',
+        kid: 'd2f92f6b7edc9a1a05d393ba0c20ef9e'
       }]
     },
   };
