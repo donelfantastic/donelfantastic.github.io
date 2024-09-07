@@ -20,49 +20,49 @@ https://donelfantastic.github.io/live/skysportsNz9.m3u8
 
 
 #EXTINF:-1 group-title="optusSports.Au" tvg-logo="https://static.sport.optus.com.au/images/favicon-192x192-20180518.png",Optus Sports 1
-https://donelfantastic.github.io/live/optus1Sport.m3u8
+https://donelfantastic.github.io/live/optusSportsAu1.m3u8
 #EXTINF:-1 group-title="optusSports.Au" tvg-logo="https://static.sport.optus.com.au/images/favicon-192x192-20180518.png",Optus Sports 2
-https://donelfantastic.github.io/live/optus2Sport.m3u8
+https://donelfantastic.github.io/live/optusSportsAu2.m3u8
 #EXTINF:-1 group-title="optusSports.Au" tvg-logo="https://static.sport.optus.com.au/images/favicon-192x192-20180518.png",Optus Sports 3
-https://donelfantastic.github.io/live/optus3Sport.m3u8
+https://donelfantastic.github.io/live/optusSportsAu3.m3u8
 #EXTINF:-1 group-title="optusSports.Au" tvg-logo="https://static.sport.optus.com.au/images/favicon-192x192-20180518.png",Optus Sports 4
-https://donelfantastic.github.io/live/optus4Sport.m3u8
+https://donelfantastic.github.io/live/optusSportsAu4.m3u8
 #EXTINF:-1 group-title="optusSports.Au" tvg-logo="https://static.sport.optus.com.au/images/favicon-192x192-20180518.png",Optus Sports 5
-https://donelfantastic.github.io/live/optus5Sport.m3u8
+https://donelfantastic.github.io/live/optusSportsAu5.m3u8
 #EXTINF:-1 group-title="optusSports.Au" tvg-logo="https://static.sport.optus.com.au/images/favicon-192x192-20180518.png",Optus Sports 6
-https://donelfantastic.github.io/live/optus6Sport.m3u8
+https://donelfantastic.github.io/live/optusSportsAu6.m3u8
 #EXTINF:-1 group-title="optusSports.Au" tvg-logo="https://static.sport.optus.com.au/images/favicon-192x192-20180518.png",Optus Sports 7
-https://donelfantastic.github.io/live/optus7Sport.m3u8
+https://donelfantastic.github.io/live/optusSportsAu7.m3u8
 
 
 #EXTINF:-1 group-title="astroSsports.My" tvg-logo="https://camo.githubusercontent.com/d644419cf8a32b205ca08ee16e30b615a279bdfa3f0c1948f78d19fc769c688b/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3135345f3134342e706e67",Astro Supersports 
-https://donelfantastic.github.io/live/astroSsport.m3u8
+https://donelfantastic.github.io/live/astroSsportMy1.m3u8
 #EXTINF:-1 group-title="astroSsports.My" tvg-logo="https://camo.githubusercontent.com/f08d81cc47038b4913abfb4791fc16f5ce57d3be190bade90752b7b428fd45ad/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3133385f3134342e706e67",Astro Supersports 2 
-https://donelfantastic.github.io/live/astroSsport2.m3u8
+https://donelfantastic.github.io/live/astroSsportMy2.m3u8
 #EXTINF:-1 group-title="astroSsports.My" tvg-logo="https://camo.githubusercontent.com/c025fb15051179bf182b187ac8ddcb0541fb8555bbefab57a3aaa3071f4011c5/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3136345f3134342e706e67",Astro Supersports 3 
-https://donelfantastic.github.io/live/astroSsport3.m3u8
+https://donelfantastic.github.io/live/astroSsportMy3.m3u8
 #EXTINF:-1 group-title="astroSsports.My" tvg-logo="https://camo.githubusercontent.com/d699b16f8d5751e83b07ae64607039f9cb8ee0010caa09b4d12d41600e2031f2/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3234315f3134342e706e67",Astro Supersports 4
-https://donelfantastic.github.io/live/astroSsport4.m3u8
+https://donelfantastic.github.io/live/astroSsportMy4.m3u8
 
 
 #EXTINF:-1 group-title="starSports.In" tvg-logo="https://camo.githubusercontent.com/fdb306693db6cc3e523e5931db4c4457871c69b55ef754d125c11817438e3131/68747470733a2f2f696d616765737374617274762e77686174736f6e696e6469612e636f6d2f646173696d616765732f6368616e6e656c2f6c616e6473636170652f3130307837352f7a6c73725a4f77312e706e67",Star Sports 1
-https://donelfantastic.github.io/live/Starsports1-alt.m3u8
+#https://donelfantastic.github.io/live/Starsports1-alt.m3u8
 #EXTINF:-1 group-title="starSports.In" tvg-logo="https://camo.githubusercontent.com/d0764850f16ab83bff5bd03403771894ee4c2dbb47d836daf9c40370aed81926/68747470733a2f2f696d616765737374617274762e77686174736f6e696e6469612e636f6d2f646173696d616765732f6368616e6e656c2f6c616e6473636170652f3130307837352f4d427148517533502e706e67",Star Sports 2
-https://donelfantastic.github.io/live/Starsports2-alt.m3u8
+#https://donelfantastic.github.io/live/Starsports2-alt.m3u8
 #EXTINF:-1 group-title="starSports.In" tvg-logo="https://camo.githubusercontent.com/36de8515d0d76bade6d3c3911dd3a54b179a6992291481aead84889e1cfa6446/68747470733a2f2f696d616765737374617274762e77686174736f6e696e6469612e636f6d2f646173696d616765732f6368616e6e656c2f6c616e6473636170652f3130307837352f4c726f4a795950492e706e67",Star Sports 3
-https://donelfantastic.github.io/live/Starsports3-alt.m3u8
+#https://donelfantastic.github.io/live/Starsports3-alt.m3u8
 #EXTINF:-1 group-title="starSportsSelect.In" tvg-logo="https://camo.githubusercontent.com/c50f7a85a5a6e9aa90f5475d06b6744b824fbd3adbb20c104bc918a21e42554b/68747470733a2f2f696d616765737374617274762e77686174736f6e696e6469612e636f6d2f646173696d616765732f6368616e6e656c2f6c616e6473636170652f3130307837352f37335275356835652e706e67",Star Sports Select 1
-https://donelfantastic.github.io/live/Starsports_select1-alt.m3u8
+#https://donelfantastic.github.io/live/Starsports_select1-alt.m3u8
 #EXTINF:-1 group-title="starSportsSelect.In" tvg-logo="https://camo.githubusercontent.com/87dcd86722a4f10e18f852ff837f1e16fed472fc378d75e430911c91fe3812d3/68747470733a2f2f696d616765737374617274762e77686174736f6e696e6469612e636f6d2f646173696d616765732f6368616e6e656c2f6c616e6473636170652f3130307837352f59595a4675656e412e706e67",Star Sports Select 2
-https://donelfantastic.github.io/live/Starsports_select2-alt.m3u8
+#https://donelfantastic.github.io/live/Starsports_select2-alt.m3u8
 
 
 #EXTINF:-1 group-title="beinSportsENG.Qa" tvg-logo="https://camo.githubusercontent.com/9782880178c9332c189af13bf988b21ee028b842328cd3908d9d47860242fd21/68747470733a2f2f6173736574732e6265696e2e636f6d2f6d656e612f73697465732f332f323031352f30362f6265494e5f53504f525453315f454e474c4953485f4469676974616c5f4d6f6e6f2e706e67",Bein Sports English 1
-https://donelfantastic.github.io/live/beinSports1ENG.m3u8
+#https://donelfantastic.github.io/live/beinSports1ENG.m3u8
 #EXTINF:-1 group-title="beinSportsENG.Qa" tvg-logo="https://camo.githubusercontent.com/277a7e0d940ad8e9919aa46f7242e664d355806ef1a0fa4de82155206d6beaa6/68747470733a2f2f6173736574732e6265696e2e636f6d2f6d656e612f73697465732f332f323031352f30362f6265494e5f53504f525453325f454e474c4953485f4469676974616c5f4d6f6e6f2e706e67",Bein Sports English 2
-https://donelfantastic.github.io/live/beinSports2ENG.m3u8
+#https://donelfantastic.github.io/live/beinSports2ENG.m3u8
 #EXTINF:-1 group-title="beinSportsENG.Qa" tvg-logo="https://camo.githubusercontent.com/389b64d70c1e5fdfd42d98c9820653cfae6f86115d550da657ac3f620824e9b3/68747470733a2f2f6173736574732e6265696e2e636f6d2f6d656e612f73697465732f332f323031352f30362f6265494e5f53504f525453335f454e474c4953485f4469676974616c5f4d6f6e6f2e706e67",Bein Sports English 3
-https://donelfantastic.github.io/live/beinSports3ENG.m3u8
+#https://donelfantastic.github.io/live/beinSports3ENG.m3u8
 
 
 
