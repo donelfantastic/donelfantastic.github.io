@@ -57,7 +57,7 @@
           const ui = video['ui'];
           const controls = ui.getControls();
           const player = controls.getPlayer();
-          var linkSource ='https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd';
+          //var linkSource ='';
           //var proxy ='https://au.4everproxy.com/direct/';
           //var linkSource = proxy + atob('aHR0cHM6Ly9ldmVyeW9yaWdpbi5kZW5vLmRldi8/dXJsPWh0dHBzOi8vbGluZWFyLmF3cy5vcHR1c3ZpZGVvLnR2L3Y3L09wdHVzU3BvcnQxL3hidHNzL2RybS9hdmMvZGFzaC9wbGFpbi9tYW5pZmVzdC5tcGQ='); 
           player.configure({
@@ -72,7 +72,7 @@
                     player.addEventListener('error', onPlayerErrorEvent);
                     controls.addEventListener('error', onUIErrorEvent);
                     try {
-                      await player.load('linkSource');
+                      await player.load('https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd');
                       console.log('The video has now been loaded!');
                     } catch (error) {
                       onPlayerError(error);
