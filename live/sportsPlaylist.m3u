@@ -1,4 +1,5 @@
 #EXT3MU
+
 #EXTINF:-1 group-title="SkySports.Nz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png",Sky Sport 1
 https://donelfantastic.github.io/live/skysportsNz1.m3u8
 #EXTINF:-1 group-title="SkySports.Nz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png",Sky Sport 2
@@ -46,15 +47,15 @@ https://donelfantastic.github.io/live/astroSsportMy4.m3u8
 
 
 #EXTINF:-1 group-title="starSports.In" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/zlsrZOw1.png",Star Sports 1
-#https://donelfantastic.github.io/live/starSportsIn1.m3u8
+https://donelfantastic.github.io/live/starSportsIn1.m3u8
 #EXTINF:-1 group-title="starSports.In" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/MBqHQu3P.png",Star Sports 2
-#https://donelfantastic.github.io/live/starSportsIn2.m3u8
+https://donelfantastic.github.io/live/starSportsIn2.m3u8
 #EXTINF:-1 group-title="starSports.In" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/LroJyYPI.png",Star Sports 3
-#https://donelfantastic.github.io/live/starSportsIn3.m3u8
+https://donelfantastic.github.io/live/starSportsIn3.m3u8
 #EXTINF:-1 group-title="starSportsSelect.In" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/73Ru5h5e.png",Star Sports Select 1
-#https://donelfantastic.github.io/live/starSportsIn_select1.m3u8
+https://donelfantastic.github.io/live/starSportsIn_select1.m3u8
 #EXTINF:-1 group-title="starSportsSelect.In" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/YYZFuenA.png",Star Sports Select 2
-#https://donelfantastic.github.io/live/starSportsIn_select2.m3u8
+https://donelfantastic.github.io/live/starSportsIn_select2.m3u8
 
 
 #EXTINF:-1 group-title="beinSportsENG.Qa" tvg-logo="",Bein Sports English 1
