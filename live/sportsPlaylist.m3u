@@ -1,4 +1,5 @@
-#EXT3MU
+#EXTM3U 
+#EXTM3U url-tvg="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Hong%20Kong/nowtv.now.com.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Australia/sport.optus.com.au.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Malaysia/astro.com.my.E.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/New%20Zealand/sky.co.nz.channels.xml, http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/India/tatasky.com.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Singapore/starhubtvplus.com.channels.xml" refresh="3600"
 
 #EXTINF:-1 group-title="SkySports.Nz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png",Sky Sport 1
 https://donelfantastic.github.io/live/skysportsNz1.m3u8
@@ -58,21 +59,21 @@ https://donelfantastic.github.io/live/starSportsIn_select1.m3u8
 https://donelfantastic.github.io/live/starSportsIn_select2.m3u8
 
 
-#EXTINF:-1 group-title="nowSports.Hk" tvg-logo="https://i.imgur.com/D0GgEQR.png",Now Sports 4K
+#EXTINF:-1 group-title="nowSports.Hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80.png",Now Sports 4K
 https://donelfantastic.github.io/live/nowSportsHk4k.m3u8
-#EXTINF:-1 group-title="nowSports.Hk" tvg-logo="https://www.nowtv.now.com/media/logo/631-dbg-e.png",Now Sports 1
+#EXTINF:-1 group-title="nowSports.Hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_110_80.png",Now Sports 1
 https://donelfantastic.github.io/live/nowSportsHk1.m3u8
-#EXTINF:-1 group-title="nowSports.Hk" tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png",Now Sports 2
+#EXTINF:-1 group-title="nowSports.Hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_110_80.png",Now Sports 2
 https://donelfantastic.github.io/live/nowSportsHk2.m3u8
-#EXTINF:-1 group-title="nowSports.Hk" tvg-logo="https://www.nowtv.now.com/media/logo/633-dbg-e.png",Now Sports 3
+#EXTINF:-1 group-title="nowSports.Hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_110_80.png",Now Sports 3
 https://donelfantastic.github.io/live/nowSportsHk3.m3u8
-#EXTINF:-1 group-title="nowSports.Hk" tvg-logo="https://www.nowtv.now.com/media/logo/634-dbg-e.png",Now Sports 4
+#EXTINF:-1 group-title="nowSports.Hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_110_80.png",Now Sports 4
 https://donelfantastic.github.io/live/nowSportsHk4.m3u8
-#EXTINF:-1 group-title="nowSports.Hk" tvg-logo="https://www.nowtv.now.com/media/logo/635-dbg-e.png",Now Sports 5
+#EXTINF:-1 group-title="nowSports.Hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_110_80.png",Now Sports 5
 https://donelfantastic.github.io/live/nowSportsHk5.m3u8
-#EXTINF:-1 group-title="nowSports.Hk" tvg-logo="https://www.nowtv.now.com/media/logo/636-dbg-e.png",Now Sports 6
+#EXTINF:-1 group-title="nowSports.Hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_110_80.png",Now Sports 6
 https://donelfantastic.github.io/live/nowSportsHk6.m3u8
-#EXTINF:-1 group-title="nowSports.Hk" tvg-logo="https://www.nowtv.now.com/media/logo/637-dbg-e.png",Now Sports 7
+#EXTINF:-1 group-title="nowSports.Hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_110_80.png",Now Sports 7
 https://donelfantastic.github.io/live/nowSportsHk7.m3u8
 
 
