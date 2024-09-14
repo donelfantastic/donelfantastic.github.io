@@ -1,5 +1,10 @@
 #EXTM3U 
-#EXTM3U url-tvg="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Hong%20Kong/nowtv.now.com.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Australia/sport.optus.com.au.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Malaysia/astro.com.my.E.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/New%20Zealand/sky.co.nz.channels.xml, http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/India/tatasky.com.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Singapore/starhubtvplus.com.channels.xml" refresh="3600"
+#EXTM3U url-tvg="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Hong%20Kong/nowtv.now.com.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Australia/sport.optus.com.au.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Malaysia/astro.com.my.E.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/New%20Zealand/sky.co.nz.channels.xml, http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/India/tatasky.com.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Singapore/starhubtvplus.com.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/UK/skysports.com.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/UK/tvguide.co.uk.channels.xml,http://www.webgrabplus.com/sites/default/files/user/BeChan/bein.com_sports_en.channels_0.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/International/beinsports.com.mena_en.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/International/beinsports.com.mena_ar.channels.xml" refresh="3600"
+
+#EXTINF:-1 group-title="beinSportsENG.Ar" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",bein Sports English 1 
+https://donelfantastic.github.io/webiptv/live/beinSportsENG1.m3u8
+#EXTINF:-1 group-title="beinSportsENG.Ar" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png",bein Sports English 2 
+https://donelfantastic.github.io/webiptv/live/beinSportsENG2.m3u8
 
 #EXTINF:-1 group-title="skySports.Uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lnd1p01502554851.png",Sky Sports Football 
 https://donelfantastic.github.io/webiptv/live/skySportsFBUk.m3u8
@@ -7,7 +12,12 @@ https://donelfantastic.github.io/webiptv/live/skySportsFBUk.m3u8
 https://donelfantastic.github.io/webiptv/live/skySportsMEUk.m3u8
 #EXTINF:-1 group-title="skySports.Uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b8avz51719570023.png",Sky Sports Premier League 
 https://donelfantastic.github.io/webiptv/live/skySportsPLUk.m3u8
-
+#EXTINF:-1 group-title="skySports.Uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/82plpt1601128493.png",Sky Sports Arena 
+https://donelfantastic.github.io/webiptv/live/skySportsArUk.m3u8
+#EXTINF:-1 group-title="skySports.Uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7io5181634762176.png",Sky Sports Action 
+https://donelfantastic.github.io/webiptv/live/skySportsActUk.m3u8
+#EXTINF:-1 group-title="skySports.Uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/Sky_Sports_Mix.png",Sky Sports Mix 
+https://donelfantastic.github.io/webiptv/live/skySportsMixUk.m3u8
 
 #EXTINF:-1 group-title="playSports.Be" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/Play_Sports_1.png",Play Sports 1 
 https://donelfantastic.github.io/webiptv/live/playSportsBe1.m3u8
@@ -15,6 +25,18 @@ https://donelfantastic.github.io/webiptv/live/playSportsBe1.m3u8
 https://donelfantastic.github.io/webiptv/live/playSportsBe2.m3u8
 #EXTINF:-1 group-title="playSports.Be" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/Play_Sports_3.png",Play Sports 3 
 https://donelfantastic.github.io/webiptv/live/playSportsBe3.m3u8
+
+
+#EXTINF:-1 group-title="tntSports.Uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT Sports 1 
+https://donelfantastic.github.io/webiptv/live/tntSportsUk1.m3u8
+#EXTINF:-1 group-title="tntSports.Uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",TNT Sports 2 
+https://donelfantastic.github.io/webiptv/live/tntSportsUk2.m3u8
+#EXTINF:-1 group-title="tntSports.Uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",TNT Sports 3 
+https://donelfantastic.github.io/webiptv/live/tntSportsUk3.m3u8
+#EXTINF:-1 group-title="tntSports.Uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/13fost1689746391.png",TNT Sports 4 
+https://donelfantastic.github.io/webiptv/live/tntSportsUk4.m3u8
+#EXTINF:-1 group-title="tntSports.Uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/za5ba01689746204.png",TNT Sports 5 
+https://donelfantastic.github.io/webiptv/live/tntSportsUk5.m3u8
 
 
 #EXTINF:-1 group-title="SkySports.Nz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png",Sky Sport 1
@@ -111,4 +133,6 @@ https://donelfantastic.github.io/live/nowPremierSportsHk1.m3u8
 https://donelfantastic.github.io/live/nowPremierSportsHk1.m3u8
 
 
+#EXTINF:-1 group-title="sportsdigital.De" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/m6qkm51712223494.png",Sport Digital Fussball 
+https://donelfantastic.github.io/webiptv/live/sportDigitalFussballDe.m3u8
 
