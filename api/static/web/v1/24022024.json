@@ -11,7 +11,7 @@
 {
 "channel":"RmTV.es",
 "id":"RmTV.es",
-"name":"RMTV ESP",
+"name":"RMTV ES",
 "categories":["SPORTS"],
 "url":"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/trrqwt1433356293.png",
@@ -20,11 +20,29 @@
 {
 "channel":"RmTV.en",
 "id":"RmTV.en",
-"name":"RMTV ENG",
+"name":"RMTV EN",
 "categories":["SPORTS"],
 "url":"https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/trrqwt1433356293.png",
 "country":"EN"
+},
+{
+"channel":"beinXtra.en",
+"id":"beinXtra.en",
+"name":"BEIN SPORTS XTRA EN",
+"categories":["SPORTS"],
+"url":"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8",
+"logo":"https://prod-media.beinsports.com/image/f51ff5e82c61a9c21b95a001fdc6c241.png",
+"country":"EN"
+},
+{
+"channel":"beinXtra.es",
+"id":"beinXtra.en",
+"name":"BEIN SPORTS XTRA ES",
+"categories":["SPORTS"],
+"url":"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8",
+"logo":"https://prod-media.beinsports.com/image/5ffc1e310fee3b18af752d09df335833.png",
+"country":"ES"
 },
 {
 "channel":"usaNetW.us",
