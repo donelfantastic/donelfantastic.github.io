@@ -26,6 +26,15 @@
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/trrqwt1433356293.png",
 "country":"EN"
 },
+  {
+"channel":"beinSports.us",
+"id":"beinSports.us",
+"name":"BEIN SPORTS US",
+"categories":["SPORTS"],
+"url":"https://fl2.moveonjoy.com/BEIN_SPORTS/manifest.mpd",
+"logo":"https://prod-media.beinsports.com/image/498f84ba449942229231dcfbbee14ea1.png",
+"country":"US"
+},
 {
 "channel":"beinXtra.en",
 "id":"beinXtra.en",
@@ -44,6 +53,33 @@
 "logo":"https://prod-media.beinsports.com/image/5ffc1e310fee3b18af752d09df335833.png",
 "country":"ES"
 },
+{
+"channel":"cbsSN.us",
+"id":"cbsSN.us",
+"name":"CBS SPORTS NETWORK",
+"categories":["SPORTS"],
+"url":"https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/manifest.mpd",
+"logo":"https://i.imgur.com/LgboQOj.png",
+"country":"US"
+},
+{
+"channel":"fuboSportNetW.us",
+"id":"fuboSportNetW.us",
+"name":"FUBO SPORTS NETWORK",
+"categories":["SPORTS"],
+"url":"https://cors-proxy.cooks.fyi/lnc-fubo.tubi.video/master.m3u8",
+"logo":"https://cdn.tvpassport.com/image/station/240x135/v2/s106100_h15_ab.png",
+"country":"US"
+},
+{
+"channel":"espnU.us",
+"id":"espnU.us",
+"name":"ESPN U",
+"categories":["SPORTS"],
+"url":"https://fl5.moveonjoy.com/ESPN_U/manifest.mpd",
+"logo":"https://cdn.tvpassport.com/image/station/240x135/v2/s60696_h15_aa.png",
+"country":"US"
+},   
 {
 "channel":"usaNetW.us",
 "id":"usaNetW.us",
@@ -257,7 +293,7 @@
 "id":"trueBS2.th",
 "name":"TRUE BEINSPORTS 2",
 "categories":["SPORTS"],
-"url":"https://media.wacthstream.com/stream_live/608_BEIN2/manifest.mpd",
+"url":"",
 "logo":"https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png",
 "country":"TH"
 },
@@ -266,7 +302,7 @@
 "id":"trueBS3.th",
 "name":"TRUE BEINSPORTS 3",
 "categories":["SPORTS"],
-"url":"https://media.wacthstream.com/stream_live/609_BEIN3/manifest.mpd",
+"url":"",
 "logo":"https://truevisions.co.th/static/b5c591af-060c-48ea-91ec-e1a230818c27.png",
 "country":"TH"
 },
@@ -275,7 +311,7 @@
 "id":"truePF1.th",
 "name":"TRUE PREMIERE FOOTBALL 1",
 "categories":["SPORTS"],
-"url":"https://media.wacthstream.com/stream_live/600_eng1./manifest.mpd",
+"url":"",
 "logo":"https://truevisions.co.th/static/ba1de35c-8a25-47de-a27c-5cd8f705a14f.png",
 "country":"TH"
 },
@@ -284,7 +320,7 @@
 "id":"truePF2.th",
 "name":"TRUE PREMIERE FOOTBALL 2",
 "categories":["SPORTS"],
-"url":"https://media.wacthstream.com/stream_live/602_eng2/manifest.mpd",
+"url":"",
 "logo":"https://truevisions.co.th/static/f815743f-72e1-4dcc-ad17-925657183a24.png",
 "country":"TH"
 },
@@ -293,7 +329,7 @@
 "id":"truePF3.th",
 "name":"TRUE PREMIERE FOOTBALL 3",
 "categories":["SPORTS"],
-"url":"https://media.wacthstream.com/stream_live/603_eng3./manifest.mpd",
+"url":"",
 "logo":"https://truevisions.co.th/static/1c11f698-75a0-449d-8a79-6a52be569911.png",
 "country":"TH"
 },
@@ -302,7 +338,7 @@
 "id":"truePF4.th",
 "name":"TRUE PREMIERE FOOTBALL 4",
 "categories":["SPORTS"],
-"url":"https://media.wacthstream.com/stream_live/604_eng4/manifest.mpd",
+"url":",
 "logo":"https://truevisions.co.th/static/1be50729-1560-4f16-88a8-6ac653afe8e1.png",
 "country":"TH"
 },
@@ -311,7 +347,7 @@
 "id":"truePF5.th",
 "name":"TRUE PREMIERE FOOTBALL 5",
 "categories":["SPORTS"],
-"url":"https://media.wacthstream.com/stream_live/605_eng5/manifest.mpd",
+"url":"",
 "logo":"https://truevisions.co.th/static/133a8160-6e09-4c7f-80e4-39a45f296d00.png",
 "country":"TH"
 },
@@ -320,7 +356,7 @@
 "id":"trueSp1.th",
 "name":"TRUE SPORT 1",
 "categories":["SPORTS"],
-"url":"https://media.wacthstream.com/stream_live/666_Ts_HD1/manifest.mpd",
+"url":"",
 "logo":"https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
 "country":"TH"
 },
@@ -329,7 +365,7 @@
 "id":"trueSp2.th",
 "name":"TRUE SPORT 2",
 "categories":["SPORTS"],
-"url":"https://media.wacthstream.com/stream_live/667_Ts_HD2/manifest.mpd",
+"url":"",
 "logo":"https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
 "country":"TH"
 },
@@ -338,7 +374,7 @@
 "id":"trueSp3.th",
 "name":"TRUE SPORT 3",
 "categories":["SPORTS"],
-"url":"https://media.wacthstream.com/stream_live/668_Ts_HD3./manifest.mpd",
+"url":"",
 "logo":"https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",
 "country":"TH"
 },
@@ -347,7 +383,7 @@
 "id":"trueSp4.th",
 "name":"TRUE SPORT 4",
 "categories":["SPORTS"],
-"url":"https://media.wacthstream.com/stream_live/669_Ts_HD4/manifest.mpd",
+"url":"",
 "logo":"https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp",
 "country":"TH"
 },
@@ -356,7 +392,7 @@
 "id":"trueSp5.th",
 "name":"TRUE SPORT 5",
 "categories":["SPORTS"],
-"url":"https://media.wacthstream.com/stream_live/684_TSP5/manifest.mpd",
+"url":"",
 "logo":"https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
 "country":"TH"
 },
@@ -365,7 +401,7 @@
 "id":"trueSp7.th",
 "name":"TRUE SPORT 7",
 "categories":["SPORTS"],
-"url":"https://media.wacthstream.com/stream_live/686_TSP7/manifest.mpd",
+"url":"",
 "logo":"https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
 "country":"TH"
 },  
