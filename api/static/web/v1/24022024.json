@@ -404,7 +404,52 @@
 "url":"",
 "logo":"https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
 "country":"TH"
-},  
+},
+{
+"channel":"skySport.Kr",
+"id":"skySport.Kr",
+"name":"SKYSPORTS",
+"categories":["SPORTS"],
+"url":"https://z88.ubtvfans.com/live/rx3/2352/b171978e7b8f035e22f3b66a5277fa40/index.m3u8",
+"logo":"https://i.namu.wiki/i/oQOlX2mPOBE-a1B9lnn7f9OnQOlE5P0253dJq_pwpH3mStV73pjc-LhJHhEv_uXWsypY4V8SHuOKdTuURC5LC6fUgHmWor1EIW2ITP71u5tmBSdxLhXMjkW_vLr_1RAqLRY2AMuM_Ial35NS251rqGouZhHK7AWs03sK_zyN-OM.svg",
+"country":"KR"
+},
+{
+"channel":"sbsSport.Kr",
+"id":"sbsSport.Kr",
+"name":"SBS SPORTS",
+"categories":["SPORTS"],
+"url":"https://z88.ubtvfans.com/live/rx3/2354/6555f7be5acc837c1d54ce718f7ba0fc/index.m3u8",
+"logo":"https://i.namu.wiki/i/oQOlX2mPOBE-a1B9lnn7f989xG1qEwMQDlcargYx5HlTzdKWzZ2dfo8Uf2hNUKgS-yPgD0cnLu9yCoFqvweaXUv1W-91d6NH52TYzPYY13DonjsnOzrdqRGkxj16fzlQiqZi1BUw7onIITF_rlfsBr67HfvMyxDWQoGJObmbJwE.svg",
+"country":"KR"
+},
+{
+"channel":"mbcSport.Kr",
+"id":"mbcSport.Kr",
+"name":"MBC SPORTS",
+"categories":["SPORTS"],
+"url":"https://z88.ubtvfans.com/live/rx2/3174/bf6c378d2a26a26b066571089ffff070/index.m3u8",
+"logo":"https://i.namu.wiki/i/oQOlX2mPOBE-a1B9lnn7f3T80yLoR6OrTcPoT8_Woi9IhCfd088HyZYbKqY-_yKUtHsawAbc1LwgqJReRA7k460QDHTvxvUb_UzS-NlQu2-ad8bBl43IKx8Y5tVmuCSeOAlXwjfoHEGpI3MeLfJzHOPLa4kjLVPVbmoVx8bNBVs.svg",
+"country":"KR"
+},
+{
+"channel":"kbsnSport.Kr",
+"id":"kbsnSport.Kr",
+"name":"KBS N SPORTS",
+"categories":["SPORTS"],
+"url":"https://z88.ubtvfans.com/live/rx2/174/f021cba099403644d620723c5f4c46f1/index.m3u8",
+"logo":"https://i.namu.wiki/i/oQOlX2mPOBE-a1B9lnn7f-mcCb8Vn2hVsMOoV1OMbdKevg8SU7QjwT1oFL66SQqB-yeFJI41pXLA0gwLDZ7Ko8_Dl4kvY36yqt_7JJYoXICQFNpF6Duf7KsJ2kuzJYQ41LEiaE9vwEVN7hlVDj55DwBRZeAcD3y9Mbi0QZimMiU.svg",
+"country":"KR"
+},
+{
+"channel":"tvnSport.Kr",
+"id":"tvnSport.Kr",
+"name":"TVN SPORTS",
+"categories":["SPORTS"],
+"url":"https://z88.ubtvfans.com/live/rx3/2931/b5f5636d01d91997de849d87e530f67f/index.m3u8",
+"logo":"https://i.namu.wiki/i/oQOlX2mPOBE-a1B9lnn7f3_QbMpImPItr-rJ78-Z_d5JaqjaIvJ1RYyDDqr4daVCalGZ4qYnViSAyg6gE__flJEaDQ3U4_hnlDPReY_Cdt1KOyD0GR0VX-iGffxcANd1X_QZVi_vwPIF6zMh8As2LNam7QYukPPWuKaRINiOETc.svg",
+"country":"KR"
+},
 {
 "channel":"SpotvKr",
 "id":"SpotvKr",
