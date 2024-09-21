@@ -128,10 +128,10 @@
 {
 "channel":"nbcS4.Us",
 "id":"nbcS4.Us",
-"name":"NBC",
+"name":"NBC SPORTS",
 "categories":["SPORTS"],
 "url":"https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd",
-"logo":"https://img.nbc.com/files/images/2023/1/05/NBC-Logo-Stacked-ColorBlack-318x300.png",
+"logo":"https://nbcsports.brightspotcdn.com/7e/64/509b5f2e485994bb3a02473406cc/nbc-sports-2023.svg",
 "country":"US"
 },  
 {
