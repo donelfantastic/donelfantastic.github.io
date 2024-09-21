@@ -284,7 +284,7 @@
 "id":"trueBS1.th",
 "name":"TRUE BEINSPORTS 1",
 "categories":["SPORTS"],
-"url":"https://media.wacthstream.com/stream_live/607_BEIN1/manifest.mpd",
+"url":"https://www.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8",
 "logo":"https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png",
 "country":"TH"
 },
@@ -293,7 +293,7 @@
 "id":"trueBS2.th",
 "name":"TRUE BEINSPORTS 2",
 "categories":["SPORTS"],
-"url":"",
+"url":"https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8",
 "logo":"https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png",
 "country":"TH"
 },
@@ -302,7 +302,7 @@
 "id":"trueBS3.th",
 "name":"TRUE BEINSPORTS 3",
 "categories":["SPORTS"],
-"url":"",
+"url":"https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8",
 "logo":"https://truevisions.co.th/static/b5c591af-060c-48ea-91ec-e1a230818c27.png",
 "country":"TH"
 },
@@ -311,7 +311,7 @@
 "id":"truePF1.th",
 "name":"TRUE PREMIERE FOOTBALL 1",
 "categories":["SPORTS"],
-"url":"",
+"url":"https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8",
 "logo":"https://truevisions.co.th/static/ba1de35c-8a25-47de-a27c-5cd8f705a14f.png",
 "country":"TH"
 },
@@ -320,7 +320,7 @@
 "id":"truePF2.th",
 "name":"TRUE PREMIERE FOOTBALL 2",
 "categories":["SPORTS"],
-"url":"",
+"url":"https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8",
 "logo":"https://truevisions.co.th/static/f815743f-72e1-4dcc-ad17-925657183a24.png",
 "country":"TH"
 },
@@ -329,7 +329,7 @@
 "id":"truePF3.th",
 "name":"TRUE PREMIERE FOOTBALL 3",
 "categories":["SPORTS"],
-"url":"",
+"url":"https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8",
 "logo":"https://truevisions.co.th/static/1c11f698-75a0-449d-8a79-6a52be569911.png",
 "country":"TH"
 },
@@ -338,7 +338,7 @@
 "id":"truePF4.th",
 "name":"TRUE PREMIERE FOOTBALL 4",
 "categories":["SPORTS"],
-"url":"",
+"url":"https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8",
 "logo":"https://truevisions.co.th/static/1be50729-1560-4f16-88a8-6ac653afe8e1.png",
 "country":"TH"
 },
@@ -347,7 +347,7 @@
 "id":"truePF5.th",
 "name":"TRUE PREMIERE FOOTBALL 5",
 "categories":["SPORTS"],
-"url":"",
+"url":"https://www.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8",
 "logo":"https://truevisions.co.th/static/133a8160-6e09-4c7f-80e4-39a45f296d00.png",
 "country":"TH"
 },
