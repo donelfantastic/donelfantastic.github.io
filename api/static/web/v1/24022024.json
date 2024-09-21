@@ -284,7 +284,7 @@
 "id":"trueBS1.th",
 "name":"TRUE BEINSPORTS 1",
 "categories":["SPORTS"],
-"url":"https://www.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8",
+"url":"https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
 "logo":"https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png",
 "country":"TH"
 },
@@ -293,7 +293,7 @@
 "id":"trueBS2.th",
 "name":"TRUE BEINSPORTS 2",
 "categories":["SPORTS"],
-"url":"https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8",
+"url":"https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
 "logo":"https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png",
 "country":"TH"
 },
@@ -302,7 +302,7 @@
 "id":"trueBS3.th",
 "name":"TRUE BEINSPORTS 3",
 "categories":["SPORTS"],
-"url":"https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8",
+"url":"https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
 "logo":"https://truevisions.co.th/static/b5c591af-060c-48ea-91ec-e1a230818c27.png",
 "country":"TH"
 },
