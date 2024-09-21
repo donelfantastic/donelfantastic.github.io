@@ -280,6 +280,78 @@
 "country":"RS"
 },
 {
+"channel":"astroSS1.my",
+"id":"astroSS1.my",
+"name":"ASTRO SUPERSPORT",
+"categories":["SPORTS"],
+"url":"https://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8",
+"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",
+"country":"MY"
+}, 
+{
+"channel":"astroSS2.my",
+"id":"astroSS2.my",
+"name":"ASTRO SUPERSPORT 2",
+"categories":["SPORTS"],
+"url":"https://z88.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8",
+"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",
+"country":"MY"
+}, 
+{
+"channel":"astroSS3.my",
+"id":"astroSS3.my",
+"name":"ASTRO SUPERSPORT 3",
+"categories":["SPORTS"],
+"url":"https://z88.ubtvfans.com/live/rx3/1072/c67b9eaba4040f95114b5ab2e813b322/index.m3u8",
+"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",
+"country":"MY"
+},
+{
+"channel":"astroSS4.my",
+"id":"astroSS4.my",
+"name":"ASTRO SUPERSPORT 4",
+"categories":["SPORTS"],
+"url":"https://z88.ubtvfans.com/live/rx3/3234/5016da2dd917732ed971bddb4cefd646/index.m3u8",
+"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",
+"country":"MY"
+},
+{
+"channel":"premierSp1.uk",
+"id":"premierSp1.uk",
+"name":"PREMIER SPORTS 1",
+"categories":["SPORTS"],
+"url":"https://z88.ubtvfans.com/live/rx3/1411/5b143685850adfe910301ac9f9bdbbf3/index.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/Premier_Sports.png",
+"country":"UK"
+},
+{
+"channel":"SkySPL.uk",
+"id":"SkySPL.uk",
+"name":"SKYSPORTS PREMIER LEAGUE",
+"categories":["SPORTS"],
+"url":"https://z88.ubtvfans.com/live/rx3/2783/09a0960767adcd947954d242971951e8/index.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/7e2lv21502554825.png",
+"country":"UK"
+}, 
+{
+"channel":"SkySME.uk",
+"id":"SkySME.uk",
+"name":"SKYSPORTS MAIN EVENT",
+"categories":["SPORTS"],
+"url":"https://z88.ubtvfans.com/live/rx3/2787/540958cfc667da8028df5cba48468db7/index.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/mp44981502554837.png",
+"country":"UK"
+}, 
+{
+"channel":"SkySUno.it",
+"id":"SkySUno.it",
+"name":"SKYSPORTS UNO",
+"categories":["SPORTS"],
+"url":"https://z88.ubtvfans.com/live/rx3/1597/4969c926b3543d36620d428e3e77bb9b/index.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_Uno.png",
+"country":"IT"
+},
+{
 "channel":"trueBS1.th",
 "id":"trueBS1.th",
 "name":"TRUE BEINSPORTS 1",
