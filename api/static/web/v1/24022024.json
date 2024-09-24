@@ -321,7 +321,7 @@
 "name":"PREMIER SPORTS 1",
 "categories":["SPORTS"],
 "url":"https://z88.ubtvfans.com/live/rx3/1411/5b143685850adfe910301ac9f9bdbbf3/index.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/Premier_Sports.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/Premier_Sports.png",
 "country":"UK"
 },
 {
@@ -330,7 +330,7 @@
 "name":"SKYSPORTS PREMIER LEAGUE",
 "categories":["SPORTS"],
 "url":"https://z88.ubtvfans.com/live/rx3/2783/09a0960767adcd947954d242971951e8/index.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/7e2lv21502554825.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/7e2lv21502554825.png",
 "country":"UK"
 }, 
 {
@@ -339,7 +339,7 @@
 "name":"SKYSPORTS MAIN EVENT",
 "categories":["SPORTS"],
 "url":"https://z88.ubtvfans.com/live/rx3/2787/540958cfc667da8028df5cba48468db7/index.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/mp44981502554837.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/mp44981502554837.png",
 "country":"UK"
 }, 
 {
@@ -348,7 +348,7 @@
 "name":"SKYSPORTS UNO",
 "categories":["SPORTS"],
 "url":"https://z88.ubtvfans.com/live/rx3/1597/4969c926b3543d36620d428e3e77bb9b/index.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_Uno.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/Sky_Sport_Uno.png",
 "country":"IT"
 },
 {
@@ -356,7 +356,7 @@
 "id":"trueBS1.th",
 "name":"TRUE BEINSPORTS 1",
 "categories":["SPORTS"],
-"url":"https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
+"url":"https://www.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8",
 "logo":"https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png",
 "country":"TH"
 },
@@ -365,7 +365,7 @@
 "id":"trueBS2.th",
 "name":"TRUE BEINSPORTS 2",
 "categories":["SPORTS"],
-"url":"https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
+"url":"https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8",
 "logo":"https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png",
 "country":"TH"
 },
