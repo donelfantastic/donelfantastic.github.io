@@ -352,6 +352,15 @@
 "country":"IT"
 },
 {
+"channel":"skysp0rtsCC.it",
+"id":"skysp0rtsCC.it",
+"name":"SKYSPORTS CALCIO",
+"categories":["SPORTS"],
+"url":"",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/tiny/70ud6o1656963115.png",
+"country":"IT"
+},
+{
 "channel":"trueBS1.th",
 "id":"trueBS1.th",
 "name":"TRUE BEINSPORTS 1",
