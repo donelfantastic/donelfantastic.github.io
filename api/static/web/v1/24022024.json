@@ -83,10 +83,19 @@
 {
 "channel":"usaNetW.us",
 "id":"usaNetW.us",
-"name":"USA NETWORK",
+"name":"USA NETWORK W",
 "categories":["SPORTS"],
 "url":"https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/yswxwr1433432126.png",
+"country":"US"
+},
+{
+"channel":"usaNetE.us",
+"id":"usaNetE.us",
+"name":"USA NETWORK E",
+"categories":["SPORTS"],
+"url":"https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd",
+"logo":"https://nbcsports.brightspotcdn.com/91/7a/08fa98394d25966ebd32ab9e13f9/usa-color.svg",
 "country":"US"
 },
 {
