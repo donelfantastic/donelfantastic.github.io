@@ -338,7 +338,7 @@
 "id":"SkySPL.uk",
 "name":"SKYSPORTS PREMIER LEAGUE",
 "categories":["SPORTS"],
-"url":"https://z88.ubtvfans.com/live/rx3/2783/09a0960767adcd947954d242971951e8/index.m3u8",
+"url":["https://z88.ubtvfans.com/live/rx3/2783/613c7ae134611cf33182514678f68c45/index.m3u8", "https://z88.ubtvfans.com/live/rx3/2783/09a0960767adcd947954d242971951e8/index.m3u8"],
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/7e2lv21502554825.png",
 "country":"UK"
 }, 
