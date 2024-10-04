@@ -31,7 +31,7 @@
 "id":"beinSports.us",
 "name":"BEIN SPORTS US",
 "categories":["SPORTS"],
-"url":"https://fl2.moveonjoy.com/BEIN_SPORTS/manifest.mpd",
+"url":"https://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8",
 "logo":"https://prod-media.beinsports.com/image/498f84ba449942229231dcfbbee14ea1.png",
 "country":"US"
 },
