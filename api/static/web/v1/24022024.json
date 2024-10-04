@@ -31,7 +31,7 @@
 "id":"beinSports.us",
 "name":"BEIN SPORTS US",
 "categories":["SPORTS"],
-"url":"https://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8",
+"url":"https://fl2.moveonjoy.com/BEIN_SPORTS/manifest.mpd",
 "logo":"https://prod-media.beinsports.com/image/498f84ba449942229231dcfbbee14ea1.png",
 "country":"US"
 },
@@ -40,7 +40,7 @@
 "id":"beinXtra.en",
 "name":"BEIN SPORTS XTRA EN",
 "categories":["SPORTS"],
-"url":"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8",
+"url":"",
 "logo":"https://prod-media.beinsports.com/image/f51ff5e82c61a9c21b95a001fdc6c241.png",
 "country":"EN"
 },
@@ -49,7 +49,7 @@
 "id":"beinXtra.en",
 "name":"BEIN SPORTS XTRA ES",
 "categories":["SPORTS"],
-"url":"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8",
+"url":"",
 "logo":"https://prod-media.beinsports.com/image/5ffc1e310fee3b18af752d09df335833.png",
 "country":"ES"
 },
@@ -67,7 +67,7 @@
 "id":"fuboSportNetW.us",
 "name":"FUBO SPORTS NETWORK",
 "categories":["SPORTS"],
-"url":"https://cors-proxy.cooks.fyi/lnc-fubo.tubi.video/master.m3u8",
+"url":"",
 "logo":"https://cdn.tvpassport.com/image/station/240x135/v2/s106100_h15_ab.png",
 "country":"US"
 },
