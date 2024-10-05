@@ -85,7 +85,7 @@
 "id":"usaNetW.us",
 "name":"USA NETWORK W",
 "categories":["SPORTS"],
-"url":"https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd",
+"url":"https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/yswxwr1433432126.png",
 "country":"US"
 },
