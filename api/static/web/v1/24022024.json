@@ -189,6 +189,34 @@
 "country":"UK"
 },
 {
+"channel":"dazn1.es",
+"id":"dazn1.es",
+"name":"DAZN 1 ES",
+"categories":["SPORTS"],
+"url":"https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png",
+"country":"ES"
+},
+{
+"channel":"dazn2.es",
+"id":"dazn2.es",
+"name":"DAZN 1 ES",
+"categories":["SPORTS"],
+"url":"https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png",
+"country":"ES"
+},
+ {
+"channel":"daznLaliga.es",
+"id":"daznLaliga.es",
+"name":"DAZN LALIGA ES",
+"categories":["SPORTS"],
+"url":"https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png",
+"country":"ES"
+},
+
+{
 "channel":"ArenaS1P",
 "id":"ArenaS1P",
 "name":"ARENASPORT PREMIUM",
