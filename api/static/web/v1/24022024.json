@@ -26,60 +26,6 @@
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/trrqwt1433356293.png",
 "country":"EN"
 },
-  {
-"channel":"beinSports.us",
-"id":"beinSports.us",
-"name":"BEIN SPORTS US",
-"categories":["SPORTS"],
-"url":"https://fl2.moveonjoy.com/BEIN_SPORTS/manifest.mpd",
-"logo":"https://prod-media.beinsports.com/image/498f84ba449942229231dcfbbee14ea1.png",
-"country":"US"
-},
-{
-"channel":"beinXtra.en",
-"id":"beinXtra.en",
-"name":"BEIN SPORTS XTRA EN",
-"categories":["SPORTS"],
-"url":"https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
-"logo":"https://prod-media.beinsports.com/image/f51ff5e82c61a9c21b95a001fdc6c241.png",
-"country":"EN"
-},
-{
-"channel":"beinXtra.es",
-"id":"beinXtra.en",
-"name":"BEIN SPORTS XTRA ES",
-"categories":["SPORTS"],
-"url":"",
-"logo":"https://prod-media.beinsports.com/image/5ffc1e310fee3b18af752d09df335833.png",
-"country":"ES"
-},
-{
-"channel":"cbsSN.us",
-"id":"cbsSN.us",
-"name":"CBS SPORTS NETWORK",
-"categories":["SPORTS"],
-"url":"https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/manifest.mpd",
-"logo":"https://i.imgur.com/LgboQOj.png",
-"country":"US"
-},
-{
-"channel":"fuboSportNetW.us",
-"id":"fuboSportNetW.us",
-"name":"FUBO SPORTS NETWORK",
-"categories":["SPORTS"],
-"url":"",
-"logo":"https://cdn.tvpassport.com/image/station/240x135/v2/s106100_h15_ab.png",
-"country":"US"
-},
-{
-"channel":"espnU.us",
-"id":"espnU.us",
-"name":"ESPN U",
-"categories":["SPORTS"],
-"url":"https://fl5.moveonjoy.com/ESPN_U/manifest.mpd",
-"logo":"https://cdn.tvpassport.com/image/station/240x135/v2/s60696_h15_aa.png",
-"country":"US"
-},   
 {
 "channel":"usaNetW.us",
 "id":"usaNetW.us",
@@ -317,11 +263,65 @@
 "country":"RS"
 },
 {
+"channel":"beinSports.us",
+"id":"beinSports.us",
+"name":"BEIN SPORTS US",
+"categories":["SPORTS"],
+"url":"https://fl2.moveonjoy.com/BEIN_SPORTS/manifest.mpd",
+"logo":"https://prod-media.beinsports.com/image/498f84ba449942229231dcfbbee14ea1.png",
+"country":"US"
+},
+{
+"channel":"beinXtra.en",
+"id":"beinXtra.en",
+"name":"BEIN SPORTS XTRA EN",
+"categories":["SPORTS"],
+"url":"https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
+"logo":"https://prod-media.beinsports.com/image/f51ff5e82c61a9c21b95a001fdc6c241.png",
+"country":"EN"
+},
+{
+"channel":"beinXtra.es",
+"id":"beinXtra.en",
+"name":"BEIN SPORTS XTRA ES",
+"categories":["SPORTS"],
+"url":"",
+"logo":"https://prod-media.beinsports.com/image/5ffc1e310fee3b18af752d09df335833.png",
+"country":"ES"
+},
+{
+"channel":"cbsSN.us",
+"id":"cbsSN.us",
+"name":"CBS SPORTS NETWORK",
+"categories":["SPORTS"],
+"url":"https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/manifest.mpd",
+"logo":"https://i.imgur.com/LgboQOj.png",
+"country":"US"
+},
+{
+"channel":"fuboSportNetW.us",
+"id":"fuboSportNetW.us",
+"name":"FUBO SPORTS NETWORK",
+"categories":["SPORTS"],
+"url":"",
+"logo":"https://cdn.tvpassport.com/image/station/240x135/v2/s106100_h15_ab.png",
+"country":"US"
+},
+{
+"channel":"espnU.us",
+"id":"espnU.us",
+"name":"ESPN U",
+"categories":["SPORTS"],
+"url":"https://fl5.moveonjoy.com/ESPN_U/manifest.mpd",
+"logo":"https://cdn.tvpassport.com/image/station/240x135/v2/s60696_h15_aa.png",
+"country":"US"
+},
+{
 "channel":"astroSS1.my",
 "id":"astroSS1.my",
 "name":"ASTRO SUPERSPORT",
 "categories":["SPORTS"],
-"url":"https://z88.ubtvfans.com/live/rx3/1070/90137f7ca0ed1d688f6934fa8902470e/index.m3u8",
+"url":"",
 "logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",
 "country":"MY"
 }, 
@@ -330,7 +330,7 @@
 "id":"astroSS2.my",
 "name":"ASTRO SUPERSPORT 2",
 "categories":["SPORTS"],
-"url":"https://z88.ubtvfans.com/live/rx3/1071/527059a87b2370d45c84f2fef52fee86/index.m3u8",
+"url":"",
 "logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",
 "country":"MY"
 }, 
@@ -339,7 +339,7 @@
 "id":"astroSS3.my",
 "name":"ASTRO SUPERSPORT 3",
 "categories":["SPORTS"],
-"url":"https://z88.ubtvfans.com/live/rx3/1072/7474fba0528bb422755469c4f86f01a6/index.m3u8",
+"url":"",
 "logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",
 "country":"MY"
 },
@@ -348,7 +348,7 @@
 "id":"astroSS4.my",
 "name":"ASTRO SUPERSPORT 4",
 "categories":["SPORTS"],
-"url":"https://z88.ubtvfans.com/live/rx3/3234/b404efcbeb9664e9a51e1bcd8c9cb38d/index.m3u8",
+"url":"",
 "logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",
 "country":"MY"
 },
@@ -357,7 +357,7 @@
 "id":"premierSp1.uk",
 "name":"PREMIER SPORTS 1",
 "categories":["SPORTS"],
-"url":"https://z88.ubtvfans.com/live/rx3/1411/4b78abaf099387692e64729a2d986b2d/index.m3u8",
+"url":"",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/Premier_Sports.png",
 "country":"UK"
 },
@@ -366,7 +366,7 @@
 "id":"SkySPL.uk",
 "name":"SKYSPORTS PREMIER LEAGUE",
 "categories":["SPORTS"],
-"url":"https://z88.ubtvfans.com/live/rx3/2783/613c7ae134611cf33182514678f68c45/index.m3u8",
+"url":"",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/7e2lv21502554825.png",
 "country":"UK"
 }, 
@@ -375,7 +375,7 @@
 "id":"SkySME.uk",
 "name":"SKYSPORTS MAIN EVENT",
 "categories":["SPORTS"],
-"url":"https://z88.ubtvfans.com/live/rx3/2787/d8f0df57f91f8569e15a461734480ce0/index.m3u8",
+"url":"",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/mp44981502554837.png",
 "country":"UK"
 }, 
@@ -384,7 +384,7 @@
 "id":"SkySUno.it",
 "name":"SKYSPORTS UNO",
 "categories":["SPORTS"],
-"url":"https://z88.ubtvfans.com/live/rx3/1597/11dcdedbafa00fb1194c1c4ae4b75d0e/index.m3u8",
+"url":"",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/Sky_Sport_Uno.png",
 "country":"IT"
 },
@@ -393,7 +393,7 @@
 "id":"skysp0rtsCC.it",
 "name":"SKYSPORTS CALCIO",
 "categories":["SPORTS"],
-"url":"https://z88.ubtvfans.com/live/rx3/2737/ba1c10f06eb4d629ad493279db03ae57/index.m3u8",
+"url":"",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/tiny/70ud6o1656963115.png",
 "country":"IT"
 },
@@ -522,51 +522,6 @@
 "url":"https://www.livedoomovies.com:4432/02_2sporthd7_720p/chunklist.m3u8",
 "logo":"https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
 "country":"TH"
-},
-{
-"channel":"skySport.Kr",
-"id":"skySport.Kr",
-"name":"SKYSPORTS",
-"categories":["SPORTS"],
-"url":"https://z88.ubtvfans.com/live/rx3/2352/b171978e7b8f035e22f3b66a5277fa40/index.m3u8",
-"logo":"https://i.namu.wiki/i/oQOlX2mPOBE-a1B9lnn7f9OnQOlE5P0253dJq_pwpH3mStV73pjc-LhJHhEv_uXWsypY4V8SHuOKdTuURC5LC6fUgHmWor1EIW2ITP71u5tmBSdxLhXMjkW_vLr_1RAqLRY2AMuM_Ial35NS251rqGouZhHK7AWs03sK_zyN-OM.svg",
-"country":"KR"
-},
-{
-"channel":"sbsSport.Kr",
-"id":"sbsSport.Kr",
-"name":"SBS SPORTS",
-"categories":["SPORTS"],
-"url":"https://z88.ubtvfans.com/live/rx3/2354/6555f7be5acc837c1d54ce718f7ba0fc/index.m3u8",
-"logo":"https://i.namu.wiki/i/oQOlX2mPOBE-a1B9lnn7f989xG1qEwMQDlcargYx5HlTzdKWzZ2dfo8Uf2hNUKgS-yPgD0cnLu9yCoFqvweaXUv1W-91d6NH52TYzPYY13DonjsnOzrdqRGkxj16fzlQiqZi1BUw7onIITF_rlfsBr67HfvMyxDWQoGJObmbJwE.svg",
-"country":"KR"
-},
-{
-"channel":"mbcSport.Kr",
-"id":"mbcSport.Kr",
-"name":"MBC SPORTS",
-"categories":["SPORTS"],
-"url":"https://z88.ubtvfans.com/live/rx2/3174/bf6c378d2a26a26b066571089ffff070/index.m3u8",
-"logo":"https://i.namu.wiki/i/oQOlX2mPOBE-a1B9lnn7f3T80yLoR6OrTcPoT8_Woi9IhCfd088HyZYbKqY-_yKUtHsawAbc1LwgqJReRA7k460QDHTvxvUb_UzS-NlQu2-ad8bBl43IKx8Y5tVmuCSeOAlXwjfoHEGpI3MeLfJzHOPLa4kjLVPVbmoVx8bNBVs.svg",
-"country":"KR"
-},
-{
-"channel":"kbsnSport.Kr",
-"id":"kbsnSport.Kr",
-"name":"KBS N SPORTS",
-"categories":["SPORTS"],
-"url":"https://z88.ubtvfans.com/live/rx2/174/f021cba099403644d620723c5f4c46f1/index.m3u8",
-"logo":"https://i.namu.wiki/i/oQOlX2mPOBE-a1B9lnn7f-mcCb8Vn2hVsMOoV1OMbdKevg8SU7QjwT1oFL66SQqB-yeFJI41pXLA0gwLDZ7Ko8_Dl4kvY36yqt_7JJYoXICQFNpF6Duf7KsJ2kuzJYQ41LEiaE9vwEVN7hlVDj55DwBRZeAcD3y9Mbi0QZimMiU.svg",
-"country":"KR"
-},
-{
-"channel":"tvnSport.Kr",
-"id":"tvnSport.Kr",
-"name":"TVN SPORTS",
-"categories":["SPORTS"],
-"url":"https://z88.ubtvfans.com/live/rx3/2931/b5f5636d01d91997de849d87e530f67f/index.m3u8",
-"logo":"https://i.namu.wiki/i/oQOlX2mPOBE-a1B9lnn7f3_QbMpImPItr-rJ78-Z_d5JaqjaIvJ1RYyDDqr4daVCalGZ4qYnViSAyg6gE__flJEaDQ3U4_hnlDPReY_Cdt1KOyD0GR0VX-iGffxcANd1X_QZVi_vwPIF6zMh8As2LNam7QYukPPWuKaRINiOETc.svg",
-"country":"KR"
 },
 {
 "channel":"SpotvKr",
