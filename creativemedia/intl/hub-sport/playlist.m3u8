@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.120000,
+http://185.235.165.43/play/live.php?mac=00:1A:79:0d:07:eb&stream=1032529_0&extension=ts
+#EXTINF:10.000000,
+http://185.235.165.43/play/live.php?mac=00:1A:79:0d:07:eb&stream=1032529_1&extension=ts
+#EXTINF:10.000000,
+http://185.235.165.43/play/live.php?mac=00:1A:79:0d:07:eb&stream=1032529_2&extension=ts
