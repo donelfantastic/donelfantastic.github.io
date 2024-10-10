@@ -4,7 +4,7 @@
 "id":"liveEvents.id",
 "name":"BAHRAIN 🇧🇭 vs 🇮🇩 INDONESIA",
 "categories":["SPORTS"],
-"url":"",
+"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
 "logo":"https://img2.sport-tv-guide.live/images/leagues/league2032.png",
 "country":"ID"
 },
@@ -13,7 +13,7 @@
 "id":"liveEvents2.id",
 "name":"BAHRAIN 🇧🇭 vs 🇮🇩 INDONESIA",
 "categories":["SPORTS"],
-"url":"",
+"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/rcti-sportstar2\/sa_hls\/rcti-sportstar2.m3u8",
 "logo":"https://img2.sport-tv-guide.live/images/leagues/league2032.png",
 "country":"ID"
 },
@@ -22,7 +22,7 @@
 "id":"liveEvents3.id",
 "name":"BAHRAIN 🇧🇭 vs 🇮🇩 INDONESIA",
 "categories":["SPORTS"],
-"url":"",
+"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/rcti-2\/sa_hls\/rcti-2.m3u8",
 "logo":"https://img2.sport-tv-guide.live/images/leagues/league2032.png",
 "country":"ID"
 },
@@ -31,7 +31,7 @@
 "id":"liveEvents.id",
 "name":"BAHRAIN 🇧🇭 vs 🇮🇩 INDONESIA",
 "categories":["SPORTS"],
-"url":"",
+"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/GTV-2\/sa_hls\/GTV-2.m3u8",
 "logo":"https://img2.sport-tv-guide.live/images/leagues/league2032.png",
 "country":"ID"
 },
@@ -40,7 +40,7 @@
 "id":"liveEvents4.id",
 "name":"BAHRAIN 🇧🇭 vs 🇮🇩 INDONESIA",
 "categories":["SPORTS"],
-"url":"",
+"url":"https:\/\/5c7b683162943.streamlock.net\/live\/ngrp:sportsone_all\/playlist.m3u8",
 "logo":"https://img2.sport-tv-guide.live/images/leagues/league2032.png",
 "country":"ID"
 }, 
@@ -429,7 +429,7 @@
 "id":"SkySME.uk",
 "name":"SKYSPORTS MAIN EVENT",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/skysports-main-event/index.m3u8,
+"url":"https://donelfantastic.github.io/webiptv/web/skysports-main-event/index.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/mp44981502554837.png",
 "country":"UK"
 },
@@ -438,7 +438,7 @@
 "id":"SkySFB.uk",
 "name":"SKYSPORTS FOOTBALL",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/skysports-football/index.m3u8,
+"url":"https://donelfantastic.github.io/webiptv/web/skysports-football/index.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/mp44981502554837.png",
 "country":"UK"
 }, 
