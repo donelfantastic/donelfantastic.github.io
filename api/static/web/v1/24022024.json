@@ -321,7 +321,7 @@
 "id":"astroSS1.my",
 "name":"ASTRO SUPERSPORT",
 "categories":["SPORTS"],
-"url":"",
+"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports/index.m3u8",
 "logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",
 "country":"MY"
 }, 
@@ -330,7 +330,7 @@
 "id":"astroSS2.my",
 "name":"ASTRO SUPERSPORT 2",
 "categories":["SPORTS"],
-"url":"",
+"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports2/index.m3u8",
 "logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",
 "country":"MY"
 }, 
@@ -339,7 +339,7 @@
 "id":"astroSS3.my",
 "name":"ASTRO SUPERSPORT 3",
 "categories":["SPORTS"],
-"url":"",
+"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports3/index.m3u8",
 "logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",
 "country":"MY"
 },
@@ -348,7 +348,7 @@
 "id":"astroSS4.my",
 "name":"ASTRO SUPERSPORT 4",
 "categories":["SPORTS"],
-"url":"",
+"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports4/index.m3u8",
 "logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",
 "country":"MY"
 },
@@ -357,7 +357,16 @@
 "id":"premierSp1.uk",
 "name":"PREMIER SPORTS 1",
 "categories":["SPORTS"],
-"url":"",
+"url":"https://donelfantastic.github.io/webiptv/web/premier-sports/index.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/Premier_Sports.png",
+"country":"UK"
+},
+{
+"channel":"premierSp2.uk",
+"id":"premierSp2.uk",
+"name":"PREMIER SPORTS 2",
+"categories":["SPORTS"],
+"url":"https://donelfantastic.github.io/webiptv/web/premier-sports2/index.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/Premier_Sports.png",
 "country":"UK"
 },
@@ -375,7 +384,7 @@
 "id":"SkySME.uk",
 "name":"SKYSPORTS MAIN EVENT",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/skysports-main-event/index.m3u8.m3u8",
+"url":"https://donelfantastic.github.io/webiptv/web/skysports-main-event/index.m3u8,
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/mp44981502554837.png",
 "country":"UK"
 }, 
@@ -384,7 +393,7 @@
 "id":"SkySUno.it",
 "name":"SKYSPORTS UNO",
 "categories":["SPORTS"],
-"url":"",
+"url":"https://donelfantastic.github.io/webiptv/web/skysports-top-event/index.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/Sky_Sport_Uno.png",
 "country":"IT"
 },
@@ -393,7 +402,7 @@
 "id":"skysp0rtsCC.it",
 "name":"SKYSPORTS CALCIO",
 "categories":["SPORTS"],
-"url":"",
+"url":"https://donelfantastic.github.io/webiptv/web/skysports-calcio/index.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/tiny/70ud6o1656963115.png",
 "country":"IT"
 },
