@@ -6,7 +6,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd",
+"url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/ANTV\/mpd\/ANTV.mpd",
 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png",
 "country": "ID"
 },
@@ -17,7 +17,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd",
+"url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/SCTVHD\/mpd\/SCTVHD.mpd",
 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png",
 "country": "ID"
 },
@@ -28,7 +28,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd",
+"url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/IndosiarHD\/mpd\/IndosiarHD.mpd",
 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1500px-INDOSIAR_Logo.png",
 "country": "ID"
 },
@@ -39,7 +39,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd",
+"url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/MOJIOChannel\/mpd\/MOJIOChannel.mpd",
 "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/moji-id.svg",
 "country": "ID"
 },  
@@ -50,7 +50,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https://donelfantastic.github.io:443/creativemedia/local/mnctv/index.m3u8",
+"url": "https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/MNCTV-HD\/sa_dash_vmx\/MNCTV-HD.mpd",
 "logo": "https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png",
 "country": "ID"
 },
@@ -72,7 +72,7 @@
 "categories": [
 "Local Tv"
 ],
-"url": "https://donelfantastic.github.io:443/creativemedia/local/rcti/index.m3u8",
+"url": "https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/RCTI-DD\/sa_dash_vmx\/RCTI-DD.mpd",
 "logo": "https://static.wikia.nocookie.net/logo-tv/images/d/d1/RCTI_%282015_Slogan%29.png",
 "country": "ID"
 },
