@@ -1,23 +1,5 @@
 [
 {
-"channel":"liveEvents.id",
-"id":"liveEvents.id",
-"name":"BAHRAIN 🇧🇭 vs 🇮🇩 INDONESIA",
-"categories":["SPORTS"],
-"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
-"logo":"https://asset-2.tstatic.net/pontianak/foto/bank/images/jadwal-Babak-3-Kualifikasi-Piala-Dunia-2026.jpg",
-"country":"ID"
-},
-{
-"channel":"liveEvents2.id",
-"id":"liveEvents2.id",
-"name":"BAHRAIN 🇧🇭 vs 🇮🇩 INDONESIA",
-"categories":["SPORTS"],
-"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/rcti-sportstar2\/sa_hls\/rcti-sportstar2.m3u8",
-"logo":"https://asset-2.tstatic.net/pontianak/foto/bank/images/jadwal-Babak-3-Kualifikasi-Piala-Dunia-2026.jpg",
-"country":"ID"
-},
-{
 "channel":"MuTV",
 "id":"MuTV",
 "name":"MUTV",
