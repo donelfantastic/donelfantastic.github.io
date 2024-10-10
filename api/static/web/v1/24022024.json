@@ -18,33 +18,6 @@
 "country":"ID"
 },
 {
-"channel":"liveEvents3.id",
-"id":"liveEvents3.id",
-"name":"BAHRAIN 🇧🇭 vs 🇮🇩 INDONESIA",
-"categories":["SPORTS"],
-"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/rcti-2\/sa_hls\/rcti-2.m3u8",
-"logo":"https://asset-2.tstatic.net/pontianak/foto/bank/images/jadwal-Babak-3-Kualifikasi-Piala-Dunia-2026.jpg",
-"country":"ID"
-},
-{
-"channel":"liveEvents.id",
-"id":"liveEvents.id",
-"name":"BAHRAIN 🇧🇭 vs 🇮🇩 INDONESIA",
-"categories":["SPORTS"],
-"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/GTV-HD\/sa_dash_vmx\/GTV-HD.mpd",
-"logo":"https://asset-2.tstatic.net/pontianak/foto/bank/images/jadwal-Babak-3-Kualifikasi-Piala-Dunia-2026.jpg",
-"country":"ID"
-},
-{
-"channel":"liveEvents4.id",
-"id":"liveEvents4.id",
-"name":"BAHRAIN 🇧🇭 vs 🇮🇩 INDONESIA",
-"categories":["SPORTS"],
-"url":"https:\/\/5c7b683162943.streamlock.net\/live\/ngrp:sportsone_all\/playlist.m3u8",
-"logo":"https://asset-2.tstatic.net/pontianak/foto/bank/images/jadwal-Babak-3-Kualifikasi-Piala-Dunia-2026.jpg",
-"country":"ID"
-}, 
-{
 "channel":"MuTV",
 "id":"MuTV",
 "name":"MUTV",
