@@ -7,7 +7,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/ANTV\/mpd\/ANTV.mpd",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",
 "country": "ID"
 },
 {
@@ -18,7 +18,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/SCTVHD\/mpd\/SCTVHD.mpd",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png",
+"logo": "https://i.imgur.com/EMmOvnQ.png",
 "country": "ID"
 },
 {
@@ -29,7 +29,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/IndosiarHD\/mpd\/IndosiarHD.mpd",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1500px-INDOSIAR_Logo.png",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png",
 "country": "ID"
 },
 {
@@ -40,7 +40,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/MOJIOChannel\/mpd\/MOJIOChannel.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/moji-id.svg",
+"logo": "https://i.imgur.com/mM9zapJ.png",
 "country": "ID"
 },  
 {
@@ -51,18 +51,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/MNCTV-HD\/sa_dash_vmx\/MNCTV-HD.mpd",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png",
-"country": "ID"
-},
-{
-"channel": "PemersatuBangsa",
-"id": "PemersatuBangsa",
-"name": "TVRI",
-"categories": [
-"Local Tv"
-],
-"url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png",
+"logo": "https://i.imgur.com/SK8pjQy.png",
 "country": "ID"
 },
 {
@@ -73,7 +62,18 @@
 "Local Tv"
 ],
 "url": "https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/RCTI-DD\/sa_dash_vmx\/RCTI-DD.mpd",
-"logo": "https://static.wikia.nocookie.net/logo-tv/images/d/d1/RCTI_%282015_Slogan%29.png",
+"logo": "https://i.imgur.com/iLFx8ia.png",
+"country": "ID"
+},
+{
+"channel": "GTV-HD",
+"id": "GTV-HD",
+"name": "GTV",
+"categories": [
+"Local Tv"
+],
+"url": "https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/GTV-HD\/sa_dash_vmx\/GTV-HD.mpd",
+"logo": "https://i.imgur.com/jjuKnYs.png",
 "country": "ID"
 },
 {
@@ -99,6 +99,17 @@
 "country": "ID"
 },
 {
+"channel": "PemersatuBangsa",
+"id": "PemersatuBangsa",
+"name": "TVRI",
+"categories": [
+"Local Tv"
+],
+"url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png",
+"country": "ID"
+},
+{
 "channel": "JakTV",
 "id": "JakTV",
 "name": "JakTV",
@@ -117,7 +128,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/op-group1-swiftservehd-1.dens.tv\/h/h234\/index.m3u8",
-"logo": "https://jagoanspanduk.com/wp-content/uploads/2018/05/20180424011328KOMPAS_TV_2017.png",
+"logo": "https://i.imgur.com/bD6UHeZ.png",
 "country": "ID"
 },
 {
@@ -150,7 +161,7 @@
 "Local Tv"
 ],
 "url": "https:\/\/op-group1-swiftservehd-1.dens.tv\/h\/h223\/index.m3u8",
-"logo": "https://assets.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png",
+"logo": "https://i.imgur.com/RPT8O12.png",
 "country": "ID"
 },
 {
