@@ -1,5 +1,50 @@
 [
 {
+"channel":"liveEvents.id",
+"id":"liveEvents.id",
+"name":"BAHRAIN 🇧🇭 vs 🇮🇩 INDONESIA",
+"categories":["SPORTS"],
+"url":"",
+"logo":"https://img2.sport-tv-guide.live/images/leagues/league2032.png",
+"country":"ID"
+},
+{
+"channel":"liveEvents2.id",
+"id":"liveEvents2.id",
+"name":"BAHRAIN 🇧🇭 vs 🇮🇩 INDONESIA",
+"categories":["SPORTS"],
+"url":"",
+"logo":"https://img2.sport-tv-guide.live/images/leagues/league2032.png",
+"country":"ID"
+},
+{
+"channel":"liveEvents3.id",
+"id":"liveEvents3.id",
+"name":"BAHRAIN 🇧🇭 vs 🇮🇩 INDONESIA",
+"categories":["SPORTS"],
+"url":"",
+"logo":"https://img2.sport-tv-guide.live/images/leagues/league2032.png",
+"country":"ID"
+},
+{
+"channel":"liveEvents.id",
+"id":"liveEvents.id",
+"name":"BAHRAIN 🇧🇭 vs 🇮🇩 INDONESIA",
+"categories":["SPORTS"],
+"url":"",
+"logo":"https://img2.sport-tv-guide.live/images/leagues/league2032.png",
+"country":"ID"
+},
+{
+"channel":"liveEvents4.id",
+"id":"liveEvents4.id",
+"name":"BAHRAIN 🇧🇭 vs 🇮🇩 INDONESIA",
+"categories":["SPORTS"],
+"url":"",
+"logo":"https://img2.sport-tv-guide.live/images/leagues/league2032.png",
+"country":"ID"
+}, 
+{
 "channel":"MuTV",
 "id":"MuTV",
 "name":"MUTV",
