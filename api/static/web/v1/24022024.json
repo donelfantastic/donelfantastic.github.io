@@ -524,6 +524,114 @@
 "country":"TH"
 },
 {
+"channel":"beinSport.id",
+"id":"beinSport.id",
+"name":"BEINSPORTS ID",
+"categories":["SPORTS"],
+"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/BEIN01\/sa_dash_vmx\/BEIN01.mpd",
+"logo":"https://www.visionplus.id/images/repository/771/198771-LOGO-m.png",
+"country":"ID"
+},
+{
+"channel":"beinSport2.id",
+"id":"beinSport2.id",
+"name":"BEINSPORTS 2 ID",
+"categories":["SPORTS"],
+"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/BEIN02\/sa_dash_vmx\/BEIN02.mpd",
+"logo":"https://www.visionplus.id/images/repository/772/198772-LOGO-m.png",
+"country":"ID"
+},
+{
+"channel":"beinSport3.id",
+"id":"beinSport3.id",
+"name":"BEINSPORTS 3 ID",
+"categories":["SPORTS"],
+"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/BEIN03\/sa_dash_vmx\/BEIN03.mpd",
+"logo":"https://www.visionplus.id/images/repository/770/198770-LOGO-m.png",
+"country":"ID"
+},
+{
+"channel":"beinSport4.id",
+"id":"beinSport4.id",
+"name":"BEINSPORTS 4 ID",
+"categories":["SPORTS"],
+"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/BEIN04\/sa_dash_vmx\/BEIN04.mpd",
+"logo":"https://www.visionplus.id/images/repository/897/198897-LOGO-m.png",
+"country":"ID"
+},
+{
+"channel":"beinSport5.id",
+"id":"beinSport5.id",
+"name":"BEINSPORTS 5 ID",
+"categories":["SPORTS"],
+"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/BEIN05\/sa_dash_vmx\/BEIN05.mpd",
+"logo":"https://www.visionplus.id/images/repository/898/198898-LOGO-m.png",
+"country":"ID"
+},
+{
+"channel":"sportStars.id",
+"id":"sportStars.id",
+"name":"SPORTSTARS ID",
+"categories":["SPORTS"],
+"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/MNCSports-HD\/sa_dash_vmx\/MNCSports-HD.mpd",
+"logo":"https://i.postimg.cc/ydthvytz/Sportstars.png",
+"country":"ID"
+},
+{
+"channel":"sportStars2.id",
+"id":"sportStars2.id",
+"name":"SPORTSTARS 2 ID",
+"categories":["SPORTS"],
+"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
+"logo":"https://i.postimg.cc/MHB74jJf/Sportstars-2.png",
+"country":"ID"
+},
+{
+"channel":"sportStars3.id",
+"id":"sportStars3.id",
+"name":"SPORTSTARS 3 ID",
+"categories":["SPORTS"],
+"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/Soccer-2\/sa_dash_vmx\/Soccer-2.mpd",
+"logo":"https://i.postimg.cc/664fTF46/Sportstars-3.png",
+"country":"ID"
+},
+{
+"channel":"sportStars4.id",
+"id":"sportStars4.id",
+"name":"SPORTSTARS 4 ID",
+"categories":["SPORTS"],
+"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/Sportstar4\/sa_dash_vmx\/Sportstar4.mpd",
+"logo":"https://i.postimg.cc/RVrQtGw7/Sportstars-4.png",
+"country":"ID"
+},
+{
+"channel":"soccerChannel.id",
+"id":"soccerChannel.id",
+"name":"SOCCER CHANNEL ID",
+"categories":["SPORTS"],
+"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/soccerchannel-test\/sa_dash_vmx\/soccerchannel-test.mpd",
+"logo":"https://i.imgur.com/wuduAXD.png",
+"country":"ID"
+},
+{
+"channel":"Spotv.id",
+"id":"Spotv.id",
+"name":"SPOTV ID",
+"categories":["SPORTS"],
+"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/SPOTV-HD\/sa_dash_vmx\/SPOTV-HD.mpd",
+"logo":"https://i.imgur.com/HaoVsm5.png",
+"country":"ID"
+},
+{
+"channel":"Spotv2.id",
+"id":"Spotv2.id",
+"name":"SPOTV 2 ID",
+"categories":["SPORTS"],
+"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/SPOTV2-HD.mpd\/sa_dash_vmx\/SPOTV-HD2.mpd",
+"logo":"https://i.imgur.com/YD8fbTH.png",
+"country":"ID"
+}, 
+{
 "channel":"SpotvKr",
 "id":"SpotvKr",
 "name":"SPOTV",
