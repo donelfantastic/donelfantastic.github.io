@@ -330,7 +330,7 @@
 "id":"astroSS2.my",
 "name":"ASTRO SUPERSPORT 2",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports2/index.m3u8",
+"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports2/playlist.m3u8",
 "logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",
 "country":"MY"
 }, 
@@ -339,7 +339,7 @@
 "id":"astroSS3.my",
 "name":"ASTRO SUPERSPORT 3",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports3/index.m3u8",
+"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports3/playlist.m3u8",
 "logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",
 "country":"MY"
 },
@@ -348,7 +348,7 @@
 "id":"astroSS4.my",
 "name":"ASTRO SUPERSPORT 4",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports4/index.m3u8",
+"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports4/playlist.m3u8",
 "logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",
 "country":"MY"
 },
@@ -357,7 +357,7 @@
 "id":"premierSp1.uk",
 "name":"PREMIER SPORTS 1",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/premier-sports/index.m3u8",
+"url":"https://donelfantastic.github.io/webiptv/web/premier-sports/playlist.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/Premier_Sports.png",
 "country":"UK"
 },
@@ -366,7 +366,7 @@
 "id":"premierSp2.uk",
 "name":"PREMIER SPORTS 2",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/premier-sports2/index.m3u8",
+"url":"https://donelfantastic.github.io/webiptv/web/premier-sports2/playlist.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/frtowu1600893109.png",
 "country":"UK"
 },
@@ -420,7 +420,7 @@
 "id":"sportsDF.de",
 "name":"SPORTDIGITAL FUSSBALL",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/sportdigital-fussball/index.m3u8",
+"url":"https://donelfantastic.github.io/webiptv/web/sportdigital-fussball/playlist.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/m6qkm51712223494.png",
 "country":"DE"
 },
