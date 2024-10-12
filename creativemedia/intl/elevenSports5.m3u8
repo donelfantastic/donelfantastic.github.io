@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1920x1080,FRAME-RATE=30.000,CODECS="avc1.64002a,mp4a.40.2",AVERAGE-BANDWIDTH=2710000,BANDWIDTH=3380000
-http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=69012&extension=m3u8
-#http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=69012&extension=m3u8&play_token=TQ6cftyhX8
