@@ -242,7 +242,7 @@ close_btn.addEventListener("click", () => {
 
 //TVJSON JS
 window.addEventListener("load", function () {
-  var cukuRukuk = "//donelfantastic.github.io/api/localidn.json";
+  var cukuRukuk = "//donelfantastic.github.io/webiptv/api/static/web/v2/db-02.json";
   var o = $("#display-number");
   var p = $("#display-resources");
   p.html(
