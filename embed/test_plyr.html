@@ -54,22 +54,24 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/2.4.0/shaka-player.compiled.js"></script>
 <script>
   document.addEventListener("DOMContentLoaded", () => {
-    const source ="https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd";
+ //   const source ="";
     const video = document.querySelector("#donelfantastic");
+    var currentLocation = window.location.search;
+    var QWERTYUIOP123 = currentLocation.replace("?live&url=", "");
     const player = new Plyr(video);
     window.player = player;
     if (shaka.Player.isBrowserSupported()) {
       // Install built-in polyfills
       shaka.polyfill.installAll();
       const shakaInstance = new shaka.Player(video);
-      shakaInstance.configure({
-        drm: {
-          clearKeys: {
-            "002046c9a49b9ab1cdb6616bec5d26c3":"d2f92f6b7edc9a1a05d393ba0c20ef9e"
-          }
-        }
-      });
-      shakaInstance.load(source);
+    //  shakaInstance.configure({
+    //    drm: {
+    //      clearKeys: {
+    //        "":""
+    //      }
+    //    }
+    //  });
+      shakaInstance.load(QWERTYUIOP123);
     } else {
       console.warn("Browser is not supported!");
     }
