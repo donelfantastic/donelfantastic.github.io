@@ -58,21 +58,21 @@
           const controls = ui.getControls();
           const player = controls.getPlayer();
           //var linkSource ='';
-          //var proxy ='https://au.4everproxy.com/direct/';
-          //var linkSource = proxy + atob('aHR0cHM6Ly9ldmVyeW9yaWdpbi5kZW5vLmRldi8/dXJsPWh0dHBzOi8vbGluZWFyLmF3cy5vcHR1c3ZpZGVvLnR2L3Y3L09wdHVzU3BvcnQxL3hidHNzL2RybS9hdmMvZGFzaC9wbGFpbi9tYW5pZmVzdC5tcGQ='); 
-          player.configure({
-                drm: {
-                  clearKeys: {
+          var currentLocation = window.location.search;
+          var QWERTYUIOP123 = currentLocation.replace("?live&url=", "");
+         // player.configure({
+         //       drm: {
+         //         clearKeys: {
                     //'key-id-in-hex':'key-in-hex'
-                    '002046c9a49b9ab1cdb6616bec5d26c3':'d2f92f6b7edc9a1a05d393ba0c20ef9e' 
-                  } 
-                } 
-          }); 
+         //           '':'' 
+         //         } 
+         //       } 
+         //  }); 
                     window.player = player;window.ui = ui;
                     player.addEventListener('error', onPlayerErrorEvent);
                     controls.addEventListener('error', onUIErrorEvent);
                     try {
-                      await player.load('https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd');
+                      await player.load(QWERTYUIOP123);
                       console.log('The video has now been loaded!');
                     } catch (error) {
                       onPlayerError(error);
