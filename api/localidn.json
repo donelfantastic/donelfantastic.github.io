@@ -1,244 +1,29 @@
 [
 {
-"channel": "ANTV",
-"id": "ANTV",
-"name": "ANTV",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/ANTV\/mpd\/ANTV.mpd",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",
-"country": "ID"
-},
-{
-"channel": "Sctv",
-"id": "Sctv",
-"name": "SCTV",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/SCTVHD\/mpd\/SCTVHD.mpd",
-"logo": "https://i.imgur.com/EMmOvnQ.png",
-"country": "ID"
-},
-{
-"channel": "Indosiar",
-"id": "Indosiar",
-"name": "Indosiar",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/IndosiarHD\/mpd\/IndosiarHD.mpd",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png",
-"country": "ID"
-},
-{
-"channel": "Moji",
-"id": "Moji",
-"name": "Moji",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/MOJIOChannel\/mpd\/MOJIOChannel.mpd",
-"logo": "https://i.imgur.com/mM9zapJ.png",
-"country": "ID"
-},  
-{
-"channel": "MNCTV-HD",
-"id": "MNCTV-HD",
-"name": "MNCTV",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/MNCTV-HD\/sa_dash_vmx\/MNCTV-HD.mpd",
-"logo": "https://i.imgur.com/SK8pjQy.png",
-"country": "ID"
-},
-{
-"channel": "RCTI-DD",
-"id": "RCTI-DD",
-"name": "RCTI",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/RCTI-DD\/sa_dash_vmx\/RCTI-DD.mpd",
-"logo": "https://i.imgur.com/iLFx8ia.png",
-"country": "ID"
-},
-{
-"channel": "GTV-HD",
-"id": "GTV-HD",
-"name": "GTV",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/GTV-HD\/sa_dash_vmx\/GTV-HD.mpd",
-"logo": "https://i.imgur.com/jjuKnYs.png",
-"country": "ID"
-},
-{
-"channel": "Trans7-2",
-"id": "Trans7-2",
-"name": "Trans7",
-"categories": [
-"Local Tv"
-],
-"url": "https://donelfantastic.github.io/creativemedia/local/trans7ID.m3u8",
-"logo": "https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/300px-Trans_7_2013.svg.png",
-"country": "ID"
-},
-{
-"channel": "TransTV-2",
-"id": "TransTV-2",
-"name": "Trans TV",
-"categories": [
-"Local Tv"
-],
-"url": "https://donelfantastic.github.io/creativemedia/local/transtvID.m3u8",
-"logo": "https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png",
-"country": "ID"
-},
-{
-"channel": "PemersatuBangsa",
-"id": "PemersatuBangsa",
-"name": "TVRI",
-"categories": [
-"Local Tv"
-],
-"url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png",
-"country": "ID"
-},
-{
-"channel": "JakTV",
-"id": "JakTV",
-"name": "JakTV",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/op-group1-swiftservesd-1.dens.tv\/s\/s123\/index.m3u8",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/jj\/jak-tv-id.png",
-"country": "ID"
-},
-{
-"channel": "KompasTV",
-"id": "KompasTV",
-"name": "KompasTV",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/op-group1-swiftservehd-1.dens.tv\/h/h234\/index.m3u8",
-"logo": "https://i.imgur.com/bD6UHeZ.png",
-"country": "ID"
-},
-{
-"channel": "Metro-TV2",
-"id": "Metro-TV2",
-"name": "MetroTV",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/op-group1-swiftservehd-1.dens.tv\/h\/h211\/index.m3u8",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/mm\/metro_tv_id.png",
-"country": "ID"
-},
-{
-"channel": "TVOne",
-"id": "TVOne",
-"name": "TVOne",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/op-group1-swiftservehd-1.dens.tv\/h\/h224\/index.m3u8",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png",
-"country": "ID"
-},
-{
-"channel": "NetTV-HD",
-"id": "NetTV-HD",
-"name": "NetTV",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/op-group1-swiftservehd-1.dens.tv\/h\/h223\/index.m3u8",
-"logo": "https://i.imgur.com/RPT8O12.png",
-"country": "ID"
-},
-{
-"channel": "RTV",
-"id": "RTV",
-"name": "RTV",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/op-group1-swiftservehd-1.dens.tv\/h\/h225\/index.m3u8",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rajawali_Televisi_abu-abu.svg/1200px-Rajawali_Televisi_abu-abu.svg.png",
-"country": "ID"
-},  
-{
-"channel": "kPlus.kr",
-"id": "kPlus.kr",
-"name": "K Plus",
-"categories": [
-"Movies"
-],
-"url": "https:\/\/op-group1-swiftservehd-1.dens.tv\/h\/h08\/index.m3u8",
-"logo": "https:\/\/divign0fdw3sv.cloudfront.net\/Images\/ChannelLogo\/contenthub\/266_144.png",
-"country": "KR"
+"channel":"MuTV",
+"id":"MuTV",
+"name":"MUTV",
+"categories":["SPORTS"],
+"url":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/rpxxqy1433779967.png",
+"country":"UK"
 }, 
 {
-"channel": "nadoo.kr",
-"id": "nadoo.kr",
-"name": "Nadoo Korean",
-"categories": [
-"Movies"
-],
-"url": "https:\/\/op-group1-swiftservehd-1.dens.tv\/h\/h125\/live.m3u8",
-"logo": "https:\/\/picture.dens.tv\/wp\/img\/tvchannels_v1\/340x160\/1692691581_tvchannels_v1.jpg",
-"country": "KR"
+"channel":"RmTV.es",
+"id":"RmTV.es",
+"name":"RMTV ESP",
+"categories":["SPORTS"],
+"url":"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/xqwpww1436887616.png",
+"country":"ES"
 }, 
 {
-"channel": "DAAITV",
-"id": "DAAITV",
-"name": "DAAITV",
-"categories": [
-"Local Tv"
-],
-"url": "https:\/\/op-group1-swiftservesd-1.dens.tv\/s\/s182\/index.m3u8",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",
-"country": "ID"
-},
-{
-"channel": "indonesiana.id",
-"id": "indonesiana.id",
-"name": "Indonesiana TV",
-"categories": [
-"Entertainment"
-],
-"url": "https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_2.m3u8",
-"logo": "https:\/\/indonesiana.tv\/_nuxt\/img\/logo-indonesianatv-fit.0d9697f.png",
-"country": "ID"
-},  
-{
-"channel": "AnimalPlanet",
-"id": "AnimalPlanet",
-"name": "Animal Planet",
-"categories": [
-"Knowledge"
-],
-"url": "https://donelfantastic.github.io/live/animalplanetID.m3u8",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/aa\/animal-planet-us.svg",
-"country": "US"
-},
-{
-"channel": "donelf.id",
-"id": "donelf.id",
-"name": "Ikatan Cinta Nella & Dory",
-"categories": [
-"VOD"
-],
-"url": "https:\/\/cf-vod-cdn.mncnow.id\/vod\/storage2\/kilau-konser-ikatan-cinta-nella-dory-2021-rev-clean-anv6-rev\/_\/sa_dash_vmx\/kilau-konser-ikatan-cinta-nella-dory-2021-rev-clean-anv6-rev.mpd",
-"logo": "https:\/\/static.mncnow.id\/images\/vod\/c0b01684/2670_r32.jpg",
-"country": "ID"
+"channel":"RmTV.en",
+"id":"RmTV.en",
+"name":"RMTV ENG",
+"categories":["SPORTS"],
+"url":"https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/xqwpww1436887616.png",
+"country":"EN"
 }
 ]
