@@ -27,9 +27,7 @@
     arguments[1] = url;
     return opens.apply(this, arguments);
   }
-  //var src = "https://cors.abc-akamaized.one/dash/live/2005218/dtv/dtvlatam_fox_sports_arg/master.mpd";
-  //https://feedback.googleusercontent.com/gadgets/proxy?container=blogger&url=https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_5_864000.m3u8
-  const container = document.getElementById('player');
+ 
   const playerConfig = {
     key: "11d3698c-efdf-42f1-8769-54663995de2b",
     cast: {
@@ -49,16 +47,17 @@
       }
     }
   };
-  //const BASE ='';
+  var currentLocation = window.location.search;
+  var QWERTYUIOP123 = currentLocation.replace("?live&url=", "");
   const source = {
-    dash: 'https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd',
-    poster: '',
-    drm: {
-      clearkey: [{
-        key: '002046c9a49b9ab1cdb6616bec5d26c3',
-        kid: 'd2f92f6b7edc9a1a05d393ba0c20ef9e'
-      }]
-    },
+    hls: QWERTYUIOP123
+//    poster: '',
+//    drm: {
+//      clearkey: [{
+//        key: '',
+//        kid: ''
+//      }]
+//    },
   };
   const player = new bitmovin.player.Player(container, playerConfig);
   player.load(source).then(
