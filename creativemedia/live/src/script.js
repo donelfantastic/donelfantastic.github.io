@@ -1,5 +1,5 @@
 var proxy = {
-    0: 'https://cors1.donelfantastic.workers.dev/',
+    0: '',
 };
 window.addEventListener("load", function () {
   var o = $("#display-number");
@@ -10,7 +10,7 @@ window.addEventListener("load", function () {
   
   $.ajax({
     type: "GET",
-    url: "https://donelfantastic.github.io/api/donelmusic.json",
+    url: "123.json",
     success: function (a) {
       var b = 0;
       var c =
