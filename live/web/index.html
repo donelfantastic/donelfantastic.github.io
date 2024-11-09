@@ -12,10 +12,10 @@
   <meta http-equiv="pragma" content="no-cache" />
   <meta name="referrer" content="no-referrer">
   <meta name="robots" content="noindex" />
-  <link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet" type="text/css" />
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" crossorigin="anonymous">
+  <link href="//fonts.googleapis.com/css?family=Dosis" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" crossorigin="anonymous">
   <script src="/cdn-cgi/apps/head/aqhzBqkyhgXFT9tYquvCBE2xpuY.js"></script>  
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <script async src="/cdn-cgi/challenge-platform/h/g/scripts/invisible.js?cb=6ebfddfd6fa3499c"></script>  
   <style>
     html {
@@ -38,15 +38,16 @@
       padding-bottom: 6rem;
       min-height: 100%;
       background: rgba(0, 0, 0);//44, 131,185,1
-      //background: linear-gradient(to right,
+  /*    background: linear-gradient(to right,
       //    rgba(44, 131, 185, 1) 0%,
       //    rgba(30, 171, 227, 1) 100%);
       //filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#2c83b9', endColorstr='#1eabe3', GradientType=1);
+    */
     }
 
     #banner {
       border-bottom: 1px solid #fff;
-      background-color: #1eabe3;
+      background-color: #000000; /*#1eabe3;*/
       width: 100%;
     }
 
@@ -201,7 +202,7 @@
   <div class="wrapper">
     <div id="banner">
       <center>
-        <div class="logo"><img src="https://yt3.googleusercontent.com/2pvmjo54veHM0j6SN4bqILonRwkIZUy6cXCCVhnqw_0xHUsLRME8zdUf_Koi8_atOidTL7yV=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"></img></div>
+        <div class="logo"><img src="//yt3.googleusercontent.com/2pvmjo54veHM0j6SN4bqILonRwkIZUy6cXCCVhnqw_0xHUsLRME8zdUf_Koi8_atOidTL7yV=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"></img></div>
       </center>
       <div class="title">
         <h1 class="bitmovin-headline"></h1>
@@ -316,13 +317,14 @@
     <p class="company-name">Donel Fantastic &copy; 2024, ALL Rights Reserved</p>
   </footer>
 </body>
-<script type="text/javascript" src="https://cdn.bitmovin.com/player/web/8.52.0/bitmovinplayer.js"></script>
+<script type="text/javascript" src="//cdn.bitmovin.com/player/web/8.52.0/bitmovinplayer.js"></script>
 <script type="text/javascript">
   var container = document.getElementById("my-player");
   var config = {
     key: "c6d7e091-e62e-4bda-819f-99bb13506fba",
     playback: {
-      muted: true,
+      muted: false,
+      preload: true, 
       autoplay: true,
       preferredTech: [{
           player: "html5",
@@ -352,8 +354,8 @@
 var sLive = "//manifest.googlevideo.com/api/manifest/hls_variant/expire/1731156424/ei/aAUvZ7bEMPGI6dsPsfeEqQ4/ip/154.47.16.88/id/d9LZ7X5QJNU.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51337701/txs/51337701%2C51337702%2C51337703%2C51337704/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51312688%2C51326932/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgTcLINdNAixc2CxZjuyyKwiI13vZj9elOoLY76VCMnHcCIB6N0l_ayJPdZo-u5jNpZBuuEmdMi-lbOZZqE4_INgsS/file/index.m3u8";
   var source = {
    //progressive:"//ythls-v3.onrender.com/channel/UCXG2TDm-8g-Yh8Q6I3GVeqg.m3u8",
-    progressive: sLive, 
-    poster:"https://raw.githubusercontent.com/donelfantastic/donelfantastic.github.io/main/assets/dftv.gif",   
+    progressive: sLive 
+    //poster:"//raw.githubusercontent.com/donelfantastic/donelfantastic.github.io/main/assets/dftv.gif",   
   };
   
   var player = new bitmovin.player.Player(container, config);
@@ -368,6 +370,7 @@ var sLive = "//manifest.googlevideo.com/api/manifest/hls_variant/expire/17311564
       console.log("Error while creating bitmovin player instance");
     }
   );
+<!-- 
 </script>
 <script type='text/javascript' src='https://encrypt2.skycdn.ga/udp/Counter'></script> 
                      <script type="text/javascript">
@@ -376,4 +379,5 @@ var sLive = "//manifest.googlevideo.com/api/manifest/hls_variant/expire/17311564
                              })();
                      </script>
                      <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"6ebfddfd6fa3499c","version":"2021.12.0","r":1,"token":"a919438182254588b33b5297605b9ab4","si":100}' crossorigin="anonymous"></script>
+  -->
 </html>
