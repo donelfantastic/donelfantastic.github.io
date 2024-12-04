@@ -281,8 +281,8 @@ window.addEventListener("load", function () {
         ) {
           b++;
 
-          var DoryHarsa = "https://donelfantastic.github.io/mn/embed/cloppr/?live&url=";
-          //var NellaKharisma = "https://donelfantastic.github.io:443/mn/embed/cloppr/?live&url=";
+          var DoryHarsa = "./mn/embed/cloppr/?live&url=";
+          //var NellaKharisma = "./mn/embed/cloppr/?live&url=";
           var deviceId = "deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj";   
           //output += "<tr><td><center><img width='64' src='" + a[i].logo + "'/></center></td><td>" + a[i].name + "</td><td style='display:none;'>" + d + "</td><td><center><a class='open-video' style='text-decoration:none;' href='" + Dory + a[i].url + "?" + deviceId + "'><img src='//donelfantastic.github.io/assets/watchnow3.png' style='width:48px;height:auto;'/></a></center></td></tr>";
           output += "<tr><td><center><img width='64' src='" + a[i].logo + "'/></center></td><td>" + a[i].name + "</td><td style='display:none;'>" + d + "</td><td><center><button class='btn'><a class='open-video' style='text-decoration:none;' href='" + DoryHarsa + a[i].url + "?" + deviceId + "'>WATCH NOW</a></button></center></td></tr>";
