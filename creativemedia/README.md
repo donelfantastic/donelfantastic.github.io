@@ -9,273 +9,273 @@
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins2prem.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins3prem.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" width="70"></a>
           </td>
         </tr>
         <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins1en.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins2en.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins3en.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" width="70"></a>
-          </td>
-        </tr>
-<tr>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins1fr.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" width="70"></a>
-          </td>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins2fr.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" width="70"></a>
-          </td>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins3fr.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" width="70"></a>
           </td>
         </tr>
 <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins1qa.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins2qa.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins3qa.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" width="70"></a>
+          </td>
+        </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" width="70"></a>
           </td>
         </tr>          
 <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins4qa.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins5qa.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins6qa.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" width="70"></a>
           </td>
         </tr>
 <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins7qa.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins1qaXTRA.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins2qaXTRA.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" width="70"></a>
           </td>
         </tr>          
 <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/astroSsport1.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/astroSsport2.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/astroSsport3.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" width="70"></a>
-          </td>
-        </tr>
-<tr>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/astroSsport4.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" width="70"></a>
-          </td>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/astroSsport5.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" width="70"></a>
-          </td>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/btsport1.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.svg" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" width="70"></a>
           </td>
         </tr>
 <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/btsport2.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.svg" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/btsport3.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.svg" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/btsportESPN.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/bb/bt-sport-4-uk.svg" width="70"></a>
-          </td>
-        </tr>
-<tr>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/skysportFball.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.svg" width="70"></a>
-          </td>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/skysportPleague.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg" width="70"></a>
-          </td>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/skysportMevent.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.svg" width="70"></a>
           </td>
         </tr>
 <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/dazn1es.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.svg" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/dazn2es.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://img2.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.svg" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/daznlaliga.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://img.sport-tv-guide.live/images/stations/a2784.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/bb/bt-sport-4-uk.svg" width="70"></a>
+          </td>
+        </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.svg" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg" width="70"></a>
+          </td>
+        </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img2.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.sport-tv-guide.live/images/stations/a2784.png" width="70"></a>
           </td>
         </tr> 
 <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/dazn1de.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://img2.sport-tv-guide.live/images/stations/a2703.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img2.sport-tv-guide.live/images/stations/a2703.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/dazn2de.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://img2.sport-tv-guide.live/images/stations/a2704.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img2.sport-tv-guide.live/images/stations/a2704.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/truePfootball1.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" width="70"></a>
-          </td>
-        </tr>
-<tr>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/truePfootball2.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" width="70"></a>
-          </td>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/truePfootball3.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-3-th.png" width="70"></a>
-          </td>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/elevenSports1.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" width="70"></a>
           </td>
         </tr>
 <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/elevenSports2.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/elevenSports3.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-3-th.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/elevenSports4.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-4-portugal-uk-pt.png" width="70"></a>
-          </td>
-        </tr>
-<tr>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/elevenSports5.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-5-portugal-uk-pt.png" width="70"></a>
-          </td>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/elevenSports6.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-6-portugal-uk-pt.png" width="70"></a>
-          </td>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/itv1uk.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ii/itv-1-uk.svg" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" width="70"></a>
           </td>
         </tr>
 <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/itv2uk.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ii/itv-2-uk.svg" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/itv3uk.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ii/itv-3-uk.svg" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/itvBeuk.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ii/itv-be-uk.svg" width="70"></a>
-          </td>
-        </tr>
-<tr>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/nowSports1.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/631-dbg-e.png" width="70"></a>
-          </td>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/nowSports2.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/632-dbg-e.png" width="70"></a>
-          </td>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/nowSports3.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/633-dbg-e.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-4-portugal-uk-pt.png" width="70"></a>
           </td>
         </tr>
 <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/nowSports4.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/634-dbg-e.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-5-portugal-uk-pt.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/nowSports5.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/635-dbg-e.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ee/eleven-sports-6-portugal-uk-pt.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/nowSports6.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/636-dbg-e.png" width="70"></a>
-          </td>
-        </tr>
-<tr>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/nowSports7.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/637-dbg-e.png" width="70"></a>
-          </td>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins1us.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://epg.beinsports.com/us_sports/Global.svg" width="70"></a>
-          </td>
-          <td style=
-          'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins1es.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://epg.beinsports.com/us_sports/Spanish.svg" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ii/itv-1-uk.svg" width="70"></a>
           </td>
         </tr>
 <tr>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins1th.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ii/itv-2-uk.svg" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
-            <a href="https://donelfantastic.github.io/creativemedia/intl/beins2th.m3u8" target="_blank" rel="noopener noreferrer"><img src="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png" width="70"></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ii/itv-3-uk.svg" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.lyngsat.com/logo/tv/ii/itv-be-uk.svg" width="70"></a>
+          </td>
+        </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/631-dbg-e.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/632-dbg-e.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/633-dbg-e.png" width="70"></a>
+          </td>
+        </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/634-dbg-e.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/635-dbg-e.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/636-dbg-e.png" width="70"></a>
+          </td>
+        </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://www.nowtv.now.com/media/logo/637-dbg-e.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://epg.beinsports.com/us_sports/Global.svg" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://epg.beinsports.com/us_sports/Spanish.svg" width="70"></a>
+          </td>
+        </tr>
+<tr>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png" width="70"></a>
+          </td>
+          <td style=
+          'text-align:center; vertical-align:middle; font-weight: bold'>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png" width="70"></a>
           </td>
           <td style=
           'text-align:center; vertical-align:middle; font-weight: bold'>
