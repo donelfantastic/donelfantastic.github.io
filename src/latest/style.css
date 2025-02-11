@@ -434,6 +434,12 @@ h5 {
   cursor: none;  
   }
 
+.freedom {
+  margin: 0;
+  padding: 0;
+  margin-left: 30px;
+}
+
 .df_title {
   /*background-color: #001f61;
   box-shadow: 0 16px 22px -17px #03153b;*/
