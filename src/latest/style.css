@@ -415,11 +415,14 @@ video {
   margin: 0;
   padding: 0;
   }
-
 #form-div2 {
 background-color:transparent;
 padding: 0px;
 margin: 0px;
+}
+.ypt_wrapper {
+  margin: 0;
+  padding: 0;
 }
 .container-fluid {
   margin: 0;
@@ -490,6 +493,9 @@ span {
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top:150px;
   overflow: hidden;
   max-width: 100%;
 }
