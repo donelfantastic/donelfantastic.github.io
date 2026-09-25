@@ -49,8 +49,9 @@ var $ul = $("#ytpl-thumbs");
   var nowPlayingClass = "." + nowPlaying;
 
   function getPlaylistData() {
-    var apiKey ="AIzaSyDI4rWo_wVAxRZEIgF6_8sRZDj8OCOZZ38";
-    var url ="https://www.googleapis.com/youtube/v3/playlistItems?part=snippet";
+    //var apiKey ="AIzaSyDI4rWo_wVAxRZEIgF6_8sRZDj8OCOZZ38";
+    var apiKey ="AIzaSyDP4jj5m879TbJlaP4HFdshQg8oFkJnJME";
+    var url ="https://www.goAIzaSyDP4jj5m879TbJlaP4HFdshQg8oFkJnJMEogleapis.com/youtube/v3/playlistItems?part=snippet";
     var data1 = {
       playlistId: playlist1, 
       key: apiKey,
